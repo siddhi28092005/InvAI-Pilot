@@ -1,0 +1,1365 @@
+/* Import Google Font - Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Basic setup */
+html, body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5; /* Light gray background for the overall app */
+    display: flex;
+    min-height: 100vh; /* Ensure full height */
+    color: #333; /* Corrected default text color for better readability on light background */
+}
+
+/* Overall app container */
+.app-container {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Inter', sans-serif; /* A more modern, clean font, common in UI/UX */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f8f9fa; /* Light background for the overall app */
+    min-height: 100vh; /* Ensure it takes full viewport height */
+    font-size: 0.9rem; /* Base font size, slightly smaller */
+}
+
+/* Sidebar Styling */
+.sidebar {
+    width: 250px; /* Adjust sidebar width for a slightly more compact look */
+    min-width: 250px;
+    background-color: #ffffff; /* White background */
+    padding: 1rem 0.5rem; /* Reduced padding */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05); /* Subtle shadow */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed; /* Changed to fixed for consistency with app.py */
+    top: 0;
+    left: 0; /* Ensure it's fixed to the left edge */
+    height: 100vh; /* Full height */
+    overflow-y: auto; /* Enable scrolling if content exceeds height */
+    z-index: 1000; /* Ensure sidebar is on top */
+}
+
+.sidebar-header {
+    text-align: center;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 1rem;
+}
+
+.sidebar-logo {
+    width: 60px; /* Slightly smaller logo */
+    height: auto;
+    margin-bottom: 0.5rem;
+}
+
+.sidebar-title {
+    font-size: 1.5rem; /* Smaller title */
+    font-weight: 700;
+    color: #333; /* Darker text */
+    margin-bottom: 0.2rem;
+}
+
+.sidebar-subtitle {
+    font-size: 0.75rem; /* Smaller subtitle */
+    color: #666;
+}
+
+.sidebar-nav {
+    flex-grow: 1; /* Allows nav to take available space */
+}
+
+.nav-link-item {
+    color: #333; /* Default text color for non-active links (dark grey/black) */
+    padding: 0.6rem 1rem; /* Adjust padding */
+    margin: 0.2rem 0;
+    border-radius: 5px;
+    transition: background-color 0.2s, color 0.2s;
+    font-size: 0.85rem; /* Smaller nav link font */
+    text-decoration: none; /* Ensure no underline */
+    display: flex; /* For icon alignment */
+    align-items: center; /* For icon alignment */
+}
+
+.nav-link-item:hover {
+    background-color: #e6f7f3; /* Very light green background on hover */
+    color: #1abc9c; /* Green text on hover */
+}
+
+/* Corrected: Dashboard active state - background green, text white (Point 1) */
+.nav-link-item.active {
+    background-color: #1abc9c !important; /* Set to theme green */
+    color: #ffffff !important; /* Ensure white text for contrast and consistency with target UI */
+    font-weight: 600;
+}
+
+.nav-link-item .bi {
+    font-size: 1rem; /* Icon size */
+    margin-right: 0.6rem; /* Space between icon and text */
+}
+
+.sidebar-footer {
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+    text-align: center;
+}
+
+.logout-link {
+    display: block;
+    color: #dc3545; /* Red for logout */
+    text-decoration: none;
+    font-size: 0.8rem; /* Smaller font */
+    margin-top: 0.5rem;
+}
+
+.logout-link:hover {
+    text-decoration: underline;
+}
+
+/* Main Content Area */
+.content-container {
+    padding: 1.5rem;
+    flex-grow: 1;
+    overflow-y: auto;
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    width: auto;
+}
+
+#page-content {
+    margin-left: 250px; /* Pushes the entire content area right, clearing the fixed sidebar */
+    flex-grow: 1; /* Makes it take up all remaining horizontal space */
+    overflow-y: auto; /* Adds vertical scrollbar if content overflows */
+    padding: 1.5rem; 
+    background-color: #f8f9fa; /* Background for the main content area */
+    min-height: 100vh; /* Ensures it takes full viewport height */
+    box-sizing: border-box; 
+}
+
+
+
+
+
+.dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 15px; /* Added padding to match other headers */
+    border-bottom: 1px solid #e0e0e0; /* Added border to match other headers */
+}
+
+.dashboard-header-title {
+    font-size: 1.8rem; /* Smaller heading */
+    color: #333; /* Darker text color */
+    font-weight: 700;
+}
+
+.user-avatar {
+    width: 40px; /* Smaller avatar */
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ccc;
+}
+
+/* Welcome Banner (As per previous correction: white background, black text, no overlay) */
+.welcome-banner {
+    background-size: cover;
+    background-position: center;
+    padding: 1.5rem; /* Reduced padding */
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    position: relative;
+    overflow: hidden;
+    background-color: #ffffff !important; /* Explicitly set to white */
+}
+
+.welcome-banner::before {
+    content: none;
+}
+
+.welcome-banner-text {
+    position: relative;
+    z-index: 2;
+    max-width: 40%; /* Adjust width of text container */
+}
+
+.welcome-banner-title {
+    font-size: 1.8rem; /* Smaller title */
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: #333 !important; /* Changed to black for readability on white background */
+}
+
+.welcome-banner-subtitle {
+    font-size: 0.9rem; /* Smaller subtitle */
+    margin-bottom: 1rem;
+    color: #555 !important; /* Changed to dark grey for readability on white background */
+}
+
+.welcome-banner-button {
+    background-color: #1abc9c; /* Corrected green color */
+    border-color: #1abc9c;
+    color: white;
+    padding: 0.5rem 1rem; /* Smaller button */
+    font-size: 0.85rem;
+    border-radius: 5px;
+}
+
+.welcome-banner-button:hover {
+    background-color: #16a085;
+    border-color: #16a085;
+}
+
+/* Section Titles */
+.section-title {
+    font-size: 1.3rem; /* Smaller section title */
+    color: #333; /* Darker text color */
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* Metric Cards */
+.metric-card {
+    padding: 1rem; /* Reduced padding */
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+    text-align: left;
+    min-height: 110px; /* Ensure consistent height */
+}
+
+.metric-label {
+    font-size: 0.85rem; /* Smaller label */
+    color: #666; /* Dark grey for label */
+    margin-bottom: 0.2rem;
+}
+
+.metric-value {
+    font-size: 1.8rem; /* Smaller value */
+    font-weight: 700;
+    color: #333 !important; /* Ensure dark color for metric values (e.g., Reorder Recommendations value) */
+    margin-right: 0.5rem;
+}
+
+.metric-change {
+    font-size: 0.8rem; /* Smaller change text */
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+.metric-change .bi {
+    margin-right: 0.2rem;
+    font-size: 0.7rem; /* Smaller icon */
+}
+
+.metric-change.positive {
+    color: #1abc9c; /* Corrected green color */
+}
+
+.metric-change.negative {
+    color: #dc3545; /* Red for negative */
+}
+
+
+/* Quick Actions - All buttons now green (Point 2) */
+.quick-actions-container {
+    display: flex;
+    gap: 10px; /* Space between buttons */
+    margin-bottom: 1.5rem;
+}
+
+.quick-action-btn {
+    flex: 1; /* Distribute space evenly */
+    background-color: #1abc9c; /* Set to theme green for all quick action buttons */
+    border: 1px solid #1abc9c; /* Green border for all buttons */
+    color: #ffffff; /* White text for all buttons */
+    padding: 0.6rem 1rem; /* Adjust padding */
+    font-size: 0.85rem; /* Smaller font */
+    border-radius: 5px;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+    cursor: pointer; /* Indicate clickable */
+}
+
+.quick-action-btn:hover {
+    background-color: #16a085; /* Darker green on hover */
+    border-color: #16a085;
+    color: #ffffff;
+}
+
+/* If a quick action button is "active" (e.g., if you click Manage Stock and it stays highlighted) */
+.quick-action-btn.active {
+    background-color: #1abc9c; /* Keep green for active */
+    border-color: #1abc9c;
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 0 10px rgba(26, 188, 156, 0.5); /* Subtle shadow for active state */
+}
+
+/* Analytics Cards (Sales, Profit, Notifications, Waste) */
+.analytics-card {
+    padding: 1rem; /* Reduced padding */
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    background-color: #ffffff;
+    min-height: 280px; /* Adjust min-height to balance appearance */
+    display: flex;
+    flex-direction: column;
+}
+
+.analytics-card .card-title {
+    font-size: 1.1rem; /* Smaller card title */
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.analytics-card .small-text {
+    font-size: 0.8rem; /* Smaller descriptive text */
+    color: #6c757d;
+}
+
+/* Sales Over Time Chart Specifics */
+#sales-over-time-summary {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #1abc9c !important; /* Force the correct green */
+    margin-bottom: 0.5rem;
+}
+
+/* Notifications List */
+.notifications-panel {
+    min-height: 280px; /* Ensure height matches sales chart */
+}
+
+.notifications-list {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding-right: 5px; /* For scrollbar */
+    margin-top: 0.5rem;
+}
+
+.notification-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem 0; /* Reduced vertical padding */
+    border-bottom: 1px solid #eee;
+    font-size: 0.85rem; /* Smaller font */
+    color: #444;
+}
+
+.notification-item:last-child {
+    border-bottom: none;
+}
+
+.notification-icon {
+    font-size: 0.9rem; /* Smaller icon */
+    margin-right: 0.6rem;
+}
+
+.notification-text {
+    flex-grow: 1;
+}
+
+.notification-time {
+    color: #999;
+    font-size: 0.75rem; /* Smaller time text */
+}
+
+/* Top Categories in Profit */
+.profit-value {
+    font-size: 1.8rem; /* Smaller profit value */
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.category-profit-bars {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem; /* Space between bars */
+    padding-top: 0.5rem;
+}
+
+.category-bar-item {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping for small screens */
+    align-items: center;
+    font-size: 0.8rem; /* Smaller font */
+    color: #555;
+    gap: 5px; /* Space between name, value, bar */
+}
+
+.category-name {
+    flex-basis: 40%; /* Take 40% width */
+    font-weight: 500;
+}
+
+.category-value {
+    flex-basis: 25%; /* Take 25% width */
+    text-align: right;
+    font-weight: 600;
+}
+
+.category-bar-background {
+    flex-grow: 1; /* Take remaining space */
+    height: 8px; /* Thinner bar */
+    background-color: #e9ecef;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.category-bar-fill {
+    height: 100%;
+    background-color: #1abc9c; /* Corrected green color */
+    border-radius: 4px;
+}
+
+/* Weekly Waste Chart */
+.waste-value {
+    font-size: 1rem; /* Smaller overall text */
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+.waste-main-value {
+    font-size: 1.8rem; /* Smaller waste main value */
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 0.2rem;
+}
+
+/* --- Expiry Management Page Specific Styles --- */
+
+/* Dash DataTable Styling Overrides (for both pages) */
+.dash-spreadsheet-container .dash-spreadsheet-table {
+    border: none;
+    width: 100%;
+    border-collapse: separate; /* Required for border-radius on cells */
+    border-spacing: 0;
+}
+
+/* Ensure no default borders are added by Dash */
+.dash-spreadsheet-container .dash-cell {
+    border: none !important;
+}
+.dash-spreadsheet-container .dash-header {
+    border: none !important;
+}
+
+/* Specific styling for the header row in Dash DataTable */
+.dash-spreadsheet-container table thead tr th {
+    background-color: #f8f9fa; /* Light grey header background */
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 2px solid #e0e0e0;
+    padding: 12px 15px;
+    color: #333;
+    font-size: 14px;
+}
+
+/* Specific styling for data rows in Dash DataTable */
+.dash-spreadsheet-container table tbody tr td {
+    white-space: normal;
+    height: auto;
+    text-align: left;
+    padding: 10px 15px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #333;
+    font-size: 14px;
+}
+
+.dash-spreadsheet-container table tbody tr:last-child td {
+    border-bottom: none; /* No border for the last row */
+}
+
+/* Custom styling for specific status columns */
+.dash-table-container .dash-cell-value[data-column-id="STATUS"][data-value="Expired"] {
+    color: #e74c3c; /* Red */
+    font-weight: bold;
+}
+.dash-table-container .dash-cell-value[data-column-id="STATUS"][data-value="Expiring Soon"],
+.dash-table-container .dash-cell-value[data-column-id="STATUS"][data-value="Nearing Expiry (30 Days)"] {
+    color: #f39c12; /* Orange/Yellow */
+    font-weight: bold;
+}
+.dash-table-container .dash-cell-value[data-column-id="STATUS"][data-value="Good"] {
+    color: #27ae60; /* Green */
+    font-weight: bold;
+}
+
+/* Dropdown on Expiry Management Page */
+/* Targeting the Dash Core Components Dropdown directly for more specific styling */
+#expiry-view-dropdown .Select-control {
+    border-radius: 8px;
+    border-color: #e0e0e0;
+    box-shadow: none;
+    min-height: 38px; /* Standard input height */
+}
+#expiry-view-dropdown .Select-value-label {
+    color: #333;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 38px; /* Vertically center text */
+}
+#expiry-view-dropdown .Select-placeholder {
+     color: #999;
+     line-height: 38px;
+}
+#expiry-view-dropdown .Select-arrow {
+    border-color: #999 transparent transparent;
+}
+#expiry-view-dropdown .Select-menu-outer {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border: 1px solid #e0e0e0;
+}
+#expiry-view-dropdown .Select-option.is-selected {
+    background-color: #e0f4ee !important; /* Light green */
+    color: #1abc9c !important;
+}
+#expiry-view-dropdown .Select-option.is-focused {
+    background-color: #f0f2f5 !important;
+}
+#expiry-view-dropdown .Select-input input {
+    height: 38px !important; /* Adjust input height if present */
+    line-height: 38px !important;
+}
+
+/* Expiry Overview Section */
+.expiry-overview-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.expiry-overview-item:last-child {
+    border-bottom: none;
+}
+
+.expiry-overview-label {
+    font-size: 15px;
+    color: #555;
+    margin: 0; /* Remove default margin from P tag */
+}
+
+.expiry-overview-value {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0; /* Remove default margin from P tag */
+}
+
+#expiry-table .dash-cell-value a {
+    display: inline-block; /* Essential for padding, margin, height */
+    padding: 6px 12px; /* More generous button padding */
+    margin: 2px 6px 2px 0; /* Space between buttons, and from left (adjust if buttons stack too close) */
+    border-radius: 0.375rem; /* Slightly more rounded corners for button feel */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 0.875rem; /* Standard button font size */
+    line-height: 1.5; /* Vertical alignment for text within the button */
+    transition: all 0.2s ease-in-out; /* Smooth transitions for hover effects */
+    cursor: pointer; /* Indicate it's clickable */
+    text-align: center;
+    white-space: nowrap; /* Prevent button text from wrapping */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Clearer button shadow for a raised look */
+    font-weight: 500; /* Slightly bolder text */
+}
+
+/* Specific styling for 'Discount' button-like link */
+#expiry-table .dash-cell-value a[href*="Discount"] {
+    background-color: #28a745; /* Bootstrap green */
+    color: white;
+    border: 1px solid #28a745;
+}
+
+#expiry-table .dash-cell-value a[href*="Discount"]:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+    transform: translateY(-1px); /* Subtle lift effect on hover */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15); /* Enhanced shadow on hover */
+}
+
+/* Specific styling for 'Dispose' button-like link */
+#expiry-table .dash-cell-value a[href*="Dispose"] {
+    background-color: #dc3545; /* Bootstrap red */
+    color: white;
+    border: 1px solid #dc3545;
+}
+
+#expiry-table .dash-cell-value a[href*="Dispose"]:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+    transform: translateY(-1px); /* Subtle lift effect on hover */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15); /* Enhanced shadow on hover */
+}
+
+/* Style for the separator '|' */
+/* Markdown renders '|' as plain text; we ensure it's spaced correctly */
+#expiry-table .dash-cell-value span { /* Markdown often wraps the separator in a span or text node */
+    padding: 0 8px; /* More space around the pipe for better separation */
+    color: #6c757d; /* Muted color for separator */
+    font-size: 0.9em; /* Match text size */
+}
+
+
+.add-item-batch-button {
+    background-color: #1abc9c !important; /* Green */
+    color: #fff !important;
+    border: none !important;
+    padding: 12px 20px !important;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all 0.3s ease;
+    cursor: pointer; /* Indicate it's clickable */
+}
+
+.add-item-batch-button:hover {
+    background-color: #16a085 !important; /* Darker green on hover */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(26, 188, 156, 0.4);
+}
+
+.quick-action-btn-expiry {
+    background-color: #fff;
+    color: #1abc9c;
+    border: 1px solid #1abc9c;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    text-align: center;
+    margin-bottom: 10px; /* Space between buttons */
+    width: 100%; /* Make buttons take full width */
+    cursor: pointer; /* Indicate it's clickable */
+}
+
+.quick-action-btn-expiry:hover {
+    background-color: #1abc9c;
+    color: #fff;
+    box-shadow: 0 4px 10px rgba(26, 188, 156, 0.3);
+}
+
+.quick-action-btn-expiry:last-child {
+    margin-bottom: 0;
+}
+
+/* General utility classes */
+.text-success {
+    color: #1abc9c !important; /* Ensure this specific green is used */
+}
+.text-danger {
+    color: #e74c3c !important;
+}
+.text-warning {
+    color: #f39c12 !important;
+}
+.text-info {
+    color: #3498db !important; /* A common blue/info color */
+}
+
+
+/* Responsive adjustments (optional, but good practice) */
+@media (max-width: 992px) {
+    .app-container {
+        flex-direction: column;
+    }
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: static;
+        box-shadow: none;
+        padding: 1rem;
+    }
+    .content {
+        margin-left: 0; /* Remove offset on smaller screens */
+        padding: 1rem;
+    }
+    .welcome-banner-text {
+        max-width: 80%;
+    }
+}
+
+@media (max-width: 768px) {
+    .quick-actions-container {
+        flex-direction: column;
+    }
+    .quick-action-btn {
+        width: 100%;
+    }
+    .dashboard-header-title {
+        font-size: 1.5rem;
+    }
+    .welcome-banner-title {
+        font-size: 1.5rem;
+    }
+    .metric-value {
+        font-size: 1.5rem;
+    }
+    .profit-value {
+        font-size: 1.5rem;
+    }
+}
+
+
+/* --- Stock Management Page Styles --- */
+
+/* Upload Data Button */
+.upload-data-btn {
+    background-color: #1abc9c !important; /* Green */
+    color: #fff !important;
+    border: none !important;
+    padding: 10px 20px !important;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    font-size: 1rem !important;
+    display: inline-flex; /* Use flex for icon alignment */
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.upload-data-btn:hover {
+    background-color: #16a085 !important; /* Darker green on hover */
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* Search Input */
+.search-input {
+    border-radius: 8px !important;
+    border-color: #e0e0e0 !important;
+    box-shadow: none !important;
+    padding: 10px 15px !important;
+    font-size: 0.9rem !important;
+}
+
+.search-input::placeholder {
+    color: #999;
+}
+
+.input-group-text {
+    background-color: #f8f9fa !important;
+    border-color: #e0e0e0 !important;
+    border-radius: 8px 0 0 8px !important;
+    color: #6c757d !important;
+}
+
+/* Filter Dropdowns */
+.filter-dropdown .Select-control {
+    border-radius: 8px;
+    border-color: #e0e0e0;
+    box-shadow: none;
+    min-height: 38px;
+}
+.filter-dropdown .Select-value-label {
+    color: #333;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 38px;
+}
+.filter-dropdown .Select-placeholder {
+    color: #999;
+    line-height: 38px;
+}
+.filter-dropdown .Select-arrow {
+    border-color: #999 transparent transparent;
+}
+.filter-dropdown .Select-menu-outer {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border: 1px solid #e0e0e0;
+}
+.filter-dropdown .Select-option.is-selected {
+    background-color: #e0f4ee !important; /* Light green */
+    color: #1abc9c !important;
+}
+.filter-dropdown .Select-option.is-focused {
+    background-color: #f0f2f5 !important;
+}
+.filter-dropdown .Select-input input {
+    height: 38px !important;
+    line-height: 38px !important;
+}
+
+/* Stock Table Status Colors (similar to expiry but for stock statuses) */
+/* These will override the default text color for the STATUS column */
+#stock-table .dash-cell-value[data-column-id="STATUS"][data-value="In Stock"] {
+    color: #27ae60; /* Green */
+    font-weight: bold;
+}
+#stock-table .dash-cell-value[data-column-id="STATUS"][data-value="Low Stock"] {
+    color: #f39c12; /* Orange */
+    font-weight: bold;
+}
+#stock-table .dash-cell-value[data-column-id="STATUS"][data-value="Out of Stock"] {
+    color: #e74c3c; /* Red */
+    font-weight: bold;
+}
+
+/* Style for the 'View' button in the Stock Table */
+.stock-view-btn {
+    background-color: #3498db !important; /* Info blue */
+    color: white !important;
+    border: 1px solid #3498db !important;
+    padding: 6px 12px !important;
+    font-size: 0.85rem !important;
+    border-radius: 0.375rem !important;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-weight: 500;
+    width: 100%; /* Make it fill the cell */
+}
+
+.stock-view-btn:hover {
+    background-color: #217dbb !important;
+    border-color: #217dbb !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* NEW: Styles specific to the Reorder Recommendations page's content area */
+.content-container.reorder-recommendations-layout-fix {
+    margin-left: 250px; /* Pushes content away from the fixed sidebar. MUST match sidebar width. */
+    flex-grow: 1; /* Allows the content area to take up all remaining horizontal space */
+    padding: 1.5rem; /* Add some padding around your content */
+    overflow-y: auto; /* Enables vertical scrolling for the content if it overflows */
+    height: 100vh; /* Make the content area take full viewport height, allowing internal scrolling */
+    background-color: #f8f9fa; /* Consistent light background for content area */
+}
+
+
+/* --- Reorder Page Specific Styles --- */
+
+/* Filter card container for the reorder page */
+.filter-card-container {
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    margin-bottom: 20px;
+}
+
+/* Container for the Reorder Recommendations DataTable */
+.reorder-table-container {
+    /* Inherits 'card card-body' styles (background, border-radius, shadow) */
+    padding: 0;
+}
+
+/* DataTable general styling for Reorder Recommendations */
+#reorder-recommendations-table {
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden; /* Important for visible border-radius on content */
+    overflow-x: auto; /* <-- UNCOMMENT THIS LINE! Handles horizontal scrolling if content overflows */
+}
+
+/* Header cells for the Reorder Table */
+#reorder-recommendations-table .dash-header {
+    background-color: #f8f9fa;
+    color: #333;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+/* Data cells for the Reorder Table */
+#reorder-recommendations-table .dash-cell {
+    background-color: white;
+    border-bottom: 1px solid #f0f2f5;
+    text-align: left;
+    padding: 10px;
+    white-space: normal;
+}
+
+/* Conditional styling for 'REASON FOR REORDER' column based on cell content */
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Critically Low Stock (AI/ML Logic)"] {
+    color: #e74c3c; /* Red */
+    font-weight: bold;
+}
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Expired (AI/ML Logic)"] {
+    color: #e74c3c; /* Red for expired */
+    font-weight: bold;
+}
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Below Reorder Point (AI/ML Logic)"] {
+    color: #f39c12; /* Orange */
+    font-weight: bold;
+}
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Expiring Soon (AI/ML Logic)"] {
+    color: #f39c12; /* Orange */
+    font-weight: bold;
+}
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="AI/ML Recommendation"] {
+    color: #3498db; /* Blue (neutral) */
+    font-weight: bold;
+}
+
+/* Styling for the editable 'ADJUST QUANTITY' input field */
+#reorder-recommendations-table .dash-cell.column-ADJUST_QUANTITY .dash-cell-value input {
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 5px;
+    width: calc(100% - 10px); /* Account for padding */
+    box-sizing: border-box; /* Include padding/border in width calculation */
+}
+
+/* Ensure the outer container for the table has its border-radius and overflow */
+#reorder-recommendations-table {
+    border-radius: 8px; /* Already confirmed working on the div */
+    overflow: hidden;   /* Already confirmed working on the div */
+    border-collapse: collapse; /* Add this here for good measure, though it primarily affects <table> */
+}
+
+
+#reorder-recommendations-table table {
+    width: 100%; /* Ensure the table fills its container */
+    border-collapse: collapse; /* CRITICAL: This makes cell borders merge and helps border-radius on table cells */
+    /* If you want the background of the main div to show through, ensure the table itself has no background or transparent background */
+    background-color: transparent; /* Or a specific color like white if you want it here */
+}
+
+/* Styles for the DataTable header container */
+#reorder-recommendations-table .dash-header {
+    background-color: #f8f9fa; /* Light grey for headers */
+    font-weight: bold;
+    color: #333;
+    border-bottom: 2px solid #dee2e6; /* Separator for header */
+}
+
+/* Styles for individual header cells within the DataTable */
+#reorder-recommendations-table .dash-header .dash-cell {
+    padding: 12px 15px; /* Adjust padding for header cells */
+    border: none; /* Remove individual cell borders if border-collapse handles it */
+    text-align: left;
+    /* Ensure no background here if you want rounded corners to show if parent has background */
+    background-color: inherit; /* Inherit background from .dash-header */
+}
+
+/* Styles for individual data cells within the DataTable */
+#reorder-recommendations-table .dash-cell {
+    background-color: white; /* White background for data cells */
+    border-bottom: 1px solid #e9ecef; /* Light border between rows */
+    padding: 10px 15px; /* Adjust padding for data cells */
+    color: #333;
+    text-align: left;
+}
+
+/* Style for the last row (no bottom border) - useful for clean look at bottom of table */
+#reorder-recommendations-table tbody tr:last-child .dash-cell {
+    border-bottom: none;
+}
+
+/* Custom styles for 'REASON FOR REORDER' column based on cell content */
+/* IMPORTANT: These selectors rely on exact string matches from your get_reorder_data function */
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Critically Low Stock (AI/ML Logic)"] {
+    color: #e74c3c !important; /* Red */
+    font-weight: bold !important;
+}
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Expired (AI/ML Logic)"] {
+    color: #e74c3c !important; /* Red for expired */
+    font-weight: bold !important;
+}
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Below Reorder Point (AI/ML Logic)"] {
+    color: #f39c12 !important; /* Orange */
+    font-weight: bold !important;
+}
+
+/* FIX: Corrected data-column-id from "REORDER FOR REORDER" to "REASON FOR REORDER" */
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="Expiring Soon (AI/ML Logic)"] {
+    color: #f39c12 !important; /* Orange */
+    font-weight: bold !important;
+}
+
+#reorder-recommendations-table .dash-cell-value[data-column-id="REASON FOR REORDER"][data-value="AI/ML Recommendation"] {
+    color: #3498db !important; /* Blue */
+    font-weight: normal !important; /* Normal weight for AI/ML Recommendation */
+}
+
+
+
+
+/* --- Conditional Status Colors  --- */
+
+/* For Lead Time Variability in Supplier Summary Table */
+#supplier-summary-data-table .dash-cell-value[data-column-id="Lead Time Variability"][data-value="Very Low"],
+#supplier-summary-data-table .dash-cell-value[data-column-id="Lead Time Variability"][data-value="Low"] {
+    background-color: #d4edda; /* Light green */
+    color: #155724 !important; /* Dark green text */
+    font-weight: 500;
+}
+
+#supplier-summary-data-table .dash-cell-value[data-column-id="Lead Time Variability"][data-value="Medium"] {
+    background-color: #fff3cd; /* Light yellow/orange */
+    color: #856404 !important; /* Dark yellow/orange text */
+    font-weight: 500;
+}
+
+#supplier-summary-data-table .dash-cell-value[data-column-id="Lead Time Variability"][data-value="High"] {
+    background-color: #f8d7da; /* Light red */
+    color: #721c24 !important; /* Dark red text */
+    font-weight: 500;
+}
+
+/* For Order Fulfillment (%) in Supplier Summary Table */
+#supplier-summary-data-table .dash-cell-value[data-column-id="Order Fulfillment (%)"][data-value*="99."],
+#supplier-summary-data-table .dash-cell-value[data-column-id="Order Fulfillment (%)"][data-value*="100."] {
+    background-color: #d4edda; /* Light green */
+    color: #155724 !important; /* Dark green text */
+    font-weight: 500;
+}
+
+#supplier-summary-data-table .dash-cell-value[data-column-id="Order Fulfillment (%)"][data-value*="98."] {
+    background-color: #e2f2e5; /* Slightly lighter green */
+    color: #28a745 !important; /* Green text */
+    font-weight: 500;
+}
+
+#supplier-summary-data-table .dash-cell-value[data-column-id="Order Fulfillment (%)"][data-value*="97."] {
+    background-color: #fff3cd; /* Light yellow/orange */
+    color: #856404 !important; /* Dark yellow/orange text */
+    font-weight: 500;
+}
+
+#supplier-summary-data-table .dash-cell-value[data-column-id="Order Fulfillment (%)"][data-value*="96."],
+#supplier-summary-data-table .dash-cell-value[data-column-id="Order Fulfillment (%)"][data-value*="95."],
+#supplier-summary-data-table .dash-cell-value[data-column-id="Order Fulfillment (%)"][data-value*="94."] {
+    background-color: #f8d7da; /* Light red */
+    color: #721c24 !important; /* Dark red text */
+    font-weight: 500;
+}
+
+/* --- Sales and Trends Page Specific Adjustments --- */
+
+/* Ensures all dcc.Graph components have a consistent, manageable height */
+/* This prevents charts from looking too stretched vertically or squashed horizontally. */
+.dash-graph {
+    height: 380px; /* Adjust this value as needed for desired chart height */
+    width: 100%; /* Ensures graph takes full width of its parent column */
+    margin: 0 auto; /* Centers the graph if it doesn't fill the parent */
+}
+
+#total-sales-over-time-chart,
+#total-profit-over-time-chart {
+    height: 400px !important; /* Adjust as needed. !important can help override other styles */
+}
+
+/* Sometimes, the internal Plotly div also needs height adjustment */
+#total-sales-over-time-chart .js-plotly-plot,
+#total-profit-over-time-chart .js-plotly-plot {
+    height: 100% !important;
+}
+
+
+/* supplier
+
+.lead-time-low {
+    color: green;
+    font-weight: bold;
+}
+
+.lead-time-very-low {
+    color: green; /* Or a darker green if you want to differentiate from 'low' */
+    font-weight: bold;
+}
+
+.lead-time-medium {
+    color: orange; /* Often used for medium */
+    font-weight: bold;
+}
+
+.lead-time-high {
+    color: red;
+    font-weight: bold;
+}
+
+
+/* --- Overall Container for the Manual Carousel --- */
+#manual-carousel-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers content horizontally */
+    justify-content: flex-start; /* Aligns content to the top within min-height */
+    min-height: 400px; /* Increased min-height to give more space for image and text */
+    padding: 25px; /* More padding for breathing room */
+    background-color: #ffffff;
+    border-radius: 10px; /* Slightly more rounded corners */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08); /* More prominent shadow for the card */
+    position: relative; /* Needed for potential future animations */
+    overflow: hidden; /* Ensure nothing spills out */
+}
+
+/* --- Individual Carousel Slide Styling --- */
+.manual-carousel-slide {
+    width: 100%; /* Ensure the slide takes full width of its container */
+    height: 100%; /* Ensure the slide takes full height to center content */
+    text-align: center; /* Center text within the slide */
+    /* Add a fade-in/fade-out transition */
+    animation: fadeIn 0.8s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+
+/* --- Image Container Styling --- */
+/* --- Image Container Styling (remains similar, focusing on containing full-width image) --- */
+.manual-carousel-image-container {
+    width: 100%; /* Important: This container will stretch to almost full width of #manual-carousel-content */
+    max-width: 600px; /* Optional: You can set a max-width for the image block itself if you don't want it super wide on large screens */
+    height: 250px; /* Fixed height for consistency, image will fit within this */
+    overflow: hidden;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+    background-color: #f0f0f0;
+    display: flex; /* Use flexbox to perfectly center the image within its fixed area */
+    align-items: center;
+    justify-content: center;
+}
+
+/* --- Image Styling (Image takes full width of its container) --- */
+.manual-carousel-image {
+    width: 100%; /* Crucial: Make image take full width of its container */
+    max-height: 100%; /* Ensure image height fits within container's height */
+    object-fit: contain; /* Scales image to fit without cropping, preserving aspect ratio */
+    display: block; /* Ensures proper rendering */
+    /* Remove margin: 0 auto; as width: 100% and flexbox centering handles it */
+}
+
+
+/* --- Text Styling --- */
+.manual-carousel-header {
+    font-size: 2.2rem; /* Even larger font size for prominence */
+    font-weight: 800; /* Extra bold */
+    color: #007bff; /* A distinct blue color for the header (Bootstrap primary blue) */
+    /* You could also use a custom color like: color: #1a5e2d; for a dark green */
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1); /* Subtle text shadow for depth */
+    margin-bottom: 15px; /* More space below header */
+    line-height: 1.2;
+    text-align: center;
+}
+
+/* --- Caption Text Styling (Subtle Look) --- */
+.manual-carousel-caption {
+    font-size: 1.05rem; /* Slightly larger than default, but smaller than header */
+    color: #6c757d; /* Muted gray for captions, providing contrast to header */
+    line-height: 1.6;
+    max-width: 750px; /* Allow wider caption for more text */
+    text-align: center;
+    margin-bottom: 0;
+    font-style: italic; /* Optional: Make caption italic for more differentiation */
+}
+
+/* --- Button Styling (Adjusted for better visual integration) --- */
+/* Ensure your buttons use 'btn-primary' and 'btn-outline-primary' classes */
+.btn-primary {
+    background-color: #28a745; /* A standard green */
+    border-color: #28a745;
+    font-weight: bold;
+    padding: 10px 25px; /* Larger padding for easier clicks */
+    border-radius: 5px;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #218838; /* Darker green on hover */
+    border-color: #1e7e34;
+}
+
+.btn-outline-primary {
+    border-color: #28a745;
+    color: #28a745;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-outline-primary:hover {
+    background-color: #28a745;
+    color: white;
+
+}
+
+
+
+/* =========================================
+   SUSTAINABILITY TRACKER PAGE STYLES
+   ========================================= */
+
+:root {
+    --sus-green-dark: #004d25;
+    --sus-green-primary: #198754;
+    --sus-green-accent: #28a745; 
+    --sus-bg-light: #f4f7f6;
+}
+
+/* Page Background Overrides */
+.sustainability-content {
+    background-color: var(--sus-bg-light);
+    min-height: 100vh;
+    padding: 1.5rem;
+}
+
+/* Custom Card Styling - High Border Radius & Shadow */
+.sus-card {
+    border: none !important;
+    border-radius: 16px !important; /* The distinct rounded look */
+    box-shadow: 0 4px 20px rgba(0,0,0,0.03) !important;
+    background-color: #fff !important;
+    height: 100%;
+}
+
+.sus-card-body {
+    padding: 1.5rem;
+}
+
+/* Header Buttons */
+.sus-header-btn {
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    padding: 0.6rem 1.2rem !important;
+}
+
+/* Top Metrics Typography */
+.metric-title-sus {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #6c757d;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 1rem;
+}
+
+.metric-value-sus {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #212529;
+    line-height: 1.2;
+}
+
+/* The "CO2" Background Watermark */
+.co2-watermark {
+    position: absolute;
+    top: -10px;
+    right: 15px;
+    font-size: 5rem;
+    font-weight: 900;
+    color: #198754; /* Green tint */
+    opacity: 0.1;   /* Very faint */
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* Custom Progress Bars (Thicker, Rounded) */
+.sus-progress-container {
+    height: 8px;
+    background-color: #f1f3f5;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 8px;
+}
+
+.sus-progress-bar {
+    height: 100%;
+    background-color: #2eda78; /* Bright green from design */
+    border-radius: 4px;
+}
+
+/* AI Tips Section Cards */
+.ai-tip-card {
+    border: 1px solid #f1f3f5 !important;
+    transition: transform 0.2s;
+}
+
+.ai-tip-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05) !important;
+}
+
+/* AI Tip Badges */
+.tip-badge {
+    font-size: 0.7rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+.badge-high-impact { background-color: #28a745; color: white; }
+.badge-supply-chain { background-color: #e6f9ed; color: #198754; }
+.badge-operational { background-color: #e9ecef; color: #495057; }
+
+/* AI Tip Buttons */
+.tip-button {
+    width: 100%;
+    background-color: #f8f9fa !important;
+    color: #212529 !important;
+    border: none !important;
+    font-weight: 700 !important;
+    padding: 0.8rem !important;
+    margin-top: 1rem;
+    transition: background-color 0.2s;
+}
+
+.tip-button:hover {
+    background-color: #e9ecef !important;
+}
+
+/* --- Waste Leaders Table Customization --- */
+
+/* Remove default Dash borders for a cleaner look */
+#waste-leaders-table .dash-header {
+    background-color: #fff !important;
+    color: #adb5bd !important;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    font-weight: 700;
+    border-bottom: 1px solid #f1f3f5 !important;
+    border-top: none !important;
+    text-align: left !important;
+    padding-left: 1.5rem !important;
+}
+
+#waste-leaders-table .dash-cell {
+    border-bottom: 1px solid #f8f9fa !important;
+    border-left: none !important;
+    border-right: none !important;
+    padding: 1.2rem 1.5rem !important;
+    font-size: 0.95rem;
+    vertical-align: middle;
+}
+
+/* Fix for the Action Link to look like a text button */
+#waste-leaders-table .dash-cell-value {
+    display: flex; /* Helps align badges */
+    align-items: center;
+}
