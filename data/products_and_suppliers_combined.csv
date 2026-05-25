@@ -1,0 +1,1501 @@
+ProductID,ProductName,Category,Cost,Price,SupplierID,SupplierName,ReorderPoint,LeadTimeDays,ExpiryDate,UnitOfMeasure,quantity
+P1304,Chicken Breast (500g),Meat & Seafood,458.4,989.6,S001,Indian Wholesale Co.,1,1,2025-05-09,kg,0
+P1480,Bananas (1 Dozen),Fruits & Vegetables,67.79,98.9,S004,Quick Supply India,39,1,2025-09-01,g,144
+P2006,Mango Juice (1L),Snacks & Beverages,33.7,42.9,S005,Apex Foods Pvt. Ltd.,50,4,2027-04-22,liters,713
+P2084,Fish Fillet (250g),Meat & Seafood,688.72,1574.11,S007,HomeCare Solutions,6,1,2025-08-10,kg,19
+P1171,Jeans (Size 32),Apparel,1649.41,2593.03,S002,Bharat Distributors,1,21,2024-10-19,sets,6
+P1753,Bread (Whole Wheat 400g),Dairy & Bakery,134.46,242.59,S005,Apex Foods Pvt. Ltd.,19,1,2025-08-14,dozens,111
+P1060,Garbage Bags (Medium Pack),Home & Kitchen,636.39,1217.34,S007,HomeCare Solutions,3,13,2024-10-28,packs,29
+P2430,Potatoes (1kg),Fruits & Vegetables,97.81,196.13,S006,Health Essentials Ltd.,11,1,2025-09-04,bunches,47
+P1667,Bread (Whole Wheat 400g),Dairy & Bakery,51.81,84.34,S001,Indian Wholesale Co.,45,1,2025-07-22,pcs,209
+P2220,Apples (1kg),Fruits & Vegetables,48.98,62.43,S003,Priya Grocers,28,1,2025-09-15,kg,134
+P2397,Cotton T-shirt (M),Apparel,900.21,1877.44,S005,Apex Foods Pvt. Ltd.,2,24,2025-11-17,sets,42
+P2105,Spinach (Bunch),Fruits & Vegetables,94.36,114.4,S008,TechGadgets India,33,1,2025-08-02,g,150
+P2410,Cotton T-shirt (M),Apparel,720.6,1698.04,S008,TechGadgets India,4,24,2025-08-28,pcs,62
+P1241,Ghee (500ml),Grocery & Staples,60.6,137.26,S005,Apex Foods Pvt. Ltd.,1,5,2025-02-03,packets,7
+P1043,Pressure Cooker (3L),Utensils & Cookware,583.4,852.82,S005,Apex Foods Pvt. Ltd.,1,5,2024-07-19,pcs,11
+P2346,LED Bulb (9W),Electronics,25795.39,45041.12,S006,Health Essentials Ltd.,1,14,2027-03-17,units,24
+P2160,Casual Shirt (L),Apparel,766.1,1653.48,S001,Indian Wholesale Co.,1,24,2026-09-20,sets,21
+P1031,Pressure Cooker (3L),Utensils & Cookware,244.01,598.95,S007,HomeCare Solutions,1,7,2025-03-26,pcs,23
+P1182,Spinach (Bunch),Fruits & Vegetables,78.68,169.27,S003,Priya Grocers,10,1,2025-06-28,kg,38
+P2354,Shampoo (Anti-dandruff 200ml),Personal Care,322.31,731.87,S008,TechGadgets India,15,8,2027-03-30,ml,162
+P1117,Sneakers (Size 9),Footwear,950.83,1379.6,S006,Health Essentials Ltd.,2,21,2025-06-24,pcs,37
+P2299,Sneakers (Size 9),Footwear,412.23,887.89,S003,Priya Grocers,7,18,2026-12-28,pairs,90
+P2375,Ghee (500ml),Grocery & Staples,167.12,313.93,S003,Priya Grocers,46,6,2027-02-20,packets,905
+P2488,Mutton Curry Cut (500g),Meat & Seafood,506.31,943.32,S008,TechGadgets India,2,1,2025-09-06,pcs,11
+P1610,Pressure Cooker (3L),Utensils & Cookware,850.72,1197.64,S001,Indian Wholesale Co.,2,5,2027-05-31,sets,56
+P1168,Jeans (Size 32),Apparel,1387.87,2596.0,S008,TechGadgets India,1,22,2024-08-24,sets,21
+P2210,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,699.21,1074.4,S001,Indian Wholesale Co.,33,9,2025-11-21,bottles,239
+P1243,Basic Headphones,Electronics,10347.75,20116.9,S006,Health Essentials Ltd.,1,7,2025-01-20,units,43
+P1734,Potato Chips (Masala 75g),Snacks & Beverages,21.75,28.12,S003,Priya Grocers,33,1,2025-09-26,ml,431
+P2185,Dinner Set (4 Pcs),Utensils & Cookware,420.83,632.11,S007,HomeCare Solutions,2,7,2026-05-23,pcs,43
+P2104,Laundry Detergent (1kg),Home & Kitchen,312.78,677.56,S002,Bharat Distributors,10,10,2026-02-20,rolls,75
+P1266,Fish Fillet (250g),Meat & Seafood,553.49,712.55,S006,Health Essentials Ltd.,14,1,2025-06-03,pcs,45
+P1859,Casual Shirt (L),Apparel,1937.54,4226.0,S002,Bharat Distributors,4,11,2025-12-19,sets,48
+P1967,Energy Bar (Nut 50g),Snacks & Beverages,81.7,140.83,S004,Quick Supply India,91,3,2026-12-23,ml,1155
+P1845,Apples (1kg),Fruits & Vegetables,89.43,190.26,S005,Apex Foods Pvt. Ltd.,40,1,2025-08-30,kg,152
+P1740,Soap (Sandalwood 125g),Personal Care,239.04,476.78,S005,Apex Foods Pvt. Ltd.,45,5,2026-10-16,bottles,385
+P2301,USB Cable (2m),Electronics,14189.25,29673.28,S002,Bharat Distributors,1,17,2026-05-04,pcs,45
+P2264,Dinner Set (4 Pcs),Utensils & Cookware,761.73,1588.6,S004,Quick Supply India,1,5,2025-08-07,pcs,9
+P1867,Bananas (1 Dozen),Fruits & Vegetables,27.02,34.19,S001,Indian Wholesale Co.,35,1,2025-09-05,kg,149
+P1773,Energy Bar (Nut 50g),Snacks & Beverages,48.02,71.04,S001,Indian Wholesale Co.,31,3,2025-11-09,pcs,337
+P2401,Potato Chips (Masala 75g),Snacks & Beverages,63.77,104.47,S008,TechGadgets India,86,2,2026-12-22,packets,1033
+P2072,Mutton Curry Cut (500g),Meat & Seafood,753.35,1647.3,S001,Indian Wholesale Co.,17,1,2025-09-19,kg,71
+P2260,Bread (Whole Wheat 400g),Dairy & Bakery,155.01,219.23,S003,Priya Grocers,45,2,2025-08-25,packs,224
+P1005,Paneer (200g),Dairy & Bakery,32.66,74.33,S005,Apex Foods Pvt. Ltd.,1,2,2025-05-28,g,0
+P1422,Sandals (Size 8),Footwear,1352.04,2259.27,S001,Indian Wholesale Co.,1,16,2026-07-09,pairs,10
+P2359,Dinner Set (4 Pcs),Utensils & Cookware,578.87,1067.87,S004,Quick Supply India,3,11,2027-06-06,pcs,63
+P2315,Sneakers (Size 9),Footwear,1253.84,1552.78,S001,Indian Wholesale Co.,5,13,2027-01-05,pcs,65
+P1094,Coffee (100g),Grocery & Staples,237.85,334.83,S005,Apex Foods Pvt. Ltd.,2,4,2024-12-09,kg,35
+P2399,Socks (Pack of 3),Apparel,1778.18,3265.31,S004,Quick Supply India,1,22,2027-05-07,pcs,17
+P2250,Mango Juice (1L),Snacks & Beverages,57.42,86.71,S007,HomeCare Solutions,76,1,2027-02-15,packets,1131
+P1754,Sunscreen (SPF30 100ml),Personal Care,369.97,921.05,S003,Priya Grocers,27,8,2027-05-26,bottles,327
+P1298,Lemons (250g),Fruits & Vegetables,60.97,132.33,S003,Priya Grocers,8,1,2025-05-09,dozens,37
+P1252,Spices Combo (100g),Grocery & Staples,107.84,233.68,S001,Indian Wholesale Co.,1,2,2025-04-24,pcs,0
+P1973,Floor Cleaner (1L),Home & Kitchen,735.82,1565.58,S003,Priya Grocers,21,11,2026-05-05,rolls,159
+P2169,Sugar (1kg),Grocery & Staples,170.9,411.35,S006,Health Essentials Ltd.,39,2,2027-04-30,packets,668
+P2007,Laundry Detergent (1kg),Home & Kitchen,352.18,767.78,S003,Priya Grocers,15,8,2027-04-18,kg,98
+P1631,Apples (1kg),Fruits & Vegetables,41.54,55.85,S005,Apex Foods Pvt. Ltd.,41,1,2025-09-24,kg,172
+P1233,Matchbox (Pack of 10),Home & Kitchen,709.23,1668.04,S004,Quick Supply India,1,12,2024-12-18,bottles,4
+P2144,Shampoo (Anti-dandruff 200ml),Personal Care,355.29,795.05,S008,TechGadgets India,10,6,2027-05-14,bottles,126
+P1502,Socks (Pack of 3),Apparel,1044.97,2170.46,S002,Bharat Distributors,10,16,2027-05-12,sets,128
+P1420,Potato Chips (Masala 75g),Snacks & Beverages,51.1,95.08,S008,TechGadgets India,22,1,2026-01-07,bottles,232
+P2227,Extension Cord (5m),Electronics,36618.0,66244.33,S007,HomeCare Solutions,1,17,2025-12-09,units,33
+P1644,Bananas (1 Dozen),Fruits & Vegetables,57.36,139.29,S004,Quick Supply India,34,1,2025-08-20,dozens,121
+P2307,Lemons (250g),Fruits & Vegetables,46.63,57.43,S006,Health Essentials Ltd.,14,1,2025-09-15,bunches,50
+P1948,Yogurt (Fruit 150g),Dairy & Bakery,194.75,303.43,S005,Apex Foods Pvt. Ltd.,11,2,2025-08-07,pcs,64
+P1474,Bread (Whole Wheat 400g),Dairy & Bakery,60.43,115.0,S005,Apex Foods Pvt. Ltd.,62,1,2025-07-22,packs,271
+P2243,Sandals (Size 8),Footwear,1059.52,2295.97,S001,Indian Wholesale Co.,1,10,2027-05-13,pairs,14
+P1155,Paneer (200g),Dairy & Bakery,36.13,76.94,S008,TechGadgets India,1,1,2025-06-26,dozens,2
+P1623,Shampoo (Anti-dandruff 200ml),Personal Care,289.3,500.08,S002,Bharat Distributors,44,9,2026-05-22,g,474
+P1554,Sneakers (Size 9),Footwear,465.46,772.78,S008,TechGadgets India,6,10,2026-06-14,pairs,97
+P2108,Formal Shoes (Size 10),Footwear,204.33,495.2,S006,Health Essentials Ltd.,4,11,2027-01-31,pcs,75
+P1018,Cotton T-shirt (M),Apparel,1704.09,2351.12,S006,Health Essentials Ltd.,2,15,2024-09-30,pcs,28
+P1121,Protein Powder (Whey 500g),Health & Wellness,290.31,488.0,S007,HomeCare Solutions,3,10,2025-02-22,pcs,28
+P2381,Dishwashing Liquid (500ml),Home & Kitchen,368.75,451.56,S008,TechGadgets India,30,10,2026-10-29,kg,207
+P2434,Jeans (Size 32),Apparel,1823.01,3202.78,S003,Priya Grocers,2,15,2026-06-06,pcs,30
+P2171,Sneakers (Size 9),Footwear,297.61,693.48,S008,TechGadgets India,5,19,2025-11-19,pcs,66
+P1407,Paneer (200g),Dairy & Bakery,113.51,269.47,S008,TechGadgets India,12,2,2025-08-19,g,75
+P1831,Extension Cord (5m),Electronics,49486.5,96700.54,S006,Health Essentials Ltd.,1,17,2025-10-05,units,21
+P2402,Sanitary Pads (Pack of 10),Personal Care,232.79,301.96,S007,HomeCare Solutions,26,8,2027-06-02,pcs,245
+P1933,Jeans (Size 32),Apparel,1647.82,3024.16,S002,Bharat Distributors,2,16,2026-02-21,pcs,38
+P1964,Sandals (Size 8),Footwear,687.37,1066.09,S006,Health Essentials Ltd.,4,13,2027-03-26,pcs,78
+P2205,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,414.46,688.99,S002,Bharat Distributors,8,10,2026-04-03,bottles,68
+P1686,Shampoo (Anti-dandruff 200ml),Personal Care,117.32,195.95,S002,Bharat Distributors,6,5,2026-02-19,ml,66
+P1709,USB Cable (2m),Electronics,44266.21,104340.24,S002,Bharat Distributors,1,12,2026-05-11,units,6
+P2156,Mineral Water (1L),Snacks & Beverages,23.98,30.82,S004,Quick Supply India,57,2,2027-02-03,liters,816
+P2068,Soap (Sandalwood 125g),Personal Care,198.11,485.43,S001,Indian Wholesale Co.,23,4,2026-09-13,pcs,287
+P1068,Kitchen Towels (Roll),Home & Kitchen,143.06,272.51,S004,Quick Supply India,4,5,2024-12-08,bottles,37
+P1029,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,660.97,1639.84,S003,Priya Grocers,2,7,2025-03-25,bottles,20
+P2415,Dishwashing Liquid (500ml),Home & Kitchen,589.72,1212.32,S002,Bharat Distributors,27,10,2026-09-18,kg,187
+P1601,Tea Powder (250g),Grocery & Staples,130.56,260.73,S002,Bharat Distributors,8,6,2026-11-17,packets,190
+P2224,Sandals (Size 8),Footwear,723.27,1291.88,S003,Priya Grocers,2,18,2026-11-08,pairs,36
+P1591,Protein Powder (Whey 500g),Health & Wellness,116.55,180.5,S006,Health Essentials Ltd.,15,6,2026-02-14,g,153
+P1138,Butter (100g),Dairy & Bakery,186.37,426.2,S008,TechGadgets India,8,1,2025-06-23,dozens,39
+P1035,Chicken Breast (500g),Meat & Seafood,254.78,629.64,S001,Indian Wholesale Co.,8,1,2025-05-12,kg,23
+P2327,Tomatoes (500g),Fruits & Vegetables,90.14,210.16,S006,Health Essentials Ltd.,9,1,2025-08-22,dozens,40
+P1893,Sandals (Size 8),Footwear,279.61,537.72,S008,TechGadgets India,5,11,2026-08-15,pcs,87
+P1561,Ghee (500ml),Grocery & Staples,201.73,315.07,S005,Apex Foods Pvt. Ltd.,17,2,2026-01-08,kg,373
+P2496,Coriander (Bunch),Fruits & Vegetables,35.46,56.72,S001,Indian Wholesale Co.,15,1,2025-08-19,kg,65
+P1008,Bread (Whole Wheat 400g),Dairy & Bakery,73.81,92.47,S001,Indian Wholesale Co.,5,1,2025-06-21,packs,26
+P1463,Toilet Cleaner (500ml),Home & Kitchen,725.25,1016.21,S008,TechGadgets India,19,12,2027-01-21,rolls,135
+P1920,Protein Powder (Whey 500g),Health & Wellness,486.16,1021.93,S001,Indian Wholesale Co.,19,4,2026-05-15,pcs,173
+P2353,Toothpaste (Herbal 150g),Personal Care,219.45,392.97,S007,HomeCare Solutions,30,9,2025-11-06,packs,328
+P2164,Floor Cleaner (1L),Home & Kitchen,106.64,199.64,S008,TechGadgets India,13,14,2026-05-11,rolls,102
+P1814,Jeans (Size 32),Apparel,632.23,1472.21,S004,Quick Supply India,1,16,2027-04-29,pcs,18
+P1963,Chicken Breast (500g),Meat & Seafood,248.59,421.32,S001,Indian Wholesale Co.,4,1,2025-09-13,pcs,16
+P1730,Yogurt (Fruit 150g),Dairy & Bakery,36.81,82.34,S001,Indian Wholesale Co.,49,2,2025-08-14,dozens,291
+P1635,Cotton T-shirt (M),Apparel,1834.21,3486.88,S002,Bharat Distributors,4,10,2025-08-09,sets,61
+P2335,Toilet Cleaner (500ml),Home & Kitchen,148.42,203.22,S001,Indian Wholesale Co.,17,11,2026-11-08,bottles,123
+P2273,Kitchen Towels (Roll),Home & Kitchen,113.96,179.79,S002,Bharat Distributors,10,9,2025-12-06,packs,86
+P1015,Extension Cord (5m),Electronics,34578.03,78818.75,S006,Health Essentials Ltd.,1,19,2024-11-18,units,9
+P2373,Water Bottle (Steel),Utensils & Cookware,353.44,839.11,S002,Bharat Distributors,3,6,2026-08-17,sets,58
+P1443,Eggs (6 Pcs),Dairy & Bakery,33.77,62.11,S008,TechGadgets India,14,2,2025-08-12,liters,63
+P2014,Jeans (Size 32),Apparel,1485.63,1928.36,S008,TechGadgets India,1,15,2025-10-29,sets,23
+P2492,Kitchen Towels (Roll),Home & Kitchen,441.54,758.62,S005,Apex Foods Pvt. Ltd.,31,13,2026-07-19,rolls,218
+P2214,Toothpaste (Herbal 150g),Personal Care,237.12,487.89,S004,Quick Supply India,40,9,2025-12-10,g,447
+P1262,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,69.79,168.7,S002,Bharat Distributors,1,1,2025-01-30,packets,11
+P2371,Curd (500g),Dairy & Bakery,67.5,167.16,S006,Health Essentials Ltd.,57,2,2025-08-25,pcs,281
+P1585,Bananas (1 Dozen),Fruits & Vegetables,22.97,31.93,S002,Bharat Distributors,31,1,2025-09-22,dozens,150
+P2046,Cola (2L),Snacks & Beverages,143.86,330.83,S003,Priya Grocers,60,2,2025-11-30,liters,740
+P1156,Salt (1kg),Grocery & Staples,58.38,99.24,S007,HomeCare Solutions,1,4,2024-10-29,kg,29
+P1329,Biscuits (Atta 100g),Snacks & Beverages,119.46,219.52,S001,Indian Wholesale Co.,5,2,2025-06-11,pcs,74
+P1633,LED Bulb (9W),Electronics,3417.63,6735.85,S008,TechGadgets India,1,17,2026-03-10,units,31
+P1478,Face Cream (Aloe Vera 50g),Personal Care,332.98,406.97,S003,Priya Grocers,18,6,2027-05-09,pcs,155
+P2470,Pressure Cooker (3L),Utensils & Cookware,786.07,1374.44,S007,HomeCare Solutions,1,12,2025-07-30,sets,25
+P1536,USB Cable (2m),Electronics,47700.89,97110.34,S007,HomeCare Solutions,1,12,2026-11-13,pcs,7
+P2178,Paneer (200g),Dairy & Bakery,118.29,235.4,S001,Indian Wholesale Co.,15,2,2025-08-05,pcs,69
+P1356,Agarbatti (Pack of 100),Home & Kitchen,284.23,536.7,S005,Apex Foods Pvt. Ltd.,36,5,2026-07-20,rolls,254
+P2292,Chai Mix (150g),Snacks & Beverages,37.06,73.21,S007,HomeCare Solutions,107,1,2025-07-31,pcs,1177
+P1391,Sandals (Size 8),Footwear,1097.96,1746.83,S002,Bharat Distributors,5,20,2026-10-12,pcs,66
+P2031,Potatoes (1kg),Fruits & Vegetables,85.69,191.17,S007,HomeCare Solutions,20,1,2025-09-13,bunches,72
+P1572,Immunity Booster (Syrup 200ml),Health & Wellness,404.47,814.22,S003,Priya Grocers,18,11,2025-09-22,packs,181
+P2466,Sugar (1kg),Grocery & Staples,289.48,672.22,S002,Bharat Distributors,31,2,2027-04-12,kg,693
+P1589,Dishwashing Liquid (500ml),Home & Kitchen,219.85,372.52,S003,Priya Grocers,5,10,2026-03-23,kg,34
+P1666,Chicken Breast (500g),Meat & Seafood,379.12,519.68,S001,Indian Wholesale Co.,24,1,2025-09-08,g,98
+P1275,Agarbatti (Pack of 100),Home & Kitchen,588.49,857.47,S008,TechGadgets India,3,9,2025-03-21,kg,25
+P2419,Socks (Pack of 3),Apparel,1103.47,2665.78,S005,Apex Foods Pvt. Ltd.,9,21,2027-04-18,pcs,136
+P2411,Casual Shirt (L),Apparel,537.01,681.86,S008,TechGadgets India,8,21,2025-10-15,pcs,121
+P2052,Frying Pan (Non-stick),Utensils & Cookware,791.86,1124.0,S005,Apex Foods Pvt. Ltd.,1,6,2025-09-25,sets,26
+P1271,Cola (2L),Snacks & Beverages,62.02,118.11,S008,TechGadgets India,3,4,2025-02-09,pcs,45
+P1093,Water Bottle (Steel),Utensils & Cookware,617.91,1445.89,S004,Quick Supply India,1,7,2025-01-29,pcs,28
+P2363,Mutton Curry Cut (500g),Meat & Seafood,954.48,1913.17,S006,Health Essentials Ltd.,16,1,2025-07-04,kg,70
+P1092,Chai Mix (150g),Snacks & Beverages,138.21,197.55,S006,Health Essentials Ltd.,1,1,2024-12-20,bottles,12
+P2206,Mango Juice (1L),Snacks & Beverages,131.43,181.92,S003,Priya Grocers,69,1,2027-03-23,liters,800
+P1095,Jeans (Size 32),Apparel,336.48,800.13,S004,Quick Supply India,4,19,2025-05-03,sets,44
+P2374,Bananas (1 Dozen),Fruits & Vegetables,24.19,56.07,S003,Priya Grocers,29,1,2025-07-04,kg,119
+P1930,Protein Powder (Whey 500g),Health & Wellness,216.75,372.18,S007,HomeCare Solutions,19,6,2026-11-13,pcs,146
+P1477,Immunity Booster (Syrup 200ml),Health & Wellness,596.08,1312.78,S008,TechGadgets India,13,7,2025-12-02,pcs,110
+P2232,Cheese Slice (10 Pcs Pack),Dairy & Bakery,73.92,102.89,S002,Bharat Distributors,56,1,2025-07-22,liters,250
+P2389,Pressure Cooker (3L),Utensils & Cookware,259.31,507.47,S003,Priya Grocers,3,8,2026-07-11,pcs,63
+P1340,Spinach (Bunch),Fruits & Vegetables,93.0,145.91,S003,Priya Grocers,9,1,2025-05-27,kg,46
+P1028,Chicken Breast (500g),Meat & Seafood,523.92,826.61,S004,Quick Supply India,11,1,2025-06-16,pcs,32
+P1783,Basic Headphones,Electronics,17211.23,25422.77,S001,Indian Wholesale Co.,1,8,2026-08-16,pcs,17
+P1595,Socks (Pack of 3),Apparel,1777.65,3016.65,S002,Bharat Distributors,11,17,2025-08-31,sets,124
+P1522,Dishwashing Liquid (500ml),Home & Kitchen,613.1,882.39,S004,Quick Supply India,19,10,2026-01-09,kg,156
+P2495,Butter (100g),Dairy & Bakery,94.1,233.76,S008,TechGadgets India,22,2,2025-08-29,liters,102
+P1538,Basmati Rice (5kg),Grocery & Staples,143.97,244.65,S005,Apex Foods Pvt. Ltd.,26,3,2025-11-02,kg,474
+P2113,Mutton Curry Cut (500g),Meat & Seafood,394.65,943.96,S001,Indian Wholesale Co.,25,1,2025-09-01,pcs,79
+P1180,Potato Chips (Masala 75g),Snacks & Beverages,132.67,304.34,S003,Priya Grocers,2,1,2025-04-29,ml,37
+P2219,Agarbatti (Pack of 100),Home & Kitchen,312.73,563.99,S005,Apex Foods Pvt. Ltd.,33,13,2025-12-31,kg,251
+P2212,Sneakers (Size 9),Footwear,1385.56,2937.39,S001,Indian Wholesale Co.,5,12,2025-12-24,pcs,83
+P1047,Potatoes (1kg),Fruits & Vegetables,44.45,106.13,S008,TechGadgets India,2,1,2025-05-19,g,12
+P1616,Mutton Curry Cut (500g),Meat & Seafood,972.52,1336.02,S005,Apex Foods Pvt. Ltd.,30,1,2025-07-16,g,85
+P1007,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,680.54,1423.35,S004,Quick Supply India,1,7,2024-10-05,g,1
+P1421,USB Cable (2m),Electronics,11801.54,16998.11,S004,Quick Supply India,1,13,2026-08-06,units,26
+P2461,Cola (2L),Snacks & Beverages,117.04,224.81,S008,TechGadgets India,52,1,2025-12-07,bottles,794
+P2174,Mutton Curry Cut (500g),Meat & Seafood,446.4,976.47,S008,TechGadgets India,22,1,2025-08-08,pcs,82
+P1558,Dishwashing Liquid (500ml),Home & Kitchen,767.22,1498.58,S001,Indian Wholesale Co.,15,5,2025-08-11,kg,94
+P2016,Sanitary Pads (Pack of 10),Personal Care,233.63,555.37,S008,TechGadgets India,11,7,2026-09-22,g,110
+P1103,Paneer (200g),Dairy & Bakery,88.26,189.8,S005,Apex Foods Pvt. Ltd.,7,2,2025-06-10,packs,44
+P1363,Lemons (250g),Fruits & Vegetables,96.48,184.67,S007,HomeCare Solutions,30,1,2025-08-25,bunches,107
+P1701,Face Cream (Aloe Vera 50g),Personal Care,264.91,519.63,S001,Indian Wholesale Co.,21,8,2025-12-28,g,223
+P1056,Mutton Curry Cut (500g),Meat & Seafood,220.74,428.49,S003,Priya Grocers,1,1,2025-06-22,pcs,4
+P1039,Dishwashing Liquid (500ml),Home & Kitchen,431.05,558.98,S006,Health Essentials Ltd.,1,7,2024-10-11,packs,5
+P1426,Mango Juice (1L),Snacks & Beverages,114.45,230.75,S005,Apex Foods Pvt. Ltd.,55,2,2025-10-16,pcs,848
+P1582,Bread (Whole Wheat 400g),Dairy & Bakery,52.58,108.41,S002,Bharat Distributors,47,1,2025-07-14,g,278
+P1559,Spices Combo (100g),Grocery & Staples,278.24,350.59,S005,Apex Foods Pvt. Ltd.,15,2,2027-05-18,kg,297
+P1302,Potato Chips (Masala 75g),Snacks & Beverages,99.23,215.38,S005,Apex Foods Pvt. Ltd.,3,3,2025-05-24,ml,42
+P1970,Bananas (1 Dozen),Fruits & Vegetables,38.79,69.59,S002,Bharat Distributors,39,1,2025-07-05,bunches,158
+P2432,Formal Shoes (Size 10),Footwear,318.62,763.04,S002,Bharat Distributors,2,24,2025-12-31,pairs,32
+P1030,Cheese Slice (10 Pcs Pack),Dairy & Bakery,66.52,91.89,S004,Quick Supply India,4,1,2025-05-04,g,28
+P1064,Mango Juice (1L),Snacks & Beverages,145.1,253.86,S007,HomeCare Solutions,5,3,2024-10-03,bottles,73
+P1380,Frying Pan (Non-stick),Utensils & Cookware,664.08,1394.17,S007,HomeCare Solutions,1,6,2026-05-12,pcs,29
+P1169,Jeans (Size 32),Apparel,1902.16,4711.29,S005,Apex Foods Pvt. Ltd.,1,17,2024-08-02,sets,15
+P1732,Butter (100g),Dairy & Bakery,151.02,254.65,S003,Priya Grocers,62,2,2025-08-28,packs,295
+P1265,Chicken Breast (500g),Meat & Seafood,971.02,2342.32,S005,Apex Foods Pvt. Ltd.,10,1,2025-05-12,g,41
+P1949,Jeans (Size 32),Apparel,422.04,1049.71,S004,Quick Supply India,4,14,2026-10-31,sets,53
+P1449,Jeans (Size 32),Apparel,1580.12,2145.31,S007,HomeCare Solutions,3,24,2026-02-03,pcs,37
+P1966,Mango Juice (1L),Snacks & Beverages,74.32,99.88,S007,HomeCare Solutions,99,2,2026-12-31,ml,1095
+P1895,Sandals (Size 8),Footwear,529.68,1153.32,S008,TechGadgets India,5,18,2026-07-05,pcs,83
+P1727,USB Cable (2m),Electronics,42094.96,104064.4,S008,TechGadgets India,1,9,2026-11-08,pcs,47
+P1403,Cheese Slice (10 Pcs Pack),Dairy & Bakery,194.4,384.75,S003,Priya Grocers,59,1,2025-08-08,pcs,251
+P1402,LED Bulb (9W),Electronics,34340.25,55037.01,S007,HomeCare Solutions,1,16,2025-10-28,units,42
+P1282,Sandals (Size 8),Footwear,458.83,1030.1,S001,Indian Wholesale Co.,1,17,2024-12-10,pairs,26
+P2317,Pressure Cooker (3L),Utensils & Cookware,851.99,1359.14,S003,Priya Grocers,3,9,2027-03-05,pcs,68
+P1494,Sandals (Size 8),Footwear,1371.85,2843.4,S007,HomeCare Solutions,5,19,2025-11-09,pcs,85
+P1476,Apples (1kg),Fruits & Vegetables,34.09,48.24,S002,Bharat Distributors,9,1,2025-09-25,kg,34
+P2054,Protein Powder (Whey 500g),Health & Wellness,220.21,540.1,S001,Indian Wholesale Co.,27,11,2026-11-04,packs,218
+P1516,Socks (Pack of 3),Apparel,1878.81,4175.78,S003,Priya Grocers,6,14,2026-12-21,sets,81
+P1387,Dishwashing Liquid (500ml),Home & Kitchen,310.51,653.74,S008,TechGadgets India,29,8,2027-04-17,pcs,174
+P2118,Butter (100g),Dairy & Bakery,67.97,150.03,S001,Indian Wholesale Co.,48,2,2025-08-28,dozens,277
+P1273,Pressure Cooker (3L),Utensils & Cookware,825.99,1662.82,S003,Priya Grocers,1,11,2025-02-17,pcs,31
+P2029,Agarbatti (Pack of 100),Home & Kitchen,172.38,329.63,S004,Quick Supply India,40,6,2026-04-02,kg,259
+P1051,Salt (1kg),Grocery & Staples,178.12,382.41,S001,Indian Wholesale Co.,1,4,2024-11-16,packets,3
+P1548,Dishwashing Liquid (500ml),Home & Kitchen,798.99,1491.06,S004,Quick Supply India,33,14,2025-10-26,packs,215
+P1668,Hand Wash (Neem 250ml),Personal Care,153.99,250.89,S003,Priya Grocers,18,3,2025-11-04,ml,166
+P1851,Toilet Cleaner (500ml),Home & Kitchen,127.53,158.17,S006,Health Essentials Ltd.,42,12,2026-10-17,bottles,244
+P1191,Basic Headphones,Electronics,13287.0,32842.6,S006,Health Essentials Ltd.,1,11,2025-04-05,pcs,24
+P1694,Toothpaste (Herbal 150g),Personal Care,283.27,533.61,S008,TechGadgets India,18,6,2026-03-22,bottles,164
+P2254,Ghee (500ml),Grocery & Staples,248.43,356.23,S001,Indian Wholesale Co.,36,5,2026-11-14,kg,784
+P1868,Dinner Set (4 Pcs),Utensils & Cookware,638.08,836.23,S002,Bharat Distributors,4,5,2026-09-02,sets,69
+P1531,Tea Powder (250g),Grocery & Staples,185.51,402.87,S006,Health Essentials Ltd.,47,5,2026-10-06,packets,815
+P2408,Cola (2L),Snacks & Beverages,87.82,109.82,S008,TechGadgets India,85,2,2026-11-17,liters,924
+P1049,Soap (Sandalwood 125g),Personal Care,291.38,448.64,S008,TechGadgets India,2,5,2024-09-05,bottles,25
+P1040,Curd (500g),Dairy & Bakery,122.06,223.7,S007,HomeCare Solutions,6,1,2025-05-18,pcs,36
+P2000,Mustard Oil (1L),Grocery & Staples,260.97,418.05,S001,Indian Wholesale Co.,34,2,2026-09-10,kg,609
+P1475,Basmati Rice (5kg),Grocery & Staples,181.18,358.59,S004,Quick Supply India,7,3,2026-12-29,kg,136
+P1720,Mineral Water (1L),Snacks & Beverages,28.59,63.03,S001,Indian Wholesale Co.,28,3,2026-02-23,liters,432
+P2497,Pressure Cooker (3L),Utensils & Cookware,510.06,712.24,S002,Bharat Distributors,4,9,2025-10-23,sets,68
+P1080,Bananas (1 Dozen),Fruits & Vegetables,86.26,141.1,S004,Quick Supply India,3,1,2025-05-29,dozens,15
+P1033,Toor Dal (1kg),Grocery & Staples,291.43,670.58,S003,Priya Grocers,2,2,2024-09-07,pcs,49
+P1991,Matchbox (Pack of 10),Home & Kitchen,380.96,465.68,S007,HomeCare Solutions,38,6,2025-11-19,kg,232
+P1652,Bananas (1 Dozen),Fruits & Vegetables,79.79,196.37,S001,Indian Wholesale Co.,23,1,2025-07-12,dozens,108
+P1737,Energy Bar (Nut 50g),Snacks & Beverages,74.28,177.6,S002,Bharat Distributors,63,2,2025-12-17,bottles,711
+P1058,Water Bottle (Steel),Utensils & Cookware,486.14,1021.57,S003,Priya Grocers,2,10,2025-06-17,sets,35
+P1629,Eggs (6 Pcs),Dairy & Bakery,92.54,156.8,S008,TechGadgets India,12,2,2025-07-16,pcs,59
+P2275,Frying Pan (Non-stick),Utensils & Cookware,843.74,1919.49,S008,TechGadgets India,4,13,2027-05-30,sets,78
+P1242,Toor Dal (1kg),Grocery & Staples,96.38,137.9,S005,Apex Foods Pvt. Ltd.,2,4,2025-01-08,kg,49
+P1928,Mango Juice (1L),Snacks & Beverages,105.66,255.76,S003,Priya Grocers,18,2,2027-06-22,packets,205
+P1189,Agarbatti (Pack of 100),Home & Kitchen,695.16,1273.89,S007,HomeCare Solutions,5,7,2025-03-29,kg,31
+P1683,Mutton Curry Cut (500g),Meat & Seafood,676.16,858.27,S001,Indian Wholesale Co.,15,1,2025-09-05,pcs,47
+P1214,Basmati Rice (5kg),Grocery & Staples,170.94,232.24,S002,Bharat Distributors,2,5,2025-03-14,packets,47
+P1072,Potato Chips (Masala 75g),Snacks & Beverages,52.69,87.46,S008,TechGadgets India,5,2,2025-06-15,packets,70
+P2201,Immunity Booster (Syrup 200ml),Health & Wellness,144.51,237.93,S002,Bharat Distributors,6,9,2026-05-05,pcs,58
+P2037,Chai Mix (150g),Snacks & Beverages,126.78,309.4,S001,Indian Wholesale Co.,60,2,2026-11-04,pcs,768
+P2159,USB Cable (2m),Electronics,19758.84,25155.44,S002,Bharat Distributors,1,16,2026-11-09,units,39
+P1791,Sugar (1kg),Grocery & Staples,276.14,656.98,S007,HomeCare Solutions,32,4,2027-05-23,pcs,694
+P2474,Protein Powder (Whey 500g),Health & Wellness,591.92,1319.01,S008,TechGadgets India,12,4,2027-03-12,pcs,128
+P1968,Casual Shirt (L),Apparel,586.64,865.12,S007,HomeCare Solutions,6,14,2026-10-15,pcs,88
+P1983,Casual Shirt (L),Apparel,1403.07,3003.96,S007,HomeCare Solutions,2,20,2027-04-15,sets,31
+P1739,Energy Bar (Nut 50g),Snacks & Beverages,38.65,83.79,S008,TechGadgets India,68,2,2027-06-18,ml,799
+P1704,Basic Headphones,Electronics,41854.09,59649.6,S004,Quick Supply India,1,16,2027-03-05,units,20
+P1617,Extension Cord (5m),Electronics,14832.37,27058.01,S002,Bharat Distributors,1,12,2027-01-11,pcs,21
+P2303,USB Cable (2m),Electronics,26235.48,60888.68,S008,TechGadgets India,1,12,2026-07-18,units,46
+P1167,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,150.38,370.44,S001,Indian Wholesale Co.,1,6,2024-11-22,ml,16
+P1762,Tomatoes (500g),Fruits & Vegetables,80.11,157.93,S005,Apex Foods Pvt. Ltd.,29,1,2025-09-17,kg,101
+P1932,Jeans (Size 32),Apparel,643.46,1606.81,S005,Apex Foods Pvt. Ltd.,8,15,2025-08-15,pcs,123
+P2130,Sanitary Pads (Pack of 10),Personal Care,340.96,684.77,S003,Priya Grocers,18,7,2027-01-02,g,168
+P1096,Chicken Breast (500g),Meat & Seafood,239.53,440.91,S001,Indian Wholesale Co.,12,1,2025-06-08,kg,49
+P2153,USB Cable (2m),Electronics,26025.89,43756.42,S005,Apex Foods Pvt. Ltd.,1,9,2025-10-16,units,23
+P1460,Butter (100g),Dairy & Bakery,37.38,68.99,S006,Health Essentials Ltd.,32,2,2025-07-26,pcs,138
+P1315,Immunity Booster (Syrup 200ml),Health & Wellness,306.18,520.77,S005,Apex Foods Pvt. Ltd.,1,6,2024-10-02,ml,9
+P2242,Frying Pan (Non-stick),Utensils & Cookware,403.56,799.78,S006,Health Essentials Ltd.,3,11,2026-06-16,sets,66
+P1836,Chicken Breast (500g),Meat & Seafood,706.08,1663.94,S003,Priya Grocers,20,1,2025-08-14,g,77
+P1653,Chicken Breast (500g),Meat & Seafood,509.1,1039.1,S007,HomeCare Solutions,3,1,2025-09-14,g,11
+P1658,Onions (1kg),Fruits & Vegetables,65.32,106.98,S007,HomeCare Solutions,36,1,2025-08-20,dozens,129
+P1253,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,43.66,75.39,S003,Priya Grocers,4,3,2024-10-10,pcs,48
+P1977,Frying Pan (Non-stick),Utensils & Cookware,882.51,1182.22,S003,Priya Grocers,2,5,2025-10-09,pcs,40
+P1774,Formal Shoes (Size 10),Footwear,413.76,1012.02,S002,Bharat Distributors,7,10,2027-02-01,pcs,97
+P2446,Chicken Breast (500g),Meat & Seafood,950.39,1523.35,S002,Bharat Distributors,4,1,2025-09-25,pcs,17
+P1682,Dishwashing Liquid (500ml),Home & Kitchen,390.26,483.8,S001,Indian Wholesale Co.,47,12,2026-09-13,kg,281
+P1448,Protein Powder (Whey 500g),Health & Wellness,518.85,765.47,S008,TechGadgets India,24,11,2025-09-16,ml,180
+P1392,Hand Wash (Neem 250ml),Personal Care,159.68,384.87,S003,Priya Grocers,32,7,2027-04-12,packs,359
+P2024,Immunity Booster (Syrup 200ml),Health & Wellness,102.19,131.14,S006,Health Essentials Ltd.,34,4,2025-10-13,packs,243
+P1975,Casual Shirt (L),Apparel,455.73,1019.03,S006,Health Essentials Ltd.,5,24,2026-06-26,pcs,57
+P2017,Bread (Whole Wheat 400g),Dairy & Bakery,129.35,278.17,S006,Health Essentials Ltd.,55,1,2025-08-08,g,298
+P1281,Fish Fillet (250g),Meat & Seafood,954.67,2313.39,S005,Apex Foods Pvt. Ltd.,3,1,2025-06-27,pcs,12
+P1564,Potatoes (1kg),Fruits & Vegetables,76.98,166.87,S008,TechGadgets India,39,1,2025-09-25,g,195
+P2393,Spices Combo (100g),Grocery & Staples,118.98,169.64,S003,Priya Grocers,22,3,2025-11-25,kg,490
+P1821,Garbage Bags (Medium Pack),Home & Kitchen,765.62,1545.31,S001,Indian Wholesale Co.,7,10,2027-03-20,rolls,47
+P1637,Coriander (Bunch),Fruits & Vegetables,35.22,65.2,S002,Bharat Distributors,39,1,2025-08-27,pcs,133
+P1104,Dishwashing Liquid (500ml),Home & Kitchen,316.17,693.67,S002,Bharat Distributors,5,11,2025-01-16,rolls,43
+P1464,Hair Oil (Coconut 300ml),Personal Care,355.39,530.94,S008,TechGadgets India,27,8,2026-01-24,bottles,272
+P1296,Milk (toned 1L),Dairy & Bakery,161.07,289.66,S003,Priya Grocers,3,2,2025-05-06,dozens,16
+P2158,USB Cable (2m),Electronics,35887.9,76054.83,S005,Apex Foods Pvt. Ltd.,1,19,2027-05-02,pcs,1
+P2341,Socks (Pack of 3),Apparel,785.26,1635.73,S008,TechGadgets India,4,15,2026-08-24,sets,64
+P2473,Formal Shoes (Size 10),Footwear,335.47,737.31,S008,TechGadgets India,2,23,2027-01-18,pcs,28
+P2226,Extension Cord (5m),Electronics,36643.47,81383.69,S001,Indian Wholesale Co.,1,19,2026-02-21,units,13
+P1342,Immunity Booster (Syrup 200ml),Health & Wellness,472.74,986.81,S007,HomeCare Solutions,2,11,2024-07-12,ml,21
+P2293,Bananas (1 Dozen),Fruits & Vegetables,50.8,91.41,S007,HomeCare Solutions,25,1,2025-08-20,dozens,121
+P1082,Floor Cleaner (1L),Home & Kitchen,370.27,909.49,S006,Health Essentials Ltd.,1,5,2024-12-03,bottles,3
+P1879,Mutton Curry Cut (500g),Meat & Seafood,986.9,2278.05,S006,Health Essentials Ltd.,15,1,2025-09-07,kg,49
+P1830,Mustard Oil (1L),Grocery & Staples,73.64,95.08,S006,Health Essentials Ltd.,39,6,2025-09-17,kg,706
+P1719,Floor Cleaner (1L),Home & Kitchen,750.92,1601.99,S004,Quick Supply India,39,14,2027-03-01,pcs,274
+P1199,Jeans (Size 32),Apparel,1137.73,1524.74,S008,TechGadgets India,1,21,2024-11-16,pcs,10
+P2409,Yogurt (Fruit 150g),Dairy & Bakery,142.88,277.16,S003,Priya Grocers,38,1,2025-08-31,g,214
+P2412,Floor Cleaner (1L),Home & Kitchen,280.66,432.57,S002,Bharat Distributors,22,9,2025-11-03,rolls,136
+P1992,Onions (1kg),Fruits & Vegetables,68.39,138.45,S008,TechGadgets India,39,1,2025-08-14,g,155
+P1871,Toothpaste (Herbal 150g),Personal Care,147.06,316.92,S003,Priya Grocers,27,4,2026-12-16,ml,265
+P2062,Extension Cord (5m),Electronics,4629.34,10553.37,S005,Apex Foods Pvt. Ltd.,1,16,2026-04-07,units,13
+P2472,Sunscreen (SPF30 100ml),Personal Care,237.86,319.3,S003,Priya Grocers,6,8,2025-11-12,bottles,57
+P1600,Formal Shoes (Size 10),Footwear,370.53,758.42,S005,Apex Foods Pvt. Ltd.,7,11,2026-07-07,pairs,99
+P2328,Floor Cleaner (1L),Home & Kitchen,595.95,1235.39,S008,TechGadgets India,20,7,2025-10-01,pcs,157
+P1331,LED Bulb (9W),Electronics,10112.12,21653.22,S008,TechGadgets India,1,11,2025-05-01,pcs,18
+P1809,Mutton Curry Cut (500g),Meat & Seafood,566.39,708.99,S007,HomeCare Solutions,10,1,2025-08-11,pcs,40
+P2384,Toothpaste (Herbal 150g),Personal Care,288.84,522.71,S005,Apex Foods Pvt. Ltd.,31,9,2026-01-06,bottles,267
+P1996,Coffee (100g),Grocery & Staples,141.05,245.59,S003,Priya Grocers,16,6,2027-06-16,pcs,318
+P2128,Basic Headphones,Electronics,20084.57,44794.69,S004,Quick Supply India,1,9,2026-08-09,pcs,30
+P1415,Frying Pan (Non-stick),Utensils & Cookware,377.98,659.64,S001,Indian Wholesale Co.,2,8,2026-09-13,sets,39
+P2471,Matchbox (Pack of 10),Home & Kitchen,154.11,239.16,S004,Quick Supply India,20,9,2025-12-30,bottles,160
+P2114,Socks (Pack of 3),Apparel,1128.63,2339.45,S003,Priya Grocers,11,17,2025-12-16,sets,144
+P1852,Biscuits (Atta 100g),Snacks & Beverages,133.62,321.58,S005,Apex Foods Pvt. Ltd.,84,3,2026-11-30,ml,1013
+P1009,Immunity Booster (Syrup 200ml),Health & Wellness,618.2,894.4,S002,Bharat Distributors,1,11,2024-07-07,ml,18
+P1976,Cotton T-shirt (M),Apparel,996.55,2324.3,S002,Bharat Distributors,1,17,2027-01-31,pcs,18
+P1525,Pressure Cooker (3L),Utensils & Cookware,933.74,1447.99,S001,Indian Wholesale Co.,2,6,2027-03-02,sets,32
+P1862,Matchbox (Pack of 10),Home & Kitchen,125.7,250.2,S008,TechGadgets India,6,10,2027-06-27,rolls,52
+P1684,USB Cable (2m),Electronics,25015.28,31157.2,S008,TechGadgets India,1,14,2025-12-29,units,18
+P1193,Immunity Booster (Syrup 200ml),Health & Wellness,666.34,1002.35,S007,HomeCare Solutions,4,7,2025-05-07,pcs,44
+P2131,Basic Headphones,Electronics,47292.96,65376.89,S002,Bharat Distributors,1,8,2026-11-09,pcs,10
+P1889,Extension Cord (5m),Electronics,38292.02,58225.71,S003,Priya Grocers,1,8,2026-10-02,pcs,42
+P1006,Sneakers (Size 9),Footwear,1207.93,2379.39,S005,Apex Foods Pvt. Ltd.,1,17,2025-01-04,pairs,12
+P1488,Protein Powder (Whey 500g),Health & Wellness,294.37,585.97,S007,HomeCare Solutions,23,11,2026-09-11,bottles,246
+P2077,Toothpaste (Herbal 150g),Personal Care,176.85,218.52,S006,Health Essentials Ltd.,10,5,2026-07-17,ml,126
+P2149,Laundry Detergent (1kg),Home & Kitchen,288.61,448.92,S005,Apex Foods Pvt. Ltd.,52,6,2025-11-26,bottles,295
+P1074,Soap (Sandalwood 125g),Personal Care,277.54,477.57,S003,Priya Grocers,4,8,2024-08-13,g,48
+P2009,Immunity Booster (Syrup 200ml),Health & Wellness,625.72,1426.12,S008,TechGadgets India,28,6,2025-08-31,pcs,217
+P1796,Mutton Curry Cut (500g),Meat & Seafood,442.74,1000.99,S004,Quick Supply India,9,1,2025-07-21,pcs,27
+P2310,Face Cream (Aloe Vera 50g),Personal Care,206.0,365.37,S005,Apex Foods Pvt. Ltd.,23,7,2026-02-17,ml,243
+P1203,Basmati Rice (5kg),Grocery & Staples,142.27,332.78,S004,Quick Supply India,2,6,2025-01-19,pcs,46
+P1742,Cheese Slice (10 Pcs Pack),Dairy & Bakery,189.5,343.04,S005,Apex Foods Pvt. Ltd.,47,2,2025-07-28,liters,200
+P1062,Cola (2L),Snacks & Beverages,62.96,105.32,S007,HomeCare Solutions,5,4,2024-09-04,pcs,65
+P1140,Chicken Breast (500g),Meat & Seafood,724.47,1066.52,S006,Health Essentials Ltd.,4,1,2025-05-29,g,18
+P1300,Pressure Cooker (3L),Utensils & Cookware,355.77,495.77,S001,Indian Wholesale Co.,1,14,2024-12-22,pcs,24
+P1756,Chicken Breast (500g),Meat & Seafood,368.22,676.39,S007,HomeCare Solutions,18,1,2025-07-20,pcs,62
+P2230,LED Bulb (9W),Electronics,40925.65,74835.45,S008,TechGadgets India,1,9,2027-03-11,pcs,46
+P1659,Tea Powder (250g),Grocery & Staples,70.69,113.46,S006,Health Essentials Ltd.,32,4,2025-09-13,packets,724
+P1435,Extension Cord (5m),Electronics,49764.5,67615.61,S002,Bharat Distributors,1,8,2027-02-09,units,44
+P1295,Protein Powder (Whey 500g),Health & Wellness,562.57,743.32,S006,Health Essentials Ltd.,2,6,2024-12-21,packs,27
+P1437,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,383.05,712.82,S008,TechGadgets India,8,7,2026-11-13,pcs,78
+P2352,Onions (1kg),Fruits & Vegetables,24.64,32.74,S003,Priya Grocers,24,1,2025-09-26,bunches,84
+P1552,LED Bulb (9W),Electronics,12329.72,22922.79,S008,TechGadgets India,1,16,2025-09-09,units,8
+P1712,Agarbatti (Pack of 100),Home & Kitchen,439.41,1016.59,S008,TechGadgets India,25,12,2025-10-11,rolls,204
+P1906,Bananas (1 Dozen),Fruits & Vegetables,90.18,199.39,S004,Quick Supply India,37,1,2025-07-14,dozens,136
+P1465,Cotton T-shirt (M),Apparel,1980.87,2625.64,S006,Health Essentials Ltd.,9,21,2027-01-30,sets,124
+P1596,Potatoes (1kg),Fruits & Vegetables,86.18,169.98,S005,Apex Foods Pvt. Ltd.,26,1,2025-08-25,bunches,108
+P2421,Curd (500g),Dairy & Bakery,191.92,232.63,S004,Quick Supply India,32,1,2025-08-01,liters,172
+P1236,Water Bottle (Steel),Utensils & Cookware,649.75,921.68,S001,Indian Wholesale Co.,2,8,2025-04-25,sets,35
+P2463,Sandals (Size 8),Footwear,902.72,1477.01,S005,Apex Foods Pvt. Ltd.,5,19,2026-06-20,pcs,89
+P1690,Onions (1kg),Fruits & Vegetables,88.84,131.8,S007,HomeCare Solutions,28,1,2025-07-21,pcs,96
+P1107,Cotton T-shirt (M),Apparel,332.28,606.12,S005,Apex Foods Pvt. Ltd.,2,19,2024-09-14,pcs,34
+P2236,LED Bulb (9W),Electronics,47761.37,64391.65,S002,Bharat Distributors,1,13,2026-12-08,units,49
+P1413,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,382.08,547.43,S003,Priya Grocers,11,11,2027-01-06,ml,114
+P1263,Immunity Booster (Syrup 200ml),Health & Wellness,596.44,754.34,S005,Apex Foods Pvt. Ltd.,6,10,2025-04-27,bottles,48
+P1998,Soap (Sandalwood 125g),Personal Care,179.47,415.6,S002,Bharat Distributors,26,3,2026-10-20,bottles,241
+P2287,Sneakers (Size 9),Footwear,1276.69,2694.08,S003,Priya Grocers,2,14,2025-10-11,pcs,35
+P1430,Chicken Breast (500g),Meat & Seafood,525.68,732.43,S007,HomeCare Solutions,7,1,2025-08-09,pcs,30
+P1045,Agarbatti (Pack of 100),Home & Kitchen,156.81,326.47,S005,Apex Foods Pvt. Ltd.,1,11,2025-01-13,rolls,7
+P1046,Butter (100g),Dairy & Bakery,175.94,378.03,S008,TechGadgets India,3,2,2025-05-25,g,17
+P1863,Mutton Curry Cut (500g),Meat & Seafood,472.43,871.01,S006,Health Essentials Ltd.,16,1,2025-09-01,kg,57
+P1102,Cotton T-shirt (M),Apparel,1575.43,3084.67,S005,Apex Foods Pvt. Ltd.,1,22,2024-09-23,pcs,23
+P1270,Immunity Booster (Syrup 200ml),Health & Wellness,502.25,1113.01,S004,Quick Supply India,5,5,2025-06-01,packs,42
+P1105,Chai Mix (150g),Snacks & Beverages,48.34,64.24,S001,Indian Wholesale Co.,2,1,2024-12-26,packets,27
+P1869,Sandals (Size 8),Footwear,1303.45,1701.02,S004,Quick Supply India,2,24,2026-03-13,pcs,37
+P1746,Mutton Curry Cut (500g),Meat & Seafood,991.96,1524.92,S002,Bharat Distributors,32,1,2025-07-06,kg,96
+P2369,Formal Shoes (Size 10),Footwear,1015.85,1382.71,S003,Priya Grocers,1,12,2026-10-22,pcs,22
+P2182,Milk (toned 1L),Dairy & Bakery,78.63,191.81,S001,Indian Wholesale Co.,20,2,2025-07-16,packs,126
+P2076,Apples (1kg),Fruits & Vegetables,69.45,141.93,S008,TechGadgets India,54,1,2025-09-22,bunches,193
+P1837,Protein Powder (Whey 500g),Health & Wellness,521.1,968.49,S001,Indian Wholesale Co.,14,10,2026-12-17,ml,100
+P2451,Frying Pan (Non-stick),Utensils & Cookware,568.22,797.01,S004,Quick Supply India,3,12,2026-05-19,pcs,60
+P1462,LED Bulb (9W),Electronics,5034.05,8560.06,S002,Bharat Distributors,1,7,2026-05-09,units,14
+P2385,Hair Oil (Coconut 300ml),Personal Care,141.45,192.04,S003,Priya Grocers,29,3,2026-06-18,g,297
+P1418,Sunscreen (SPF30 100ml),Personal Care,237.22,565.0,S008,TechGadgets India,33,4,2025-11-15,pcs,283
+P1258,Formal Shoes (Size 10),Footwear,1180.64,2172.15,S002,Bharat Distributors,1,22,2025-01-24,pairs,18
+P1038,LED Bulb (9W),Electronics,36320.68,90132.32,S006,Health Essentials Ltd.,1,8,2025-02-01,pcs,29
+P2426,Basic Headphones,Electronics,26388.1,55659.4,S005,Apex Foods Pvt. Ltd.,1,16,2026-11-24,units,35
+P1898,Pressure Cooker (3L),Utensils & Cookware,695.83,1031.73,S007,HomeCare Solutions,1,7,2026-06-01,pcs,20
+P1770,Apples (1kg),Fruits & Vegetables,99.16,138.24,S004,Quick Supply India,49,1,2025-07-29,kg,174
+P1985,Chicken Breast (500g),Meat & Seafood,307.97,460.45,S002,Bharat Distributors,20,1,2025-08-28,pcs,73
+P1944,Immunity Booster (Syrup 200ml),Health & Wellness,195.86,470.31,S007,HomeCare Solutions,21,11,2025-08-22,bottles,163
+P1165,Cheese Slice (10 Pcs Pack),Dairy & Bakery,63.99,156.93,S005,Apex Foods Pvt. Ltd.,4,2,2025-05-09,liters,27
+P1185,Shampoo (Anti-dandruff 200ml),Personal Care,133.8,170.25,S002,Bharat Distributors,4,4,2024-09-24,ml,40
+P1411,Immunity Booster (Syrup 200ml),Health & Wellness,534.46,941.92,S001,Indian Wholesale Co.,15,11,2027-06-01,packs,129
+P1027,Fish Fillet (250g),Meat & Seafood,675.53,1669.37,S005,Apex Foods Pvt. Ltd.,1,1,2025-06-21,pcs,1
+P1423,Mutton Curry Cut (500g),Meat & Seafood,961.86,1305.35,S005,Apex Foods Pvt. Ltd.,4,1,2025-09-24,kg,14
+P1785,Casual Shirt (L),Apparel,1471.57,1914.85,S006,Health Essentials Ltd.,5,18,2025-09-11,sets,78
+P1116,Basic Headphones,Electronics,18645.76,35325.41,S006,Health Essentials Ltd.,1,8,2025-06-21,pcs,39
+P1249,Mustard Oil (1L),Grocery & Staples,133.55,197.15,S006,Health Essentials Ltd.,2,2,2024-09-09,pcs,44
+P1388,Face Cream (Aloe Vera 50g),Personal Care,139.94,266.62,S003,Priya Grocers,39,8,2026-03-24,bottles,429
+P1335,Sandals (Size 8),Footwear,544.42,1012.18,S006,Health Essentials Ltd.,1,18,2024-12-03,pcs,0
+P1078,Socks (Pack of 3),Apparel,1873.71,3901.33,S005,Apex Foods Pvt. Ltd.,2,14,2024-07-11,pcs,38
+P1065,LED Bulb (9W),Electronics,43350.91,87185.49,S001,Indian Wholesale Co.,1,13,2025-04-08,pcs,42
+P2008,Socks (Pack of 3),Apparel,1076.47,2068.03,S004,Quick Supply India,2,15,2026-05-13,sets,26
+P1515,Toothpaste (Herbal 150g),Personal Care,261.22,342.07,S005,Apex Foods Pvt. Ltd.,58,3,2025-11-11,packs,486
+P1014,Mango Juice (1L),Snacks & Beverages,39.75,67.95,S007,HomeCare Solutions,4,2,2025-03-02,pcs,58
+P1339,Casual Shirt (L),Apparel,1909.78,4007.24,S004,Quick Supply India,1,12,2025-01-23,sets,3
+P2295,Tomatoes (500g),Fruits & Vegetables,40.34,53.85,S002,Bharat Distributors,47,1,2025-08-20,dozens,176
+P1085,Cheese Slice (10 Pcs Pack),Dairy & Bakery,184.15,296.91,S006,Health Essentials Ltd.,1,2,2025-05-14,pcs,9
+P1534,Protein Powder (Whey 500g),Health & Wellness,390.12,905.84,S002,Bharat Distributors,22,7,2027-01-11,g,203
+P2321,Cotton T-shirt (M),Apparel,754.55,957.77,S003,Priya Grocers,5,18,2026-10-04,pcs,69
+P2082,Biscuits (Atta 100g),Snacks & Beverages,106.03,144.04,S003,Priya Grocers,32,2,2026-05-22,ml,430
+P1577,Extension Cord (5m),Electronics,11191.36,23687.03,S003,Priya Grocers,1,8,2027-02-17,pcs,5
+P1054,Pressure Cooker (3L),Utensils & Cookware,934.29,1856.77,S006,Health Essentials Ltd.,1,12,2025-03-12,pcs,0
+P1870,Hand Wash (Neem 250ml),Personal Care,310.97,454.39,S002,Bharat Distributors,10,8,2026-04-22,bottles,116
+P2253,Pressure Cooker (3L),Utensils & Cookware,331.37,762.46,S005,Apex Foods Pvt. Ltd.,3,10,2025-09-09,sets,52
+P2041,Basmati Rice (5kg),Grocery & Staples,69.19,137.17,S006,Health Essentials Ltd.,23,5,2027-03-31,packets,524
+P2498,Face Cream (Aloe Vera 50g),Personal Care,306.05,548.92,S007,HomeCare Solutions,51,9,2026-04-30,bottles,439
+P1857,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,566.57,724.38,S003,Priya Grocers,4,6,2026-05-07,ml,40
+P1376,Immunity Booster (Syrup 200ml),Health & Wellness,301.65,531.17,S007,HomeCare Solutions,12,10,2025-08-27,ml,101
+P1528,Sugar (1kg),Grocery & Staples,170.6,231.4,S004,Quick Supply India,27,4,2026-09-24,pcs,640
+P1086,Mutton Curry Cut (500g),Meat & Seafood,302.56,464.85,S002,Bharat Distributors,1,1,2025-05-31,kg,2
+P2033,Socks (Pack of 3),Apparel,1283.98,2558.76,S003,Priya Grocers,4,12,2026-05-27,pcs,48
+P1343,Sanitary Pads (Pack of 10),Personal Care,127.49,155.08,S007,HomeCare Solutions,4,9,2024-11-01,g,46
+P1946,Sneakers (Size 9),Footwear,301.43,461.63,S007,HomeCare Solutions,3,18,2027-02-19,pcs,49
+P2249,Wheat Flour (10kg),Grocery & Staples,56.78,128.93,S005,Apex Foods Pvt. Ltd.,34,2,2025-10-05,pcs,860
+P2231,Sneakers (Size 9),Footwear,1272.76,3102.96,S007,HomeCare Solutions,1,22,2025-09-10,pcs,13
+P1468,Biscuits (Atta 100g),Snacks & Beverages,31.21,41.54,S005,Apex Foods Pvt. Ltd.,24,1,2025-08-23,ml,327
+P1608,Matchbox (Pack of 10),Home & Kitchen,205.11,248.83,S008,TechGadgets India,16,13,2026-12-12,pcs,100
+P1974,Sandals (Size 8),Footwear,562.26,1244.15,S003,Priya Grocers,3,11,2026-03-24,pcs,44
+P2257,Pressure Cooker (3L),Utensils & Cookware,379.86,660.71,S008,TechGadgets India,4,9,2025-08-14,sets,77
+P1716,Protein Powder (Whey 500g),Health & Wellness,661.57,1326.2,S004,Quick Supply India,19,8,2027-05-25,ml,154
+P1141,Sneakers (Size 9),Footwear,1403.38,2397.64,S005,Apex Foods Pvt. Ltd.,1,16,2024-10-12,pcs,17
+P2339,Chicken Breast (500g),Meat & Seafood,571.96,1106.19,S002,Bharat Distributors,7,1,2025-07-24,g,21
+P1882,Sugar (1kg),Grocery & Staples,162.51,319.51,S004,Quick Supply India,49,3,2027-01-07,packets,884
+P1353,Coriander (Bunch),Fruits & Vegetables,82.06,101.9,S005,Apex Foods Pvt. Ltd.,37,1,2025-09-11,dozens,139
+P1012,Milk (toned 1L),Dairy & Bakery,41.73,63.49,S004,Quick Supply India,2,2,2025-06-26,dozens,12
+P2154,Water Bottle (Steel),Utensils & Cookware,848.57,1208.97,S005,Apex Foods Pvt. Ltd.,1,9,2025-10-07,sets,31
+P1972,Socks (Pack of 3),Apparel,1765.79,2661.08,S005,Apex Foods Pvt. Ltd.,12,22,2027-06-04,sets,129
+P2184,LED Bulb (9W),Electronics,42692.46,72680.81,S001,Indian Wholesale Co.,1,18,2027-01-20,pcs,6
+P2455,Casual Shirt (L),Apparel,1878.1,3133.97,S004,Quick Supply India,6,18,2026-08-20,sets,84
+P1152,Coriander (Bunch),Fruits & Vegetables,57.09,136.58,S001,Indian Wholesale Co.,11,1,2025-05-16,dozens,47
+P1544,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,634.05,1107.17,S008,TechGadgets India,4,7,2026-12-07,packs,44
+P1758,Spinach (Bunch),Fruits & Vegetables,36.65,62.22,S005,Apex Foods Pvt. Ltd.,16,1,2025-07-24,kg,69
+P2039,Toilet Cleaner (500ml),Home & Kitchen,289.42,511.18,S007,HomeCare Solutions,4,10,2026-11-30,pcs,34
+P2193,Mutton Curry Cut (500g),Meat & Seafood,606.9,1428.13,S004,Quick Supply India,26,1,2025-08-25,kg,99
+P1772,Mutton Curry Cut (500g),Meat & Seafood,996.55,1878.85,S001,Indian Wholesale Co.,29,1,2025-09-05,pcs,97
+P2377,Hair Oil (Coconut 300ml),Personal Care,190.59,393.73,S002,Bharat Distributors,44,3,2027-01-29,ml,481
+P1089,Formal Shoes (Size 10),Footwear,994.68,2481.14,S007,HomeCare Solutions,3,18,2024-09-15,pairs,42
+P1999,Agarbatti (Pack of 100),Home & Kitchen,470.25,986.23,S006,Health Essentials Ltd.,43,12,2025-10-16,packs,270
+P1457,Fish Fillet (250g),Meat & Seafood,977.57,1662.63,S007,HomeCare Solutions,6,1,2025-08-28,g,23
+P1775,Basic Headphones,Electronics,41426.2,53277.37,S006,Health Essentials Ltd.,1,16,2027-04-21,units,37
+P1586,Tomatoes (500g),Fruits & Vegetables,31.78,54.33,S006,Health Essentials Ltd.,19,1,2025-09-05,bunches,93
+P2199,Cotton T-shirt (M),Apparel,1818.35,2981.0,S005,Apex Foods Pvt. Ltd.,6,20,2026-09-03,pcs,85
+P1621,Dinner Set (4 Pcs),Utensils & Cookware,152.29,192.29,S008,TechGadgets India,1,9,2025-08-25,sets,23
+P2190,Pressure Cooker (3L),Utensils & Cookware,900.67,1186.04,S008,TechGadgets India,3,8,2026-02-13,pcs,71
+P1285,Bananas (1 Dozen),Fruits & Vegetables,41.04,73.32,S001,Indian Wholesale Co.,1,1,2025-05-07,kg,0
+P2020,Curd (500g),Dairy & Bakery,63.37,128.85,S006,Health Essentials Ltd.,44,2,2025-07-22,g,223
+P2035,Immunity Booster (Syrup 200ml),Health & Wellness,552.68,973.9,S002,Bharat Distributors,21,11,2027-01-13,packs,159
+P1219,Lemons (250g),Fruits & Vegetables,72.22,131.04,S002,Bharat Distributors,1,1,2025-05-08,dozens,4
+P1692,Protein Powder (Whey 500g),Health & Wellness,432.15,773.45,S004,Quick Supply India,22,11,2026-10-15,ml,169
+P1071,Cotton T-shirt (M),Apparel,315.38,692.13,S007,HomeCare Solutions,4,10,2024-09-17,sets,46
+P1923,Extension Cord (5m),Electronics,27993.82,44173.72,S006,Health Essentials Ltd.,1,18,2026-10-15,pcs,28
+P2137,Sneakers (Size 9),Footwear,1354.31,1817.0,S001,Indian Wholesale Co.,4,14,2025-10-30,pcs,64
+P1410,Jeans (Size 32),Apparel,796.28,1895.25,S001,Indian Wholesale Co.,11,23,2025-08-03,sets,125
+P1225,Eggs (6 Pcs),Dairy & Bakery,92.84,186.73,S002,Bharat Distributors,1,1,2025-05-05,pcs,5
+P2161,Garbage Bags (Medium Pack),Home & Kitchen,191.5,368.16,S007,HomeCare Solutions,31,7,2026-03-08,rolls,219
+P2064,Chai Mix (150g),Snacks & Beverages,27.69,61.72,S001,Indian Wholesale Co.,78,3,2026-09-26,packets,882
+P1352,Formal Shoes (Size 10),Footwear,605.45,743.17,S008,TechGadgets India,5,10,2025-10-14,pairs,66
+P1662,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,74.52,161.76,S008,TechGadgets India,59,2,2026-03-22,bottles,889
+P1367,Potato Chips (Masala 75g),Snacks & Beverages,111.29,197.32,S005,Apex Foods Pvt. Ltd.,54,3,2025-09-21,liters,641
+P2444,Face Cream (Aloe Vera 50g),Personal Care,250.61,390.43,S004,Quick Supply India,26,3,2025-11-26,packs,268
+P1188,Socks (Pack of 3),Apparel,316.94,790.38,S004,Quick Supply India,1,15,2024-09-22,sets,21
+P1216,Immunity Booster (Syrup 200ml),Health & Wellness,414.93,971.43,S002,Bharat Distributors,6,7,2025-04-17,pcs,47
+P1513,Yogurt (Fruit 150g),Dairy & Bakery,86.25,115.44,S004,Quick Supply India,42,2,2025-08-31,pcs,192
+P1823,Tea Powder (250g),Grocery & Staples,120.6,281.54,S002,Bharat Distributors,40,5,2026-05-22,pcs,742
+P1537,Curd (500g),Dairy & Bakery,171.05,392.66,S005,Apex Foods Pvt. Ltd.,40,1,2025-07-15,g,213
+P2450,Dinner Set (4 Pcs),Utensils & Cookware,221.74,343.32,S002,Bharat Distributors,1,8,2026-04-12,pcs,10
+P1212,Chicken Breast (500g),Meat & Seafood,349.38,523.76,S001,Indian Wholesale Co.,8,1,2025-06-28,g,28
+P1650,Sandals (Size 8),Footwear,1024.06,1454.42,S002,Bharat Distributors,1,16,2025-08-11,pairs,10
+P1802,Sandals (Size 8),Footwear,370.93,694.07,S004,Quick Supply India,1,24,2026-05-15,pcs,34
+P2417,Lemons (250g),Fruits & Vegetables,73.78,121.69,S006,Health Essentials Ltd.,27,1,2025-09-14,pcs,109
+P1482,Chicken Breast (500g),Meat & Seafood,613.04,1163.08,S008,TechGadgets India,14,1,2025-08-21,kg,46
+P1111,Sneakers (Size 9),Footwear,1115.27,2456.86,S004,Quick Supply India,2,22,2025-04-18,pcs,38
+P1757,Hair Oil (Coconut 300ml),Personal Care,329.63,489.14,S004,Quick Supply India,45,8,2025-09-26,ml,497
+P1511,Matchbox (Pack of 10),Home & Kitchen,662.25,1439.45,S005,Apex Foods Pvt. Ltd.,4,7,2027-03-13,rolls,31
+P2429,Apples (1kg),Fruits & Vegetables,72.47,153.91,S003,Priya Grocers,30,1,2025-09-24,pcs,118
+P1900,Formal Shoes (Size 10),Footwear,1425.27,2392.89,S004,Quick Supply India,4,18,2027-03-14,pairs,85
+P1070,Sneakers (Size 9),Footwear,622.02,759.45,S005,Apex Foods Pvt. Ltd.,2,10,2024-10-18,pairs,49
+P2309,Lemons (250g),Fruits & Vegetables,98.67,138.38,S004,Quick Supply India,10,1,2025-09-21,dozens,43
+P2094,Paneer (200g),Dairy & Bakery,197.73,434.57,S001,Indian Wholesale Co.,48,1,2025-07-24,liters,215
+P2225,Toilet Cleaner (500ml),Home & Kitchen,103.95,133.95,S008,TechGadgets India,38,14,2027-04-25,bottles,297
+P1801,Hand Wash (Neem 250ml),Personal Care,114.04,238.13,S006,Health Essentials Ltd.,30,5,2026-01-11,g,369
+P1358,Frying Pan (Non-stick),Utensils & Cookware,967.74,1321.09,S007,HomeCare Solutions,3,13,2026-10-19,sets,71
+P1838,Soap (Sandalwood 125g),Personal Care,146.63,333.78,S002,Bharat Distributors,29,7,2026-09-10,pcs,305
+P1675,Fish Fillet (250g),Meat & Seafood,794.78,1057.4,S003,Priya Grocers,7,1,2025-07-31,g,21
+P1112,Sunscreen (SPF30 100ml),Personal Care,112.08,207.42,S001,Indian Wholesale Co.,4,7,2025-03-22,g,49
+P2120,Chai Mix (150g),Snacks & Beverages,136.85,220.11,S006,Health Essentials Ltd.,76,1,2026-08-06,packets,921
+P2262,Toor Dal (1kg),Grocery & Staples,223.25,506.93,S002,Bharat Distributors,35,4,2025-10-01,packets,661
+P2057,Frying Pan (Non-stick),Utensils & Cookware,606.89,1005.27,S007,HomeCare Solutions,3,6,2026-03-23,sets,65
+P2143,USB Cable (2m),Electronics,40648.51,101163.22,S007,HomeCare Solutions,1,19,2026-01-17,pcs,33
+P1366,Energy Bar (Nut 50g),Snacks & Beverages,90.59,146.36,S006,Health Essentials Ltd.,36,4,2026-04-30,bottles,431
+P1736,Frying Pan (Non-stick),Utensils & Cookware,675.67,1282.47,S008,TechGadgets India,1,6,2027-05-08,pcs,27
+P2404,Socks (Pack of 3),Apparel,851.09,1023.7,S003,Priya Grocers,7,20,2025-09-27,sets,99
+P2298,Formal Shoes (Size 10),Footwear,633.59,976.56,S004,Quick Supply India,5,19,2026-09-20,pcs,73
+P1765,Toor Dal (1kg),Grocery & Staples,79.79,157.95,S008,TechGadgets India,10,4,2027-03-18,kg,214
+P1941,Laundry Detergent (1kg),Home & Kitchen,404.2,717.6,S007,HomeCare Solutions,12,5,2027-02-10,bottles,91
+P1566,Biscuits (Atta 100g),Snacks & Beverages,66.65,151.37,S002,Bharat Distributors,65,1,2025-08-26,ml,991
+P2406,Sugar (1kg),Grocery & Staples,228.23,433.21,S001,Indian Wholesale Co.,31,4,2026-02-21,packets,765
+P1604,LED Bulb (9W),Electronics,4754.1,8793.33,S006,Health Essentials Ltd.,1,12,2025-09-28,units,26
+P2018,Garbage Bags (Medium Pack),Home & Kitchen,743.08,1272.78,S002,Bharat Distributors,24,8,2025-07-30,bottles,146
+P1688,Toothpaste (Herbal 150g),Personal Care,156.13,353.19,S001,Indian Wholesale Co.,28,3,2025-09-18,packs,303
+P1373,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,119.3,268.37,S007,HomeCare Solutions,23,3,2026-11-09,pcs,335
+P1328,Dinner Set (4 Pcs),Utensils & Cookware,682.92,1236.57,S003,Priya Grocers,1,11,2025-03-10,pcs,2
+P1924,Jeans (Size 32),Apparel,1359.29,2672.57,S007,HomeCare Solutions,7,14,2026-10-06,pcs,80
+P1800,Frying Pan (Non-stick),Utensils & Cookware,904.28,1291.72,S005,Apex Foods Pvt. Ltd.,3,7,2026-08-06,pcs,53
+P2078,Immunity Booster (Syrup 200ml),Health & Wellness,154.67,194.49,S005,Apex Foods Pvt. Ltd.,22,4,2026-03-05,bottles,193
+P1492,Formal Shoes (Size 10),Footwear,488.32,1206.84,S002,Bharat Distributors,6,20,2026-03-31,pairs,92
+P2091,Sneakers (Size 9),Footwear,585.56,1353.98,S003,Priya Grocers,1,13,2027-02-17,pairs,10
+P1993,Energy Bar (Nut 50g),Snacks & Beverages,79.46,117.66,S007,HomeCare Solutions,61,4,2025-10-22,ml,904
+P2266,Sanitary Pads (Pack of 10),Personal Care,334.37,653.74,S003,Priya Grocers,37,3,2026-11-03,ml,315
+P1556,Casual Shirt (L),Apparel,351.42,718.67,S008,TechGadgets India,2,17,2026-09-26,pcs,28
+P1725,Hand Wash (Neem 250ml),Personal Care,221.63,327.66,S003,Priya Grocers,16,6,2026-07-21,bottles,200
+P1624,Toothpaste (Herbal 150g),Personal Care,118.68,243.26,S008,TechGadgets India,33,8,2027-01-24,ml,327
+P2283,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,74.21,144.8,S004,Quick Supply India,66,2,2025-09-17,ml,1015
+P1371,Yogurt (Fruit 150g),Dairy & Bakery,106.7,226.5,S008,TechGadgets India,28,1,2025-07-04,packs,137
+P2454,USB Cable (2m),Electronics,21568.63,29497.25,S004,Quick Supply India,1,13,2025-10-15,units,3
+P1260,Mango Juice (1L),Snacks & Beverages,134.59,308.14,S007,HomeCare Solutions,2,2,2025-06-25,bottles,30
+P1483,Sneakers (Size 9),Footwear,1125.31,2191.84,S001,Indian Wholesale Co.,4,20,2026-07-27,pcs,65
+P2431,USB Cable (2m),Electronics,19512.55,42024.96,S006,Health Essentials Ltd.,1,19,2026-08-15,units,12
+P1135,Sanitary Pads (Pack of 10),Personal Care,364.08,488.52,S007,HomeCare Solutions,1,8,2024-11-12,pcs,7
+P1710,Face Cream (Aloe Vera 50g),Personal Care,259.39,357.84,S005,Apex Foods Pvt. Ltd.,21,9,2026-01-13,ml,256
+P2395,Socks (Pack of 3),Apparel,839.93,1884.38,S004,Quick Supply India,2,18,2026-06-27,sets,40
+P2237,Sugar (1kg),Grocery & Staples,241.67,513.59,S003,Priya Grocers,14,5,2026-11-04,kg,342
+P2060,Onions (1kg),Fruits & Vegetables,77.42,139.32,S006,Health Essentials Ltd.,43,1,2025-08-03,dozens,152
+P2365,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,32.85,79.86,S001,Indian Wholesale Co.,45,4,2026-08-17,pcs,624
+P2336,Tomatoes (500g),Fruits & Vegetables,46.71,66.82,S006,Health Essentials Ltd.,46,1,2025-08-19,pcs,161
+P1227,Paneer (200g),Dairy & Bakery,94.59,193.52,S001,Indian Wholesale Co.,8,1,2025-05-26,pcs,36
+P2304,Basic Headphones,Electronics,13014.38,24753.17,S001,Indian Wholesale Co.,1,16,2026-12-04,pcs,2
+P2358,Dinner Set (4 Pcs),Utensils & Cookware,725.31,1656.28,S008,TechGadgets India,2,14,2026-11-10,sets,42
+P1325,Bananas (1 Dozen),Fruits & Vegetables,88.63,194.89,S001,Indian Wholesale Co.,11,1,2025-06-06,kg,42
+P2376,Frying Pan (Non-stick),Utensils & Cookware,422.15,880.36,S004,Quick Supply India,1,14,2026-08-09,sets,8
+P1721,Socks (Pack of 3),Apparel,313.95,608.2,S003,Priya Grocers,10,21,2026-08-14,sets,123
+P1206,Basic Headphones,Electronics,47416.8,88491.63,S003,Priya Grocers,1,11,2025-01-17,pcs,23
+P1651,Water Bottle (Steel),Utensils & Cookware,357.68,464.03,S004,Quick Supply India,2,10,2026-07-26,sets,54
+P1310,Mutton Curry Cut (500g),Meat & Seafood,318.2,595.6,S002,Bharat Distributors,10,1,2025-05-09,kg,30
+P2116,Sanitary Pads (Pack of 10),Personal Care,136.08,275.0,S001,Indian Wholesale Co.,24,4,2026-01-04,ml,248
+P1044,Formal Shoes (Size 10),Footwear,588.58,1186.18,S005,Apex Foods Pvt. Ltd.,1,12,2025-01-08,pcs,7
+P2484,Mutton Curry Cut (500g),Meat & Seafood,225.37,487.33,S001,Indian Wholesale Co.,20,1,2025-08-05,pcs,73
+P1004,Cola (2L),Snacks & Beverages,121.81,212.45,S001,Indian Wholesale Co.,4,2,2024-11-26,pcs,52
+P2331,Immunity Booster (Syrup 200ml),Health & Wellness,604.72,854.33,S001,Indian Wholesale Co.,32,6,2027-03-22,packs,238
+P1748,Spinach (Bunch),Fruits & Vegetables,22.65,34.22,S001,Indian Wholesale Co.,17,1,2025-08-07,kg,63
+P2279,Mineral Water (1L),Snacks & Beverages,72.37,136.93,S006,Health Essentials Ltd.,47,4,2026-02-17,pcs,505
+P2181,LED Bulb (9W),Electronics,15489.78,26253.42,S006,Health Essentials Ltd.,1,15,2025-08-23,pcs,26
+P1788,Toilet Cleaner (500ml),Home & Kitchen,351.73,722.44,S004,Quick Supply India,22,7,2027-01-21,pcs,190
+P1697,Basic Headphones,Electronics,45910.25,112746.61,S007,HomeCare Solutions,1,14,2025-08-31,units,43
+P1655,Jeans (Size 32),Apparel,313.09,592.23,S007,HomeCare Solutions,3,15,2026-09-17,pcs,43
+P1173,Dinner Set (4 Pcs),Utensils & Cookware,884.46,1297.06,S007,HomeCare Solutions,1,9,2025-03-27,sets,30
+P1848,Sandals (Size 8),Footwear,532.99,998.64,S006,Health Essentials Ltd.,1,20,2025-07-30,pcs,25
+P1708,Sandals (Size 8),Footwear,1149.13,2062.77,S006,Health Essentials Ltd.,3,10,2027-05-23,pcs,49
+P1231,Spinach (Bunch),Fruits & Vegetables,42.64,82.25,S003,Priya Grocers,8,1,2025-05-12,pcs,37
+P2098,USB Cable (2m),Electronics,48640.37,65725.28,S004,Quick Supply India,1,8,2026-01-08,units,43
+P2329,Soap (Sandalwood 125g),Personal Care,289.14,643.28,S004,Quick Supply India,56,3,2025-12-11,pcs,482
+P2195,Jeans (Size 32),Apparel,1317.02,1664.8,S007,HomeCare Solutions,9,11,2026-08-10,pcs,112
+P1308,Energy Bar (Nut 50g),Snacks & Beverages,49.95,84.34,S001,Indian Wholesale Co.,1,1,2025-01-16,ml,6
+P2284,Protein Powder (Whey 500g),Health & Wellness,672.99,1142.35,S008,TechGadgets India,25,8,2026-10-20,pcs,218
+P1846,Socks (Pack of 3),Apparel,588.26,1151.59,S001,Indian Wholesale Co.,3,10,2025-10-02,sets,47
+P2319,Chicken Breast (500g),Meat & Seafood,567.43,794.76,S006,Health Essentials Ltd.,24,1,2025-09-20,kg,92
+P1122,Laundry Detergent (1kg),Home & Kitchen,406.65,623.44,S004,Quick Supply India,5,5,2025-06-04,bottles,35
+P1427,Onions (1kg),Fruits & Vegetables,53.02,100.78,S006,Health Essentials Ltd.,12,1,2025-08-31,bunches,47
+P1409,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,666.91,1628.55,S005,Apex Foods Pvt. Ltd.,22,9,2026-02-21,bottles,192
+P1790,Water Bottle (Steel),Utensils & Cookware,150.43,305.92,S001,Indian Wholesale Co.,4,10,2026-07-11,pcs,68
+P1761,Chicken Breast (500g),Meat & Seafood,217.53,396.23,S008,TechGadgets India,8,1,2025-09-10,g,31
+P2065,Potato Chips (Masala 75g),Snacks & Beverages,132.36,289.33,S001,Indian Wholesale Co.,79,1,2027-02-22,packets,1007
+P1909,Sneakers (Size 9),Footwear,1371.03,2568.38,S002,Bharat Distributors,6,16,2026-06-17,pairs,96
+P1636,Kitchen Towels (Roll),Home & Kitchen,799.8,1181.87,S003,Priya Grocers,21,6,2026-07-24,pcs,126
+P1673,Basic Headphones,Electronics,5705.93,7203.92,S005,Apex Foods Pvt. Ltd.,1,17,2026-05-04,units,39
+P1925,Jeans (Size 32),Apparel,312.03,495.96,S001,Indian Wholesale Co.,8,15,2026-07-26,pcs,127
+P1357,Sneakers (Size 9),Footwear,1037.72,2195.9,S001,Indian Wholesale Co.,6,19,2026-03-10,pairs,89
+P1425,Spinach (Bunch),Fruits & Vegetables,87.3,174.61,S008,TechGadgets India,28,1,2025-07-04,bunches,135
+P1247,Toothpaste (Herbal 150g),Personal Care,327.59,491.53,S005,Apex Foods Pvt. Ltd.,1,4,2024-08-28,bottles,6
+P1956,Lemons (250g),Fruits & Vegetables,88.82,129.18,S008,TechGadgets India,39,1,2025-08-01,dozens,190
+P1990,Potato Chips (Masala 75g),Snacks & Beverages,91.33,164.55,S002,Bharat Distributors,36,4,2026-04-01,bottles,442
+P2465,USB Cable (2m),Electronics,3538.16,8146.69,S003,Priya Grocers,1,7,2027-06-25,pcs,17
+P1961,Hair Oil (Coconut 300ml),Personal Care,281.69,351.24,S006,Health Essentials Ltd.,21,8,2027-03-17,bottles,185
+P1378,Formal Shoes (Size 10),Footwear,710.28,1544.23,S008,TechGadgets India,4,13,2026-01-17,pairs,78
+P2350,Casual Shirt (L),Apparel,327.71,734.31,S007,HomeCare Solutions,9,14,2026-03-07,pcs,127
+P2179,Cotton T-shirt (M),Apparel,1565.89,3191.07,S003,Priya Grocers,5,24,2025-08-27,sets,85
+P2241,Sandals (Size 8),Footwear,288.93,651.97,S001,Indian Wholesale Co.,1,11,2025-10-16,pairs,23
+P2151,Tomatoes (500g),Fruits & Vegetables,37.72,78.0,S004,Quick Supply India,11,1,2025-09-18,g,53
+P1833,Sandals (Size 8),Footwear,961.92,2329.33,S006,Health Essentials Ltd.,3,24,2026-10-19,pcs,51
+P2256,Jeans (Size 32),Apparel,762.06,1698.07,S001,Indian Wholesale Co.,4,17,2025-08-19,sets,51
+P2449,Hair Oil (Coconut 300ml),Personal Care,181.9,366.29,S003,Priya Grocers,17,9,2025-11-28,bottles,160
+P1053,Dishwashing Liquid (500ml),Home & Kitchen,307.2,506.25,S008,TechGadgets India,1,10,2024-11-25,packs,11
+P1936,Hand Wash (Neem 250ml),Personal Care,300.75,634.61,S004,Quick Supply India,21,4,2027-01-22,pcs,223
+P2494,Hair Oil (Coconut 300ml),Personal Care,395.19,649.09,S002,Bharat Distributors,36,4,2026-01-04,g,426
+P2187,Chicken Breast (500g),Meat & Seafood,337.21,782.63,S002,Bharat Distributors,27,1,2025-07-22,g,88
+P1299,Basic Headphones,Electronics,8516.98,13977.48,S002,Bharat Distributors,1,11,2024-11-13,units,43
+P1512,Cotton T-shirt (M),Apparel,1839.6,2788.04,S005,Apex Foods Pvt. Ltd.,5,11,2025-11-07,sets,74
+P1268,Mutton Curry Cut (500g),Meat & Seafood,598.94,879.82,S005,Apex Foods Pvt. Ltd.,12,1,2025-05-06,kg,43
+P2051,Lemons (250g),Fruits & Vegetables,66.57,159.83,S005,Apex Foods Pvt. Ltd.,36,1,2025-09-02,g,178
+P1452,Casual Shirt (L),Apparel,1118.19,1575.53,S004,Quick Supply India,6,11,2027-06-06,sets,69
+P1451,Spinach (Bunch),Fruits & Vegetables,39.93,96.69,S001,Indian Wholesale Co.,37,1,2025-09-18,g,151
+P1669,Chicken Breast (500g),Meat & Seafood,418.84,867.29,S006,Health Essentials Ltd.,18,1,2025-07-09,g,65
+P1747,LED Bulb (9W),Electronics,7700.61,15790.8,S001,Indian Wholesale Co.,1,16,2026-07-04,pcs,26
+P2165,Milk (toned 1L),Dairy & Bakery,193.96,475.57,S004,Quick Supply India,39,2,2025-07-09,dozens,179
+P2362,Tomatoes (500g),Fruits & Vegetables,49.82,101.57,S007,HomeCare Solutions,40,1,2025-07-06,dozens,185
+P1729,Pressure Cooker (3L),Utensils & Cookware,227.27,563.4,S004,Quick Supply India,1,13,2027-02-25,pcs,21
+P1840,LED Bulb (9W),Electronics,46848.98,106635.74,S005,Apex Foods Pvt. Ltd.,1,15,2026-02-08,pcs,34
+P1599,Fish Fillet (250g),Meat & Seafood,978.77,1191.62,S002,Bharat Distributors,4,1,2025-09-25,pcs,15
+P1473,Potatoes (1kg),Fruits & Vegetables,97.15,217.21,S007,HomeCare Solutions,31,1,2025-09-15,kg,117
+P1717,Protein Powder (Whey 500g),Health & Wellness,113.07,175.81,S006,Health Essentials Ltd.,16,5,2027-03-31,bottles,167
+P1076,Kitchen Towels (Roll),Home & Kitchen,429.61,804.33,S005,Apex Foods Pvt. Ltd.,6,10,2025-03-06,packs,46
+P1297,Butter (100g),Dairy & Bakery,32.47,66.55,S008,TechGadgets India,7,1,2025-05-12,liters,36
+P1134,Tea Powder (250g),Grocery & Staples,271.48,413.68,S002,Bharat Distributors,2,2,2025-05-12,pcs,38
+P1344,Formal Shoes (Size 10),Footwear,1246.31,1651.94,S008,TechGadgets India,2,19,2024-12-01,pcs,30
+P1965,Soap (Sandalwood 125g),Personal Care,348.27,706.07,S001,Indian Wholesale Co.,16,7,2026-01-09,ml,161
+P1294,Protein Powder (Whey 500g),Health & Wellness,555.4,1375.29,S008,TechGadgets India,5,7,2025-03-21,packs,42
+P2197,Garbage Bags (Medium Pack),Home & Kitchen,166.66,288.9,S001,Indian Wholesale Co.,9,7,2026-10-05,rolls,74
+P2218,Socks (Pack of 3),Apparel,1742.66,3595.24,S002,Bharat Distributors,3,14,2027-05-08,sets,55
+P1404,Energy Bar (Nut 50g),Snacks & Beverages,36.5,68.96,S005,Apex Foods Pvt. Ltd.,48,2,2026-12-10,ml,507
+P1935,Butter (100g),Dairy & Bakery,115.36,214.88,S004,Quick Supply India,29,1,2025-08-25,packs,172
+P1313,Soap (Sandalwood 125g),Personal Care,372.49,634.48,S008,TechGadgets India,2,9,2025-02-21,packs,26
+P2400,Frying Pan (Non-stick),Utensils & Cookware,297.55,714.24,S003,Priya Grocers,1,13,2026-08-13,sets,21
+P2460,Sandals (Size 8),Footwear,325.28,557.2,S005,Apex Foods Pvt. Ltd.,3,16,2027-02-01,pairs,40
+P1614,Dinner Set (4 Pcs),Utensils & Cookware,444.36,800.13,S005,Apex Foods Pvt. Ltd.,1,14,2027-06-16,sets,15
+P1400,Lemons (250g),Fruits & Vegetables,23.53,39.53,S007,HomeCare Solutions,33,1,2025-08-13,dozens,135
+P1399,Sneakers (Size 9),Footwear,1265.06,1937.0,S003,Priya Grocers,2,17,2026-09-17,pcs,42
+P2351,Bread (Whole Wheat 400g),Dairy & Bakery,33.92,71.96,S003,Priya Grocers,37,2,2025-09-17,dozens,213
+P1170,Butter (100g),Dairy & Bakery,100.57,168.94,S002,Bharat Distributors,3,2,2025-05-06,dozens,14
+P2480,Immunity Booster (Syrup 200ml),Health & Wellness,442.54,1038.65,S008,TechGadgets India,23,5,2026-09-16,ml,240
+P1878,Water Bottle (Steel),Utensils & Cookware,175.52,238.05,S003,Priya Grocers,1,12,2026-11-22,pcs,24
+P2355,Spinach (Bunch),Fruits & Vegetables,97.24,169.49,S008,TechGadgets India,41,1,2025-08-01,bunches,182
+P2152,Basic Headphones,Electronics,41424.87,97930.65,S002,Bharat Distributors,1,8,2026-07-26,units,34
+P1195,Kitchen Towels (Roll),Home & Kitchen,311.39,648.09,S001,Indian Wholesale Co.,3,12,2025-04-25,kg,25
+P2070,Chicken Breast (500g),Meat & Seafood,834.19,1123.5,S007,HomeCare Solutions,8,1,2025-08-18,g,27
+P1728,Paneer (200g),Dairy & Bakery,146.53,198.81,S006,Health Essentials Ltd.,9,2,2025-09-24,g,54
+P1718,Chicken Breast (500g),Meat & Seafood,530.23,1037.86,S002,Bharat Distributors,22,1,2025-07-27,pcs,66
+P1101,Immunity Booster (Syrup 200ml),Health & Wellness,129.58,265.0,S008,TechGadgets India,2,7,2024-10-16,bottles,24
+P1918,Salt (1kg),Grocery & Staples,269.08,450.82,S007,HomeCare Solutions,31,6,2027-04-30,pcs,785
+P1000,Mutton Curry Cut (500g),Meat & Seafood,665.35,1432.27,S007,HomeCare Solutions,8,1,2025-06-27,g,31
+P1808,Garbage Bags (Medium Pack),Home & Kitchen,254.79,591.02,S008,TechGadgets India,27,6,2026-12-11,bottles,173
+P1855,Bananas (1 Dozen),Fruits & Vegetables,35.46,63.45,S001,Indian Wholesale Co.,41,1,2025-09-16,bunches,174
+P2271,Formal Shoes (Size 10),Footwear,878.71,1509.24,S008,TechGadgets India,2,24,2025-11-15,pairs,31
+P1114,Spices Combo (100g),Grocery & Staples,131.92,264.98,S002,Bharat Distributors,2,4,2024-11-29,kg,39
+P1213,Formal Shoes (Size 10),Footwear,307.77,470.03,S008,TechGadgets India,1,18,2025-01-02,pairs,20
+P2306,Toilet Cleaner (500ml),Home & Kitchen,529.94,1302.55,S001,Indian Wholesale Co.,10,8,2025-10-23,kg,75
+P2274,Socks (Pack of 3),Apparel,1749.27,3173.62,S006,Health Essentials Ltd.,1,12,2027-06-04,sets,14
+P2186,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,26.64,53.33,S007,HomeCare Solutions,82,3,2027-05-11,packets,994
+P2269,Sneakers (Size 9),Footwear,830.17,1708.84,S005,Apex Foods Pvt. Ltd.,1,22,2025-12-10,pcs,13
+P1500,Sandals (Size 8),Footwear,404.76,888.0,S005,Apex Foods Pvt. Ltd.,3,11,2027-04-29,pairs,55
+P2107,Extension Cord (5m),Electronics,28108.54,37968.4,S006,Health Essentials Ltd.,1,15,2025-08-20,units,24
+P1084,Sunscreen (SPF30 100ml),Personal Care,142.05,224.88,S005,Apex Foods Pvt. Ltd.,1,7,2024-08-01,g,4
+P1575,Socks (Pack of 3),Apparel,700.48,1308.22,S003,Priya Grocers,4,16,2026-02-16,sets,52
+P1088,Chai Mix (150g),Snacks & Beverages,30.2,59.6,S001,Indian Wholesale Co.,1,3,2024-10-09,liters,23
+P2413,Chicken Breast (500g),Meat & Seafood,682.55,1248.83,S008,TechGadgets India,12,1,2025-07-30,g,49
+P2096,Milk (toned 1L),Dairy & Bakery,158.67,379.15,S001,Indian Wholesale Co.,10,2,2025-08-13,dozens,60
+P2286,Lemons (250g),Fruits & Vegetables,41.03,83.14,S001,Indian Wholesale Co.,11,1,2025-08-26,pcs,50
+P2198,Potatoes (1kg),Fruits & Vegetables,93.7,166.91,S001,Indian Wholesale Co.,38,1,2025-09-01,bunches,139
+P1208,Sandals (Size 8),Footwear,433.3,1077.08,S006,Health Essentials Ltd.,3,16,2024-07-18,pairs,41
+P1001,Fish Fillet (250g),Meat & Seafood,724.71,901.67,S001,Indian Wholesale Co.,12,1,2025-05-31,kg,47
+P1456,Sanitary Pads (Pack of 10),Personal Care,389.5,727.32,S005,Apex Foods Pvt. Ltd.,19,5,2026-07-31,bottles,234
+P2047,Sneakers (Size 9),Footwear,1233.96,1725.47,S007,HomeCare Solutions,2,20,2026-11-05,pairs,39
+P1842,Formal Shoes (Size 10),Footwear,855.55,1062.55,S003,Priya Grocers,7,13,2026-06-28,pairs,96
+P2038,Protein Powder (Whey 500g),Health & Wellness,563.36,819.01,S008,TechGadgets India,24,5,2026-03-28,pcs,243
+P2025,Hair Oil (Coconut 300ml),Personal Care,373.96,712.78,S002,Bharat Distributors,19,7,2026-11-20,pcs,173
+P1323,Yogurt (Fruit 150g),Dairy & Bakery,189.34,283.57,S002,Bharat Distributors,9,2,2025-05-08,dozens,47
+P1187,Formal Shoes (Size 10),Footwear,566.11,1251.54,S003,Priya Grocers,1,12,2024-11-25,pcs,9
+P1020,Immunity Booster (Syrup 200ml),Health & Wellness,169.89,359.42,S008,TechGadgets India,2,6,2024-08-01,bottles,22
+P2440,Butter (100g),Dairy & Bakery,43.91,55.74,S006,Health Essentials Ltd.,52,2,2025-08-05,packs,232
+P1406,Matchbox (Pack of 10),Home & Kitchen,490.87,717.04,S001,Indian Wholesale Co.,5,7,2026-04-04,pcs,45
+P2425,Casual Shirt (L),Apparel,778.8,1461.94,S004,Quick Supply India,7,13,2027-01-18,pcs,108
+P1759,Sandals (Size 8),Footwear,973.46,1415.43,S004,Quick Supply India,1,10,2026-02-10,pcs,19
+P1959,Immunity Booster (Syrup 200ml),Health & Wellness,183.09,286.89,S002,Bharat Distributors,11,7,2026-02-18,bottles,80
+P1123,Floor Cleaner (1L),Home & Kitchen,729.0,1538.88,S002,Bharat Distributors,1,10,2024-10-23,kg,0
+P1607,Floor Cleaner (1L),Home & Kitchen,668.55,1588.89,S007,HomeCare Solutions,15,7,2026-04-20,pcs,91
+P1161,Tomatoes (500g),Fruits & Vegetables,80.02,152.82,S005,Apex Foods Pvt. Ltd.,13,1,2025-05-24,dozens,44
+P1461,Sugar (1kg),Grocery & Staples,285.77,368.26,S007,HomeCare Solutions,33,5,2026-08-28,kg,590
+P1129,Basic Headphones,Electronics,26058.27,36894.24,S005,Apex Foods Pvt. Ltd.,1,19,2024-09-21,pcs,31
+P2172,Socks (Pack of 3),Apparel,1017.37,1704.17,S007,HomeCare Solutions,2,17,2027-03-19,sets,33
+P1024,Extension Cord (5m),Electronics,34538.45,42913.76,S007,HomeCare Solutions,1,16,2025-01-12,pcs,38
+P2115,Basic Headphones,Electronics,9883.73,23519.96,S003,Priya Grocers,1,12,2026-09-28,units,39
+P1166,Socks (Pack of 3),Apparel,419.56,851.33,S008,TechGadgets India,3,15,2025-06-06,sets,47
+P1529,Laundry Detergent (1kg),Home & Kitchen,528.9,1309.76,S008,TechGadgets India,41,5,2026-09-05,kg,286
+P2135,Jeans (Size 32),Apparel,898.72,1486.41,S005,Apex Foods Pvt. Ltd.,8,13,2025-09-22,pcs,118
+P1364,Sandals (Size 8),Footwear,1058.38,2198.79,S006,Health Essentials Ltd.,2,20,2026-11-07,pcs,42
+P1782,Sneakers (Size 9),Footwear,816.37,1301.12,S002,Bharat Distributors,2,21,2025-11-09,pairs,32
+P1021,Chai Mix (150g),Snacks & Beverages,140.25,281.47,S006,Health Essentials Ltd.,1,1,2024-12-11,packets,14
+P1896,Mutton Curry Cut (500g),Meat & Seafood,497.54,758.53,S003,Priya Grocers,23,1,2025-09-01,pcs,74
+P1671,Mango Juice (1L),Snacks & Beverages,91.04,164.24,S005,Apex Foods Pvt. Ltd.,30,3,2026-03-11,ml,430
+P2049,Protein Powder (Whey 500g),Health & Wellness,103.01,223.82,S008,TechGadgets India,16,11,2026-05-05,g,112
+P1733,Basmati Rice (5kg),Grocery & Staples,210.03,338.59,S003,Priya Grocers,18,4,2025-08-18,packets,373
+P1321,Fish Fillet (250g),Meat & Seafood,956.63,1293.25,S004,Quick Supply India,6,1,2025-06-23,g,21
+P1622,Dishwashing Liquid (500ml),Home & Kitchen,157.45,392.83,S005,Apex Foods Pvt. Ltd.,4,8,2027-06-22,bottles,32
+P1781,Spices Combo (100g),Grocery & Staples,181.15,374.66,S002,Bharat Distributors,14,5,2027-04-19,kg,348
+P1660,Paneer (200g),Dairy & Bakery,141.8,171.15,S002,Bharat Distributors,28,1,2025-08-09,pcs,127
+P1154,Cotton T-shirt (M),Apparel,1182.87,2889.75,S001,Indian Wholesale Co.,3,24,2025-05-10,pcs,46
+P1440,Sneakers (Size 9),Footwear,1056.88,1808.46,S008,TechGadgets India,2,16,2027-02-12,pcs,33
+P2050,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,37.02,53.37,S001,Indian Wholesale Co.,19,3,2026-05-07,bottles,281
+P2125,USB Cable (2m),Electronics,25341.25,49067.22,S002,Bharat Distributors,1,13,2025-10-19,pcs,30
+P1090,Frying Pan (Non-stick),Utensils & Cookware,401.56,922.13,S003,Priya Grocers,2,9,2024-07-11,pcs,38
+P2272,Jeans (Size 32),Apparel,1183.0,1508.87,S007,HomeCare Solutions,5,12,2026-12-18,pcs,77
+P1036,Water Bottle (Steel),Utensils & Cookware,690.24,1098.77,S007,HomeCare Solutions,2,13,2025-05-31,pcs,34
+P2379,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,610.55,1447.44,S002,Bharat Distributors,4,9,2025-12-22,bottles,41
+P1518,Socks (Pack of 3),Apparel,677.59,1019.34,S008,TechGadgets India,2,21,2026-07-30,sets,38
+P1119,Mustard Oil (1L),Grocery & Staples,160.25,248.16,S006,Health Essentials Ltd.,1,6,2024-07-16,pcs,31
+P2364,Cotton T-shirt (M),Apparel,322.06,392.06,S002,Bharat Distributors,3,11,2027-04-24,sets,35
+P1066,Sandals (Size 8),Footwear,955.07,2213.32,S007,HomeCare Solutions,1,18,2024-11-05,pcs,0
+P1346,Pressure Cooker (3L),Utensils & Cookware,397.28,795.3,S005,Apex Foods Pvt. Ltd.,2,7,2024-12-09,sets,45
+P2464,Cheese Slice (10 Pcs Pack),Dairy & Bakery,127.31,307.64,S001,Indian Wholesale Co.,11,1,2025-09-18,pcs,70
+P1638,Chicken Breast (500g),Meat & Seafood,756.93,1194.77,S001,Indian Wholesale Co.,7,1,2025-09-04,kg,29
+P1301,Protein Powder (Whey 500g),Health & Wellness,689.76,1657.58,S006,Health Essentials Ltd.,1,8,2024-11-09,packs,6
+P1197,Sunscreen (SPF30 100ml),Personal Care,123.13,302.76,S003,Priya Grocers,1,6,2024-09-10,bottles,0
+P1834,Immunity Booster (Syrup 200ml),Health & Wellness,572.71,968.67,S008,TechGadgets India,31,8,2026-11-09,pcs,218
+P1880,Garbage Bags (Medium Pack),Home & Kitchen,785.77,1066.9,S005,Apex Foods Pvt. Ltd.,18,9,2026-11-20,packs,140
+P1795,Water Bottle (Steel),Utensils & Cookware,390.08,749.43,S003,Priya Grocers,3,10,2025-08-04,sets,58
+P1744,Paneer (200g),Dairy & Bakery,99.73,204.86,S001,Indian Wholesale Co.,33,1,2025-09-08,liters,166
+P1987,Face Cream (Aloe Vera 50g),Personal Care,354.82,456.31,S008,TechGadgets India,42,6,2027-04-16,ml,376
+P1181,Laundry Detergent (1kg),Home & Kitchen,540.19,1018.47,S005,Apex Foods Pvt. Ltd.,2,13,2024-07-16,rolls,12
+P1319,Butter (100g),Dairy & Bakery,53.45,128.4,S005,Apex Foods Pvt. Ltd.,6,2,2025-05-22,packs,42
+P1120,Water Bottle (Steel),Utensils & Cookware,968.94,1382.97,S001,Indian Wholesale Co.,1,6,2024-12-24,pcs,10
+P1620,Formal Shoes (Size 10),Footwear,337.44,655.99,S007,HomeCare Solutions,2,23,2025-08-14,pcs,49
+P1091,Sandals (Size 8),Footwear,628.22,1031.39,S001,Indian Wholesale Co.,1,17,2024-10-24,pcs,0
+P1250,Water Bottle (Steel),Utensils & Cookware,795.13,988.1,S004,Quick Supply India,1,5,2024-10-05,pcs,13
+P1222,Pressure Cooker (3L),Utensils & Cookware,327.6,789.51,S007,HomeCare Solutions,1,12,2024-10-23,sets,12
+P1937,Water Bottle (Steel),Utensils & Cookware,217.33,529.01,S001,Indian Wholesale Co.,2,14,2026-09-08,sets,34
+P2435,Sunscreen (SPF30 100ml),Personal Care,393.02,702.16,S003,Priya Grocers,19,4,2027-03-31,bottles,174
+P1507,Bananas (1 Dozen),Fruits & Vegetables,71.32,166.42,S002,Bharat Distributors,13,1,2025-09-12,pcs,54
+P1174,Pressure Cooker (3L),Utensils & Cookware,289.17,483.2,S005,Apex Foods Pvt. Ltd.,1,9,2025-05-27,pcs,32
+P1506,LED Bulb (9W),Electronics,23268.89,56160.92,S002,Bharat Distributors,1,9,2026-07-24,units,23
+P2483,Formal Shoes (Size 10),Footwear,270.94,668.26,S003,Priya Grocers,2,18,2026-05-24,pcs,36
+P1674,Mineral Water (1L),Snacks & Beverages,145.55,300.72,S007,HomeCare Solutions,30,1,2026-04-30,bottles,372
+P2360,Mineral Water (1L),Snacks & Beverages,123.87,170.81,S003,Priya Grocers,21,4,2026-09-25,packets,262
+P1642,Sandals (Size 8),Footwear,220.08,418.23,S002,Bharat Distributors,1,23,2026-01-18,pairs,10
+P1628,Formal Shoes (Size 10),Footwear,395.49,720.58,S001,Indian Wholesale Co.,1,22,2027-04-15,pcs,25
+P1571,Frying Pan (Non-stick),Utensils & Cookware,210.18,451.41,S008,TechGadgets India,4,14,2026-05-29,sets,69
+P2246,Laundry Detergent (1kg),Home & Kitchen,613.24,1438.54,S003,Priya Grocers,24,14,2025-11-04,pcs,134
+P2117,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,386.6,918.53,S002,Bharat Distributors,25,10,2026-07-12,ml,224
+P1798,Paneer (200g),Dairy & Bakery,120.8,230.65,S003,Priya Grocers,16,2,2025-08-05,packs,70
+P2053,Extension Cord (5m),Electronics,3445.46,5645.37,S006,Health Essentials Ltd.,1,13,2027-01-03,units,25
+P2056,Water Bottle (Steel),Utensils & Cookware,332.0,690.86,S003,Priya Grocers,2,11,2026-05-07,pcs,54
+P1550,Jeans (Size 32),Apparel,831.39,1163.82,S003,Priya Grocers,1,24,2025-11-24,pcs,12
+P2146,Agarbatti (Pack of 100),Home & Kitchen,129.85,178.9,S008,TechGadgets India,32,8,2026-11-30,pcs,257
+P1467,Toilet Cleaner (500ml),Home & Kitchen,566.53,710.49,S007,HomeCare Solutions,24,13,2027-06-02,kg,144
+P2157,Jeans (Size 32),Apparel,1261.73,3092.88,S008,TechGadgets India,9,15,2025-11-08,pcs,119
+P2441,Tea Powder (250g),Grocery & Staples,140.23,207.48,S008,TechGadgets India,30,4,2027-05-22,pcs,675
+P1568,Garbage Bags (Medium Pack),Home & Kitchen,744.1,899.8,S003,Priya Grocers,18,9,2027-06-08,rolls,114
+P1526,Immunity Booster (Syrup 200ml),Health & Wellness,306.32,572.71,S003,Priya Grocers,5,8,2027-02-21,g,39
+P2361,Frying Pan (Non-stick),Utensils & Cookware,423.82,1003.46,S006,Health Essentials Ltd.,1,7,2026-12-31,pcs,6
+P2170,Floor Cleaner (1L),Home & Kitchen,271.1,663.95,S006,Health Essentials Ltd.,15,12,2027-03-25,pcs,121
+P1986,Mutton Curry Cut (500g),Meat & Seafood,845.46,1843.83,S003,Priya Grocers,13,1,2025-09-12,pcs,37
+P1766,Yogurt (Fruit 150g),Dairy & Bakery,173.44,281.96,S002,Bharat Distributors,25,2,2025-07-17,g,158
+P1348,Kitchen Towels (Roll),Home & Kitchen,289.7,447.87,S004,Quick Supply India,5,5,2025-02-27,rolls,39
+P1291,Chicken Breast (500g),Meat & Seafood,846.68,1456.93,S001,Indian Wholesale Co.,7,1,2025-06-24,g,30
+P2132,Salt (1kg),Grocery & Staples,225.65,311.09,S001,Indian Wholesale Co.,9,3,2026-03-16,packets,241
+P1903,Immunity Booster (Syrup 200ml),Health & Wellness,254.41,609.52,S007,HomeCare Solutions,21,5,2025-10-06,g,201
+P2003,Sneakers (Size 9),Footwear,676.66,1547.89,S007,HomeCare Solutions,3,15,2026-07-06,pairs,41
+P1318,Dinner Set (4 Pcs),Utensils & Cookware,914.84,1103.22,S002,Bharat Distributors,1,9,2025-05-10,sets,27
+P1251,Energy Bar (Nut 50g),Snacks & Beverages,70.41,146.11,S006,Health Essentials Ltd.,1,3,2024-08-21,pcs,13
+P1160,Chicken Breast (500g),Meat & Seafood,430.84,800.81,S008,TechGadgets India,2,1,2025-06-15,kg,9
+P1615,Coffee (100g),Grocery & Staples,130.93,267.7,S001,Indian Wholesale Co.,26,6,2026-11-15,kg,590
+P1444,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,59.36,114.03,S006,Health Essentials Ltd.,37,2,2026-12-15,ml,547
+P1912,Potatoes (1kg),Fruits & Vegetables,48.26,58.26,S004,Quick Supply India,25,1,2025-08-11,kg,92
+P1820,Curd (500g),Dairy & Bakery,68.98,144.21,S007,HomeCare Solutions,18,2,2025-08-15,packs,92
+P1685,Yogurt (Fruit 150g),Dairy & Bakery,152.9,287.32,S006,Health Essentials Ltd.,37,1,2025-08-08,g,196
+P1377,Pressure Cooker (3L),Utensils & Cookware,361.59,563.02,S005,Apex Foods Pvt. Ltd.,3,10,2026-09-10,pcs,63
+P1312,Floor Cleaner (1L),Home & Kitchen,175.31,303.92,S003,Priya Grocers,5,11,2025-04-12,bottles,35
+P2324,Coriander (Bunch),Fruits & Vegetables,98.85,172.08,S001,Indian Wholesale Co.,11,1,2025-08-16,g,53
+P1175,Cotton T-shirt (M),Apparel,611.49,806.21,S005,Apex Foods Pvt. Ltd.,2,18,2024-10-14,pcs,28
+P1322,Face Cream (Aloe Vera 50g),Personal Care,117.54,272.88,S005,Apex Foods Pvt. Ltd.,1,5,2024-09-30,bottles,7
+P1943,Shampoo (Anti-dandruff 200ml),Personal Care,259.65,335.89,S004,Quick Supply India,25,9,2026-09-10,g,277
+P2177,Hand Wash (Neem 250ml),Personal Care,337.36,792.37,S006,Health Essentials Ltd.,40,7,2027-05-16,packs,485
+P1132,Sneakers (Size 9),Footwear,1078.12,1365.25,S004,Quick Supply India,1,17,2025-05-21,pcs,5
+P1696,Coriander (Bunch),Fruits & Vegetables,96.68,211.73,S004,Quick Supply India,11,1,2025-08-16,pcs,40
+P2481,Laundry Detergent (1kg),Home & Kitchen,527.17,1252.95,S002,Bharat Distributors,43,8,2026-07-02,rolls,269
+P2333,Basic Headphones,Electronics,33141.59,60552.53,S002,Bharat Distributors,1,18,2027-03-16,units,4
+P1731,Floor Cleaner (1L),Home & Kitchen,154.78,221.03,S008,TechGadgets India,28,7,2026-10-10,pcs,193
+P2090,Biscuits (Atta 100g),Snacks & Beverages,107.41,250.66,S004,Quick Supply India,34,4,2027-06-10,pcs,407
+P1115,Toilet Cleaner (500ml),Home & Kitchen,342.59,637.38,S001,Indian Wholesale Co.,5,9,2024-11-23,packs,32
+P2285,Casual Shirt (L),Apparel,1559.04,1971.52,S008,TechGadgets India,4,11,2026-09-22,sets,55
+P1768,Casual Shirt (L),Apparel,409.11,615.34,S008,TechGadgets India,2,15,2026-10-11,pcs,34
+P1519,Casual Shirt (L),Apparel,387.98,762.59,S002,Bharat Distributors,6,14,2026-12-27,sets,72
+P2255,Immunity Booster (Syrup 200ml),Health & Wellness,431.66,928.54,S001,Indian Wholesale Co.,16,10,2026-08-28,ml,140
+P1349,Soap (Sandalwood 125g),Personal Care,273.49,654.24,S004,Quick Supply India,3,9,2024-12-04,g,29
+P1817,Spices Combo (100g),Grocery & Staples,221.66,452.57,S001,Indian Wholesale Co.,36,2,2025-11-26,packets,819
+P1316,Soap (Sandalwood 125g),Personal Care,293.91,693.58,S005,Apex Foods Pvt. Ltd.,1,8,2024-08-22,g,17
+P1866,Chicken Breast (500g),Meat & Seafood,373.07,770.46,S008,TechGadgets India,8,1,2025-08-01,pcs,28
+P2026,Sneakers (Size 9),Footwear,587.63,1283.26,S005,Apex Foods Pvt. Ltd.,5,16,2026-06-10,pairs,74
+P2424,Fish Fillet (250g),Meat & Seafood,412.6,541.16,S007,HomeCare Solutions,15,1,2025-09-06,kg,47
+P1579,Milk (toned 1L),Dairy & Bakery,190.97,441.75,S005,Apex Foods Pvt. Ltd.,33,2,2025-09-04,liters,149
+P1041,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,406.74,758.1,S006,Health Essentials Ltd.,1,8,2024-09-27,bottles,5
+P2405,Extension Cord (5m),Electronics,36144.94,49242.69,S004,Quick Supply India,1,13,2025-10-30,units,43
+P2240,Sandals (Size 8),Footwear,642.43,982.2,S006,Health Essentials Ltd.,1,20,2025-11-07,pairs,29
+P2229,Paneer (200g),Dairy & Bakery,180.57,305.33,S001,Indian Wholesale Co.,25,1,2025-07-15,dozens,144
+P1277,Coffee (100g),Grocery & Staples,184.67,255.12,S007,HomeCare Solutions,1,6,2024-08-24,pcs,26
+P2139,Spinach (Bunch),Fruits & Vegetables,34.68,48.08,S006,Health Essentials Ltd.,22,1,2025-07-20,dozens,89
+P1147,Salt (1kg),Grocery & Staples,143.62,258.71,S006,Health Essentials Ltd.,2,2,2025-02-21,pcs,41
+P1151,Frying Pan (Non-stick),Utensils & Cookware,383.81,930.76,S005,Apex Foods Pvt. Ltd.,1,7,2024-08-30,sets,16
+P1201,Hand Wash (Neem 250ml),Personal Care,288.95,468.66,S001,Indian Wholesale Co.,1,4,2025-04-19,ml,15
+P1453,Coriander (Bunch),Fruits & Vegetables,84.19,209.72,S001,Indian Wholesale Co.,20,1,2025-07-23,kg,75
+P1341,LED Bulb (9W),Electronics,38894.3,94247.31,S004,Quick Supply India,1,12,2024-11-26,units,29
+P1844,Agarbatti (Pack of 100),Home & Kitchen,731.61,1259.92,S003,Priya Grocers,20,12,2026-10-21,packs,150
+P1822,Casual Shirt (L),Apparel,1149.59,2198.65,S008,TechGadgets India,3,23,2027-02-11,pcs,56
+P1743,Agarbatti (Pack of 100),Home & Kitchen,574.01,787.95,S005,Apex Foods Pvt. Ltd.,9,8,2026-09-04,kg,65
+P1908,Milk (toned 1L),Dairy & Bakery,152.88,272.99,S006,Health Essentials Ltd.,31,1,2025-09-03,dozens,171
+P1311,Butter (100g),Dairy & Bakery,112.43,220.85,S006,Health Essentials Ltd.,2,1,2025-05-10,pcs,13
+P1486,Socks (Pack of 3),Apparel,448.44,797.71,S004,Quick Supply India,1,23,2026-05-11,sets,28
+P1177,Formal Shoes (Size 10),Footwear,474.1,710.63,S003,Priya Grocers,1,11,2025-02-19,pairs,24
+P1700,Mutton Curry Cut (500g),Meat & Seafood,824.24,1563.14,S005,Apex Foods Pvt. Ltd.,30,1,2025-08-04,g,91
+P1503,Salt (1kg),Grocery & Staples,297.27,394.71,S008,TechGadgets India,21,5,2026-06-22,pcs,472
+P1099,Sneakers (Size 9),Footwear,1004.44,2135.59,S002,Bharat Distributors,1,23,2024-11-24,pcs,19
+P1384,Sandals (Size 8),Footwear,662.73,1266.9,S002,Bharat Distributors,3,19,2027-04-26,pcs,50
+P1891,Mutton Curry Cut (500g),Meat & Seafood,310.66,681.13,S004,Quick Supply India,23,1,2025-07-10,g,69
+P1777,Chai Mix (150g),Snacks & Beverages,40.22,58.6,S002,Bharat Distributors,49,3,2025-08-10,pcs,567
+P2462,Cotton T-shirt (M),Apparel,630.26,1224.55,S004,Quick Supply India,8,19,2027-05-05,sets,106
+P2005,Mango Juice (1L),Snacks & Beverages,118.87,292.99,S008,TechGadgets India,72,4,2026-03-29,pcs,1063
+P1369,Curd (500g),Dairy & Bakery,34.15,72.29,S001,Indian Wholesale Co.,29,2,2025-07-12,dozens,149
+P2447,Spices Combo (100g),Grocery & Staples,260.9,397.68,S001,Indian Wholesale Co.,52,3,2026-09-02,pcs,949
+P2155,Biscuits (Atta 100g),Snacks & Beverages,103.59,130.72,S006,Health Essentials Ltd.,74,3,2025-08-19,pcs,881
+P2216,Protein Powder (Whey 500g),Health & Wellness,653.29,1512.72,S005,Apex Foods Pvt. Ltd.,23,6,2026-01-25,bottles,220
+P2028,Cotton T-shirt (M),Apparel,581.43,984.78,S003,Priya Grocers,1,13,2026-01-15,sets,19
+P2448,Kitchen Towels (Roll),Home & Kitchen,299.8,360.0,S005,Apex Foods Pvt. Ltd.,8,14,2027-01-02,rolls,70
+P2338,Socks (Pack of 3),Apparel,1272.72,1833.11,S003,Priya Grocers,10,22,2025-09-13,pcs,117
+P2247,Tea Powder (250g),Grocery & Staples,90.41,133.88,S003,Priya Grocers,10,6,2026-09-27,packets,233
+P2059,Floor Cleaner (1L),Home & Kitchen,666.34,1214.25,S001,Indian Wholesale Co.,20,7,2025-08-05,packs,114
+P1922,Sneakers (Size 9),Footwear,465.19,1060.29,S008,TechGadgets India,1,15,2026-05-06,pairs,24
+P1389,Face Cream (Aloe Vera 50g),Personal Care,304.38,703.39,S004,Quick Supply India,30,3,2026-04-10,packs,365
+P1723,Tomatoes (500g),Fruits & Vegetables,72.25,89.34,S006,Health Essentials Ltd.,32,1,2025-08-01,g,119
+P2392,Mutton Curry Cut (500g),Meat & Seafood,613.42,922.4,S007,HomeCare Solutions,26,1,2025-07-16,kg,76
+P2337,Mineral Water (1L),Snacks & Beverages,95.08,195.42,S004,Quick Supply India,52,3,2027-04-27,ml,772
+P1951,Spices Combo (100g),Grocery & Staples,182.79,405.34,S004,Quick Supply India,20,5,2027-02-09,pcs,373
+P1497,Fish Fillet (250g),Meat & Seafood,782.23,1669.02,S005,Apex Foods Pvt. Ltd.,20,1,2025-08-12,kg,71
+P2001,Chai Mix (150g),Snacks & Beverages,115.01,272.34,S006,Health Essentials Ltd.,67,1,2026-01-30,packets,708
+P1841,Tomatoes (500g),Fruits & Vegetables,93.7,193.0,S007,HomeCare Solutions,22,1,2025-09-17,dozens,108
+P1799,Mutton Curry Cut (500g),Meat & Seafood,742.58,1315.36,S001,Indian Wholesale Co.,19,1,2025-07-06,g,78
+P1807,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,677.68,1219.39,S002,Bharat Distributors,12,9,2026-11-05,bottles,112
+P2234,Water Bottle (Steel),Utensils & Cookware,548.33,1187.41,S005,Apex Foods Pvt. Ltd.,4,13,2027-02-23,pcs,73
+P1077,Mutton Curry Cut (500g),Meat & Seafood,684.79,1455.93,S003,Priya Grocers,7,1,2025-06-14,kg,27
+P2215,Water Bottle (Steel),Utensils & Cookware,857.82,1956.0,S001,Indian Wholesale Co.,3,14,2026-08-13,sets,60
+P2343,Energy Bar (Nut 50g),Snacks & Beverages,72.05,160.2,S003,Priya Grocers,22,2,2025-11-24,liters,262
+P1603,Frying Pan (Non-stick),Utensils & Cookware,323.11,559.19,S003,Priya Grocers,4,7,2026-10-31,sets,63
+P1958,Cheese Slice (10 Pcs Pack),Dairy & Bakery,116.07,192.62,S007,HomeCare Solutions,67,2,2025-08-28,pcs,290
+P1498,Garbage Bags (Medium Pack),Home & Kitchen,784.96,1436.19,S001,Indian Wholesale Co.,50,13,2027-01-09,packs,285
+P1854,Frying Pan (Non-stick),Utensils & Cookware,747.53,1794.74,S008,TechGadgets India,1,6,2026-09-12,pcs,18
+P2021,Agarbatti (Pack of 100),Home & Kitchen,466.9,768.74,S002,Bharat Distributors,8,7,2025-11-06,pcs,53
+P2265,Protein Powder (Whey 500g),Health & Wellness,336.79,533.48,S003,Priya Grocers,15,4,2026-09-28,packs,110
+P2042,Chai Mix (150g),Snacks & Beverages,34.3,44.86,S005,Apex Foods Pvt. Ltd.,83,1,2025-09-12,bottles,1165
+P1853,Tomatoes (500g),Fruits & Vegetables,91.24,162.19,S001,Indian Wholesale Co.,39,1,2025-08-02,g,153
+P2087,Chicken Breast (500g),Meat & Seafood,621.89,1159.55,S005,Apex Foods Pvt. Ltd.,9,1,2025-07-22,pcs,29
+P2209,Protein Powder (Whey 500g),Health & Wellness,436.02,544.74,S005,Apex Foods Pvt. Ltd.,30,5,2026-09-04,g,244
+P1286,Mustard Oil (1L),Grocery & Staples,120.31,150.61,S005,Apex Foods Pvt. Ltd.,1,3,2025-01-10,packets,13
+P1359,Tea Powder (250g),Grocery & Staples,280.76,539.36,S002,Bharat Distributors,39,6,2025-11-15,kg,837
+P2372,Formal Shoes (Size 10),Footwear,1064.3,2368.62,S003,Priya Grocers,1,11,2025-10-04,pairs,18
+P1490,Mustard Oil (1L),Grocery & Staples,286.37,518.21,S004,Quick Supply India,47,5,2027-06-10,kg,963
+P1259,Ghee (500ml),Grocery & Staples,87.28,147.32,S004,Quick Supply India,1,2,2025-06-05,kg,32
+P1916,Chicken Breast (500g),Meat & Seafood,936.93,1286.93,S008,TechGadgets India,9,1,2025-09-23,pcs,29
+P1075,Water Bottle (Steel),Utensils & Cookware,793.33,1449.98,S005,Apex Foods Pvt. Ltd.,1,6,2025-01-22,pcs,8
+P2058,Eggs (6 Pcs),Dairy & Bakery,129.57,197.45,S004,Quick Supply India,22,1,2025-09-06,g,96
+P1163,Biscuits (Atta 100g),Snacks & Beverages,86.28,139.14,S003,Priya Grocers,1,3,2025-04-19,liters,1
+P1142,Socks (Pack of 3),Apparel,817.61,2032.22,S007,HomeCare Solutions,4,16,2025-04-02,pcs,44
+P1706,Floor Cleaner (1L),Home & Kitchen,485.84,600.89,S004,Quick Supply India,9,5,2027-03-09,pcs,70
+P2277,Toilet Cleaner (500ml),Home & Kitchen,302.46,409.46,S003,Priya Grocers,39,9,2026-06-24,kg,258
+P1408,Coffee (100g),Grocery & Staples,72.18,98.77,S004,Quick Supply India,47,2,2026-02-19,packets,807
+P2086,Potatoes (1kg),Fruits & Vegetables,95.37,227.73,S004,Quick Supply India,44,1,2025-07-16,g,150
+P1223,Matchbox (Pack of 10),Home & Kitchen,761.33,1071.77,S002,Bharat Distributors,3,8,2025-06-06,packs,28
+P1124,Potatoes (1kg),Fruits & Vegetables,70.68,135.52,S001,Indian Wholesale Co.,3,1,2025-05-12,kg,14
+P2314,Sanitary Pads (Pack of 10),Personal Care,354.5,549.23,S007,HomeCare Solutions,51,7,2026-12-13,g,436
+P1905,Eggs (6 Pcs),Dairy & Bakery,56.35,84.36,S007,HomeCare Solutions,18,2,2025-08-28,packs,107
+P1417,Sneakers (Size 9),Footwear,331.81,719.81,S006,Health Essentials Ltd.,5,23,2025-08-12,pcs,82
+P2102,Socks (Pack of 3),Apparel,928.5,2278.81,S007,HomeCare Solutions,6,24,2026-06-14,pcs,72
+P1715,Yogurt (Fruit 150g),Dairy & Bakery,150.21,207.17,S005,Apex Foods Pvt. Ltd.,16,2,2025-09-15,liters,70
+P1665,Sneakers (Size 9),Footwear,743.13,1552.61,S005,Apex Foods Pvt. Ltd.,1,12,2026-09-27,pcs,28
+P1381,Sandals (Size 8),Footwear,1185.65,2923.42,S005,Apex Foods Pvt. Ltd.,2,15,2026-02-21,pcs,42
+P1913,Immunity Booster (Syrup 200ml),Health & Wellness,287.14,373.67,S003,Priya Grocers,23,4,2026-09-16,packs,204
+P1639,Toor Dal (1kg),Grocery & Staples,112.81,266.08,S006,Health Essentials Ltd.,15,4,2026-07-02,kg,266
+P1158,Paneer (200g),Dairy & Bakery,186.61,291.36,S006,Health Essentials Ltd.,4,2,2025-05-19,g,18
+P1372,Matchbox (Pack of 10),Home & Kitchen,624.65,1440.4,S004,Quick Supply India,8,13,2025-08-02,kg,70
+P1901,Tomatoes (500g),Fruits & Vegetables,23.52,28.97,S005,Apex Foods Pvt. Ltd.,31,1,2025-08-06,pcs,142
+P1130,Immunity Booster (Syrup 200ml),Health & Wellness,694.17,856.15,S001,Indian Wholesale Co.,4,4,2024-08-17,ml,33
+P1835,Immunity Booster (Syrup 200ml),Health & Wellness,279.39,412.24,S005,Apex Foods Pvt. Ltd.,9,5,2027-05-26,pcs,98
+P1239,LED Bulb (9W),Electronics,48474.37,99894.96,S006,Health Essentials Ltd.,1,7,2025-02-18,units,34
+P1839,Paneer (200g),Dairy & Bakery,140.25,170.9,S008,TechGadgets India,39,1,2025-09-06,liters,175
+P2222,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,53.45,68.4,S004,Quick Supply India,44,1,2027-02-14,liters,666
+P1098,Milk (toned 1L),Dairy & Bakery,145.91,296.19,S002,Bharat Distributors,3,2,2025-06-27,packs,17
+P1370,Hair Oil (Coconut 300ml),Personal Care,192.72,387.91,S002,Bharat Distributors,12,9,2027-05-07,pcs,139
+P2203,Sneakers (Size 9),Footwear,750.07,1804.48,S008,TechGadgets India,3,12,2025-10-21,pcs,46
+P1767,Dinner Set (4 Pcs),Utensils & Cookware,304.81,398.18,S008,TechGadgets India,4,5,2026-03-28,sets,68
+P1172,Hand Wash (Neem 250ml),Personal Care,394.32,795.66,S002,Bharat Distributors,4,4,2024-09-01,packs,40
+P2423,Coriander (Bunch),Fruits & Vegetables,83.93,206.42,S008,TechGadgets India,24,1,2025-08-03,pcs,117
+P1698,Lemons (250g),Fruits & Vegetables,60.9,137.97,S007,HomeCare Solutions,31,1,2025-09-25,bunches,144
+P1150,Potatoes (1kg),Fruits & Vegetables,83.0,113.97,S006,Health Essentials Ltd.,4,1,2025-05-12,bunches,21
+P1681,Immunity Booster (Syrup 200ml),Health & Wellness,520.74,1281.79,S003,Priya Grocers,22,4,2026-09-01,pcs,164
+P2467,Biscuits (Atta 100g),Snacks & Beverages,24.02,42.52,S005,Apex Foods Pvt. Ltd.,35,3,2026-04-11,ml,496
+P1520,Chicken Breast (500g),Meat & Seafood,864.63,1502.0,S006,Health Essentials Ltd.,23,1,2025-08-29,kg,98
+P1580,Paneer (200g),Dairy & Bakery,124.92,157.08,S005,Apex Foods Pvt. Ltd.,16,1,2025-09-20,dozens,87
+P1432,Sandals (Size 8),Footwear,1447.05,3147.58,S001,Indian Wholesale Co.,1,18,2025-08-19,pcs,15
+P2475,Soap (Sandalwood 125g),Personal Care,373.51,582.45,S005,Apex Foods Pvt. Ltd.,23,9,2027-04-04,g,210
+P2386,Floor Cleaner (1L),Home & Kitchen,577.8,1442.7,S007,HomeCare Solutions,50,6,2027-04-17,pcs,285
+P2180,Kitchen Towels (Roll),Home & Kitchen,523.5,1077.04,S004,Quick Supply India,19,7,2027-02-01,bottles,133
+P2478,Eggs (6 Pcs),Dairy & Bakery,81.08,191.25,S003,Priya Grocers,15,1,2025-08-16,packs,85
+P2433,Bananas (1 Dozen),Fruits & Vegetables,79.34,154.81,S008,TechGadgets India,27,1,2025-08-19,pcs,101
+P2067,Toilet Cleaner (500ml),Home & Kitchen,304.05,616.44,S005,Apex Foods Pvt. Ltd.,38,5,2026-09-07,pcs,220
+P1491,Basic Headphones,Electronics,12376.98,20308.29,S006,Health Essentials Ltd.,1,13,2027-06-03,pcs,15
+P2238,Bread (Whole Wheat 400g),Dairy & Bakery,179.07,219.96,S006,Health Essentials Ltd.,29,2,2025-08-03,pcs,153
+P1892,Potatoes (1kg),Fruits & Vegetables,26.95,39.52,S003,Priya Grocers,34,1,2025-07-18,kg,138
+P1405,Tomatoes (500g),Fruits & Vegetables,24.84,44.75,S008,TechGadgets India,44,1,2025-08-31,bunches,152
+P1598,Butter (100g),Dairy & Bakery,37.01,70.47,S007,HomeCare Solutions,10,2,2025-08-01,packs,54
+P2437,Cola (2L),Snacks & Beverages,99.03,227.36,S005,Apex Foods Pvt. Ltd.,32,4,2026-12-24,bottles,419
+P2322,Mustard Oil (1L),Grocery & Staples,291.19,376.93,S005,Apex Foods Pvt. Ltd.,18,5,2027-01-06,kg,351
+P2366,Laundry Detergent (1kg),Home & Kitchen,177.04,442.55,S002,Bharat Distributors,46,7,2026-07-12,pcs,262
+P2356,Basic Headphones,Electronics,15974.47,22680.05,S001,Indian Wholesale Co.,1,18,2027-03-25,units,44
+P2340,Jeans (Size 32),Apparel,1084.33,1562.48,S001,Indian Wholesale Co.,7,16,2025-12-27,pcs,94
+P2183,Coriander (Bunch),Fruits & Vegetables,85.2,145.22,S005,Apex Foods Pvt. Ltd.,9,1,2025-08-17,pcs,33
+P1588,Mutton Curry Cut (500g),Meat & Seafood,293.12,663.77,S001,Indian Wholesale Co.,27,1,2025-08-24,g,96
+P2282,Yogurt (Fruit 150g),Dairy & Bakery,190.03,295.65,S005,Apex Foods Pvt. Ltd.,31,1,2025-09-19,pcs,147
+P1954,Coffee (100g),Grocery & Staples,118.1,174.44,S006,Health Essentials Ltd.,25,5,2026-08-08,kg,513
+P2012,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,23.94,36.85,S001,Indian Wholesale Co.,52,4,2027-04-08,pcs,638
+P1337,Fish Fillet (250g),Meat & Seafood,238.88,538.4,S008,TechGadgets India,13,1,2025-05-19,kg,44
+P1703,Agarbatti (Pack of 100),Home & Kitchen,775.73,1057.46,S002,Bharat Distributors,38,9,2026-02-27,bottles,273
+P1284,Dinner Set (4 Pcs),Utensils & Cookware,575.71,1273.73,S003,Priya Grocers,1,11,2024-12-16,sets,10
+P1238,Water Bottle (Steel),Utensils & Cookware,620.97,1171.92,S006,Health Essentials Ltd.,1,13,2025-06-13,sets,3
+P2347,Curd (500g),Dairy & Bakery,85.43,207.3,S006,Health Essentials Ltd.,23,2,2025-07-27,packs,119
+P1576,Protein Powder (Whey 500g),Health & Wellness,547.44,838.98,S008,TechGadgets India,23,9,2027-04-18,g,217
+P1657,Lemons (250g),Fruits & Vegetables,36.6,60.64,S004,Quick Supply India,9,1,2025-08-25,pcs,46
+P2055,Jeans (Size 32),Apparel,498.23,1203.17,S008,TechGadgets India,6,13,2025-08-27,sets,96
+P1504,Milk (toned 1L),Dairy & Bakery,127.43,208.8,S002,Bharat Distributors,21,2,2025-08-26,g,92
+P1751,Tea Powder (250g),Grocery & Staples,63.39,156.86,S008,TechGadgets India,49,6,2026-08-17,kg,867
+P1126,Wheat Flour (10kg),Grocery & Staples,271.11,348.06,S002,Bharat Distributors,1,2,2024-12-11,kg,22
+P1760,Coriander (Bunch),Fruits & Vegetables,61.74,90.95,S001,Indian Wholesale Co.,40,1,2025-09-21,g,181
+P1997,Socks (Pack of 3),Apparel,1877.2,3355.96,S006,Health Essentials Ltd.,3,15,2026-05-20,pcs,40
+P1290,Frying Pan (Non-stick),Utensils & Cookware,731.63,1413.94,S001,Indian Wholesale Co.,1,13,2025-06-06,sets,31
+P1763,Shampoo (Anti-dandruff 200ml),Personal Care,166.36,257.3,S008,TechGadgets India,41,9,2027-04-22,bottles,428
+P1153,Cheese Slice (10 Pcs Pack),Dairy & Bakery,191.7,361.42,S006,Health Essentials Ltd.,1,1,2025-05-13,dozens,10
+P1645,Toor Dal (1kg),Grocery & Staples,295.11,705.34,S008,TechGadgets India,33,5,2026-06-26,pcs,583
+P1612,Jeans (Size 32),Apparel,776.21,971.99,S008,TechGadgets India,4,19,2026-01-13,pcs,58
+P2436,Chicken Breast (500g),Meat & Seafood,352.91,838.0,S007,HomeCare Solutions,15,1,2025-09-13,kg,46
+P1787,Pressure Cooker (3L),Utensils & Cookware,262.68,429.09,S004,Quick Supply India,1,8,2026-03-10,sets,5
+P2191,Pressure Cooker (3L),Utensils & Cookware,570.8,1013.1,S006,Health Essentials Ltd.,3,8,2026-12-11,pcs,56
+P1445,Kitchen Towels (Roll),Home & Kitchen,776.92,1488.65,S003,Priya Grocers,31,7,2025-09-01,rolls,240
+P1793,Cotton T-shirt (M),Apparel,1624.65,2046.2,S005,Apex Foods Pvt. Ltd.,2,21,2025-08-01,sets,31
+P2208,Potatoes (1kg),Fruits & Vegetables,20.08,46.81,S007,HomeCare Solutions,22,1,2025-08-16,bunches,113
+P2330,Immunity Booster (Syrup 200ml),Health & Wellness,288.46,449.04,S003,Priya Grocers,22,11,2026-02-25,g,181
+P2368,Apples (1kg),Fruits & Vegetables,71.89,149.99,S003,Priya Grocers,29,1,2025-07-26,pcs,101
+P1267,Fish Fillet (250g),Meat & Seafood,278.93,519.79,S005,Apex Foods Pvt. Ltd.,2,1,2025-06-13,kg,9
+P1569,Immunity Booster (Syrup 200ml),Health & Wellness,510.02,1015.83,S005,Apex Foods Pvt. Ltd.,7,11,2027-03-18,g,57
+P1939,Jeans (Size 32),Apparel,1148.1,1463.54,S004,Quick Supply India,7,16,2027-03-25,pcs,113
+P1784,LED Bulb (9W),Electronics,47155.69,76310.24,S005,Apex Foods Pvt. Ltd.,1,7,2025-11-04,units,42
+P1535,Sanitary Pads (Pack of 10),Personal Care,229.86,438.31,S007,HomeCare Solutions,41,9,2027-06-20,g,398
+P1988,USB Cable (2m),Electronics,9687.55,23098.04,S003,Priya Grocers,1,18,2026-02-04,units,8
+P1539,Extension Cord (5m),Electronics,29017.73,57842.92,S001,Indian Wholesale Co.,1,8,2027-01-20,pcs,26
+P1428,Basmati Rice (5kg),Grocery & Staples,138.72,290.43,S008,TechGadgets India,56,5,2027-03-26,packets,958
+P2332,Toor Dal (1kg),Grocery & Staples,170.38,282.59,S006,Health Essentials Ltd.,47,6,2025-12-07,pcs,809
+P2380,Kitchen Towels (Roll),Home & Kitchen,328.93,468.92,S006,Health Essentials Ltd.,23,12,2027-03-02,rolls,174
+P1149,Bananas (1 Dozen),Fruits & Vegetables,36.52,52.98,S005,Apex Foods Pvt. Ltd.,7,1,2025-05-03,kg,33
+P1818,Tomatoes (500g),Fruits & Vegetables,83.18,102.32,S004,Quick Supply India,23,1,2025-07-22,pcs,99
+P2228,Sneakers (Size 9),Footwear,608.64,1106.34,S004,Quick Supply India,2,12,2027-05-16,pairs,47
+P2043,Tea Powder (250g),Grocery & Staples,201.67,276.46,S003,Priya Grocers,21,5,2027-03-04,packets,464
+P1355,Fish Fillet (250g),Meat & Seafood,290.21,642.33,S008,TechGadgets India,5,1,2025-08-31,g,18
+P2378,Basic Headphones,Electronics,23683.88,47919.32,S006,Health Essentials Ltd.,1,14,2025-12-05,units,20
+P2196,Hand Wash (Neem 250ml),Personal Care,394.02,807.53,S007,HomeCare Solutions,36,4,2027-05-19,ml,378
+P1276,USB Cable (2m),Electronics,33268.91,62078.49,S003,Priya Grocers,1,17,2025-03-10,pcs,21
+P2348,LED Bulb (9W),Electronics,18847.22,36099.27,S002,Bharat Distributors,1,18,2027-03-23,units,42
+P1254,Butter (100g),Dairy & Bakery,38.56,84.62,S003,Priya Grocers,5,1,2025-05-08,liters,33
+P1540,Casual Shirt (L),Apparel,1804.11,4363.07,S006,Health Essentials Ltd.,6,23,2026-05-20,sets,89
+P1447,Yogurt (Fruit 150g),Dairy & Bakery,118.97,246.2,S001,Indian Wholesale Co.,57,1,2025-08-16,pcs,241
+P1303,Mineral Water (1L),Snacks & Beverages,138.19,170.35,S008,TechGadgets India,1,4,2024-10-29,liters,16
+P2312,Extension Cord (5m),Electronics,28281.76,64964.91,S003,Priya Grocers,1,9,2027-02-26,units,36
+P1398,USB Cable (2m),Electronics,22609.69,35768.16,S008,TechGadgets India,1,9,2027-05-05,pcs,35
+P1583,Bread (Whole Wheat 400g),Dairy & Bakery,93.3,122.34,S007,HomeCare Solutions,32,1,2025-08-04,g,138
+P2456,Formal Shoes (Size 10),Footwear,1211.26,1910.84,S001,Indian Wholesale Co.,5,10,2026-10-30,pcs,85
+P2479,Bananas (1 Dozen),Fruits & Vegetables,52.03,129.6,S006,Health Essentials Ltd.,29,1,2025-07-27,pcs,107
+P1952,Bananas (1 Dozen),Fruits & Vegetables,23.38,55.15,S005,Apex Foods Pvt. Ltd.,26,1,2025-09-06,bunches,108
+P2103,Yogurt (Fruit 150g),Dairy & Bakery,118.47,227.33,S002,Bharat Distributors,31,1,2025-07-05,packs,140
+P1207,USB Cable (2m),Electronics,20558.85,43664.19,S001,Indian Wholesale Co.,1,18,2025-02-01,pcs,42
+P2099,Socks (Pack of 3),Apparel,412.89,923.25,S005,Apex Foods Pvt. Ltd.,3,24,2025-09-03,pcs,41
+P1061,Extension Cord (5m),Electronics,25056.72,48219.16,S007,HomeCare Solutions,1,19,2024-09-11,units,20
+P1248,Coriander (Bunch),Fruits & Vegetables,99.32,203.19,S003,Priya Grocers,10,1,2025-06-16,dozens,42
+P2280,Coriander (Bunch),Fruits & Vegetables,79.94,112.99,S004,Quick Supply India,13,1,2025-08-04,bunches,62
+P1081,Kitchen Towels (Roll),Home & Kitchen,357.77,614.16,S006,Health Essentials Ltd.,1,5,2024-12-13,kg,10
+P2045,Matchbox (Pack of 10),Home & Kitchen,456.17,575.78,S006,Health Essentials Ltd.,38,12,2025-12-19,bottles,245
+P2150,Socks (Pack of 3),Apparel,1241.27,2339.51,S007,HomeCare Solutions,5,11,2026-01-23,sets,88
+P2349,Energy Bar (Nut 50g),Snacks & Beverages,97.82,225.36,S002,Bharat Distributors,20,4,2026-12-31,bottles,291
+P1656,Coriander (Bunch),Fruits & Vegetables,58.77,89.76,S005,Apex Foods Pvt. Ltd.,27,1,2025-08-07,kg,96
+P1011,Basmati Rice (5kg),Grocery & Staples,142.6,273.28,S001,Indian Wholesale Co.,1,3,2024-08-10,packets,41
+P2085,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,244.41,444.14,S001,Indian Wholesale Co.,20,5,2026-05-27,ml,200
+P1670,Jeans (Size 32),Apparel,318.0,453.64,S005,Apex Foods Pvt. Ltd.,1,18,2026-11-30,sets,21
+P1755,Mutton Curry Cut (500g),Meat & Seafood,908.45,2182.38,S002,Bharat Distributors,9,1,2025-09-22,pcs,31
+P1148,Fish Fillet (250g),Meat & Seafood,929.55,1798.83,S003,Priya Grocers,2,1,2025-05-19,pcs,10
+P2092,USB Cable (2m),Electronics,27352.0,48438.5,S005,Apex Foods Pvt. Ltd.,1,10,2026-01-05,pcs,34
+P2100,Agarbatti (Pack of 100),Home & Kitchen,602.75,1495.86,S004,Quick Supply India,32,7,2026-06-05,rolls,255
+P1230,Casual Shirt (L),Apparel,915.62,1363.06,S004,Quick Supply India,2,19,2024-09-24,sets,30
+P1397,Butter (100g),Dairy & Bakery,87.5,151.03,S001,Indian Wholesale Co.,21,2,2025-07-14,liters,91
+P1527,Garbage Bags (Medium Pack),Home & Kitchen,434.91,751.79,S004,Quick Supply India,23,14,2027-04-04,rolls,142
+P2089,Hand Wash (Neem 250ml),Personal Care,88.1,153.64,S003,Priya Grocers,32,5,2025-12-01,packs,329
+P1202,Potato Chips (Masala 75g),Snacks & Beverages,38.41,50.0,S003,Priya Grocers,1,3,2025-02-28,bottles,0
+P2420,Casual Shirt (L),Apparel,672.08,1411.34,S006,Health Essentials Ltd.,10,16,2027-06-06,pcs,125
+P1184,Curd (500g),Dairy & Bakery,74.5,170.51,S004,Quick Supply India,4,2,2025-05-22,liters,21
+P1530,Floor Cleaner (1L),Home & Kitchen,676.63,1514.06,S002,Bharat Distributors,6,6,2025-10-03,packs,49
+P2445,Spinach (Bunch),Fruits & Vegetables,54.93,75.27,S004,Quick Supply India,21,1,2025-07-20,g,101
+P2044,Chicken Breast (500g),Meat & Seafood,537.36,1027.7,S008,TechGadgets India,7,1,2025-08-08,g,23
+P1663,Sneakers (Size 9),Footwear,984.74,2107.53,S006,Health Essentials Ltd.,2,22,2026-02-21,pairs,28
+P2422,Basic Headphones,Electronics,38477.04,51214.34,S004,Quick Supply India,1,14,2026-07-17,pcs,49
+P1439,Spinach (Bunch),Fruits & Vegetables,86.86,122.02,S004,Quick Supply India,35,1,2025-08-10,dozens,144
+P2469,Jeans (Size 32),Apparel,334.09,488.49,S008,TechGadgets India,3,19,2026-06-13,sets,45
+P1778,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,117.95,289.93,S008,TechGadgets India,93,2,2026-09-17,bottles,1113
+P2428,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,283.81,420.4,S006,Health Essentials Ltd.,22,6,2026-11-05,bottles,161
+P1689,Pressure Cooker (3L),Utensils & Cookware,830.88,1806.07,S006,Health Essentials Ltd.,1,8,2026-05-31,pcs,7
+P1590,Formal Shoes (Size 10),Footwear,833.88,1781.34,S003,Priya Grocers,1,15,2026-12-08,pcs,22
+P2048,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,581.86,1003.01,S007,HomeCare Solutions,21,8,2026-01-24,bottles,191
+P2015,Garbage Bags (Medium Pack),Home & Kitchen,371.75,875.44,S006,Health Essentials Ltd.,5,10,2025-11-03,kg,46
+P2175,Protein Powder (Whey 500g),Health & Wellness,545.34,851.99,S006,Health Essentials Ltd.,16,6,2027-03-07,g,143
+P1705,Frying Pan (Non-stick),Utensils & Cookware,532.94,960.79,S006,Health Essentials Ltd.,1,6,2025-08-09,pcs,5
+P2325,Ghee (500ml),Grocery & Staples,228.37,319.5,S003,Priya Grocers,43,6,2026-06-11,kg,922
+P2036,Tea Powder (250g),Grocery & Staples,270.09,355.0,S003,Priya Grocers,42,6,2026-01-21,packets,916
+P2493,Jeans (Size 32),Apparel,306.07,474.4,S007,HomeCare Solutions,1,23,2026-12-11,pcs,30
+P1220,Paneer (200g),Dairy & Bakery,73.81,110.42,S002,Bharat Distributors,4,1,2025-06-01,liters,20
+P1226,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,111.09,244.82,S002,Bharat Distributors,1,4,2025-02-25,pcs,17
+P1815,Casual Shirt (L),Apparel,507.35,848.26,S002,Bharat Distributors,2,14,2027-05-03,sets,38
+P2383,Basic Headphones,Electronics,3501.9,6920.21,S008,TechGadgets India,1,14,2025-12-19,units,5
+P1489,Cotton T-shirt (M),Apparel,1369.06,3316.76,S003,Priya Grocers,8,19,2025-12-04,sets,126
+P1647,Sunscreen (SPF30 100ml),Personal Care,158.88,285.0,S004,Quick Supply India,45,3,2026-06-27,bottles,429
+P2013,Face Cream (Aloe Vera 50g),Personal Care,139.14,198.48,S008,TechGadgets India,42,9,2027-03-19,packs,462
+P1981,Potato Chips (Masala 75g),Snacks & Beverages,130.74,299.68,S004,Quick Supply India,18,2,2025-09-22,pcs,205
+P1069,Sandals (Size 8),Footwear,249.2,548.85,S001,Indian Wholesale Co.,1,13,2024-07-11,pairs,13
+P2202,Coffee (100g),Grocery & Staples,224.3,296.71,S003,Priya Grocers,11,5,2026-02-26,kg,257
+P1605,Energy Bar (Nut 50g),Snacks & Beverages,114.36,252.95,S002,Bharat Distributors,81,4,2026-12-29,liters,892
+P1919,Pressure Cooker (3L),Utensils & Cookware,228.07,327.39,S008,TechGadgets India,1,7,2026-12-15,pcs,10
+P2267,Fish Fillet (250g),Meat & Seafood,254.58,556.65,S003,Priya Grocers,5,1,2025-07-06,kg,17
+P1217,Cotton T-shirt (M),Apparel,1748.62,3565.55,S004,Quick Supply India,3,10,2025-04-16,sets,44
+P1013,Socks (Pack of 3),Apparel,1956.95,3243.15,S002,Bharat Distributors,1,22,2024-09-13,pcs,9
+P2344,Milk (toned 1L),Dairy & Bakery,164.74,245.94,S003,Priya Grocers,47,2,2025-08-31,packs,283
+P2173,Laundry Detergent (1kg),Home & Kitchen,160.58,285.16,S007,HomeCare Solutions,13,14,2026-07-13,rolls,96
+P2367,Cotton T-shirt (M),Apparel,608.17,1229.13,S003,Priya Grocers,9,10,2027-06-09,pcs,118
+P2088,Coffee (100g),Grocery & Staples,113.69,168.06,S003,Priya Grocers,42,2,2026-12-09,kg,894
+P1032,USB Cable (2m),Electronics,16204.97,24915.82,S005,Apex Foods Pvt. Ltd.,1,9,2025-05-19,pcs,26
+P2112,Fish Fillet (250g),Meat & Seafood,351.77,432.06,S004,Quick Supply India,4,1,2025-09-16,pcs,17
+P1618,Hand Wash (Neem 250ml),Personal Care,109.59,270.27,S001,Indian Wholesale Co.,10,7,2026-10-22,pcs,117
+P1218,Chicken Breast (500g),Meat & Seafood,554.94,1040.43,S003,Priya Grocers,12,1,2025-06-28,pcs,43
+P1374,Shampoo (Anti-dandruff 200ml),Personal Care,280.38,546.24,S006,Health Essentials Ltd.,43,4,2026-10-09,bottles,475
+P2138,Energy Bar (Nut 50g),Snacks & Beverages,56.23,73.61,S006,Health Essentials Ltd.,79,4,2025-12-24,packets,884
+P1630,USB Cable (2m),Electronics,31637.85,69474.18,S003,Priya Grocers,1,16,2026-12-12,pcs,36
+P2387,Mango Juice (1L),Snacks & Beverages,42.22,56.77,S006,Health Essentials Ltd.,75,3,2026-04-15,pcs,784
+P1100,Salt (1kg),Grocery & Staples,213.16,531.72,S001,Indian Wholesale Co.,1,3,2024-10-31,packets,11
+P1672,Spices Combo (100g),Grocery & Staples,247.52,507.05,S003,Priya Grocers,20,2,2026-07-08,packets,350
+P1288,Fish Fillet (250g),Meat & Seafood,219.73,312.36,S003,Priya Grocers,1,1,2025-06-02,g,3
+P1505,Lemons (250g),Fruits & Vegetables,47.2,68.61,S004,Quick Supply India,38,1,2025-07-12,kg,169
+P1745,Fish Fillet (250g),Meat & Seafood,649.27,1124.61,S007,HomeCare Solutions,15,1,2025-09-05,g,52
+P2458,Protein Powder (Whey 500g),Health & Wellness,398.96,990.48,S004,Quick Supply India,28,7,2026-01-27,packs,239
+P2308,Butter (100g),Dairy & Bakery,72.12,107.47,S003,Priya Grocers,45,1,2025-07-31,packs,244
+P2083,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,60.54,110.06,S005,Apex Foods Pvt. Ltd.,70,3,2026-04-17,ml,1030
+P1450,Cotton T-shirt (M),Apparel,1628.9,2457.98,S005,Apex Foods Pvt. Ltd.,8,11,2026-04-08,pcs,102
+P1209,Spinach (Bunch),Fruits & Vegetables,66.24,139.7,S001,Indian Wholesale Co.,1,1,2025-05-26,pcs,7
+P1897,Coffee (100g),Grocery & Staples,179.81,262.19,S003,Priya Grocers,24,6,2027-01-30,pcs,463
+P2188,Ghee (500ml),Grocery & Staples,80.55,135.55,S001,Indian Wholesale Co.,8,3,2026-06-11,packets,181
+P1994,USB Cable (2m),Electronics,19114.5,34721.46,S004,Quick Supply India,1,18,2026-04-13,pcs,27
+P2370,Immunity Booster (Syrup 200ml),Health & Wellness,633.4,1344.27,S002,Bharat Distributors,9,6,2027-02-03,ml,78
+P1317,Agarbatti (Pack of 100),Home & Kitchen,201.34,445.48,S004,Quick Supply India,1,5,2025-05-29,kg,7
+P2011,Eggs (6 Pcs),Dairy & Bakery,110.75,258.41,S006,Health Essentials Ltd.,35,1,2025-08-14,packs,180
+P2453,Mutton Curry Cut (500g),Meat & Seafood,719.72,1656.56,S004,Quick Supply India,17,1,2025-09-24,pcs,63
+P1097,Yogurt (Fruit 150g),Dairy & Bakery,40.93,72.51,S001,Indian Wholesale Co.,8,1,2025-05-28,dozens,41
+P1910,LED Bulb (9W),Electronics,15778.08,24814.26,S008,TechGadgets India,1,10,2026-07-05,units,39
+P1067,LED Bulb (9W),Electronics,7237.08,11112.98,S002,Bharat Distributors,1,14,2024-09-28,units,40
+P1957,Tea Powder (250g),Grocery & Staples,117.06,283.11,S002,Bharat Distributors,17,4,2026-05-30,packets,350
+P1752,Mutton Curry Cut (500g),Meat & Seafood,932.39,1439.51,S005,Apex Foods Pvt. Ltd.,21,1,2025-09-03,kg,84
+P1551,Curd (500g),Dairy & Bakery,89.09,144.51,S006,Health Essentials Ltd.,24,1,2025-07-18,g,138
+P1110,USB Cable (2m),Electronics,26520.27,34218.18,S008,TechGadgets India,1,14,2024-12-01,pcs,6
+P2296,Fish Fillet (250g),Meat & Seafood,845.25,2049.67,S007,HomeCare Solutions,13,1,2025-07-20,g,37
+P1641,Formal Shoes (Size 10),Footwear,767.05,1177.91,S002,Bharat Distributors,6,10,2026-03-25,pcs,99
+P1010,Protein Powder (Whey 500g),Health & Wellness,296.94,447.47,S001,Indian Wholesale Co.,1,6,2024-08-24,packs,18
+P1648,Mineral Water (1L),Snacks & Beverages,68.54,91.85,S003,Priya Grocers,58,4,2027-01-17,pcs,768
+P1255,Paneer (200g),Dairy & Bakery,71.83,116.21,S004,Quick Supply India,8,1,2025-05-30,pcs,45
+P2418,Water Bottle (Steel),Utensils & Cookware,246.66,458.1,S008,TechGadgets India,3,12,2026-11-28,pcs,68
+P1234,Immunity Booster (Syrup 200ml),Health & Wellness,181.99,332.8,S004,Quick Supply India,6,6,2024-09-30,pcs,49
+P1886,Spinach (Bunch),Fruits & Vegetables,25.46,31.16,S005,Apex Foods Pvt. Ltd.,35,1,2025-07-28,dozens,162
+P1955,Biscuits (Atta 100g),Snacks & Beverages,117.49,159.48,S005,Apex Foods Pvt. Ltd.,80,2,2026-07-22,ml,984
+P1144,Sneakers (Size 9),Footwear,260.39,408.05,S006,Health Essentials Ltd.,2,22,2025-03-10,pairs,48
+P1843,Potatoes (1kg),Fruits & Vegetables,27.08,50.08,S001,Indian Wholesale Co.,17,1,2025-09-20,dozens,70
+P1379,Onions (1kg),Fruits & Vegetables,96.58,158.12,S005,Apex Foods Pvt. Ltd.,38,1,2025-09-13,pcs,129
+P2163,Bananas (1 Dozen),Fruits & Vegetables,88.38,207.72,S004,Quick Supply India,42,1,2025-07-23,pcs,170
+P2261,Dishwashing Liquid (500ml),Home & Kitchen,197.46,383.06,S006,Health Essentials Ltd.,39,9,2027-01-18,kg,239
+P1947,Chai Mix (150g),Snacks & Beverages,36.91,48.73,S004,Quick Supply India,28,2,2026-05-12,bottles,426
+P1433,Cotton T-shirt (M),Apparel,1302.85,1634.93,S003,Priya Grocers,6,12,2026-01-04,pcs,77
+P2477,Casual Shirt (L),Apparel,1992.15,4656.39,S003,Priya Grocers,9,10,2027-04-27,sets,141
+P1244,Extension Cord (5m),Electronics,26436.01,52982.37,S004,Quick Supply India,1,18,2024-08-26,units,43
+P1481,Kitchen Towels (Roll),Home & Kitchen,596.47,1315.55,S004,Quick Supply India,34,10,2026-07-22,bottles,243
+P1073,Protein Powder (Whey 500g),Health & Wellness,427.34,1008.28,S006,Health Essentials Ltd.,2,6,2025-06-13,ml,22
+P2081,Shampoo (Anti-dandruff 200ml),Personal Care,88.66,115.75,S005,Apex Foods Pvt. Ltd.,43,4,2026-08-29,packs,485
+P1574,Coffee (100g),Grocery & Staples,237.96,378.02,S005,Apex Foods Pvt. Ltd.,7,2,2025-11-22,kg,145
+P1819,Protein Powder (Whey 500g),Health & Wellness,394.86,625.73,S001,Indian Wholesale Co.,21,8,2025-11-21,packs,212
+P2414,Pressure Cooker (3L),Utensils & Cookware,276.36,671.68,S007,HomeCare Solutions,4,11,2026-02-07,sets,67
+P1875,Cotton T-shirt (M),Apparel,1837.25,3394.94,S006,Health Essentials Ltd.,6,15,2027-06-03,pcs,87
+P1026,Matchbox (Pack of 10),Home & Kitchen,538.49,1165.62,S008,TechGadgets India,3,9,2025-03-14,pcs,20
+P2487,Immunity Booster (Syrup 200ml),Health & Wellness,451.4,864.42,S001,Indian Wholesale Co.,10,7,2027-03-11,g,83
+P1649,Ghee (500ml),Grocery & Staples,131.75,180.3,S002,Bharat Distributors,14,6,2026-01-11,packets,325
+P1441,Spinach (Bunch),Fruits & Vegetables,85.5,187.62,S007,HomeCare Solutions,49,1,2025-08-17,kg,187
+P1677,Potato Chips (Masala 75g),Snacks & Beverages,122.6,219.75,S003,Priya Grocers,67,4,2026-04-14,liters,783
+P1873,Mutton Curry Cut (500g),Meat & Seafood,616.71,1044.41,S006,Health Essentials Ltd.,14,1,2025-09-14,g,56
+P2443,Paneer (200g),Dairy & Bakery,78.57,187.51,S007,HomeCare Solutions,27,2,2025-08-06,g,144
+P1560,Laundry Detergent (1kg),Home & Kitchen,658.41,1214.17,S004,Quick Supply India,6,9,2026-12-30,pcs,53
+P1724,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,177.14,364.48,S007,HomeCare Solutions,9,9,2025-08-07,g,76
+P1264,Frying Pan (Non-stick),Utensils & Cookware,864.65,1146.97,S002,Bharat Distributors,1,12,2024-09-05,sets,26
+P2416,LED Bulb (9W),Electronics,13844.75,30253.18,S004,Quick Supply India,1,13,2025-11-18,units,49
+P1738,Apples (1kg),Fruits & Vegetables,22.47,38.28,S001,Indian Wholesale Co.,19,1,2025-07-14,bunches,78
+P1771,Socks (Pack of 3),Apparel,1512.59,2405.35,S001,Indian Wholesale Co.,1,13,2026-05-25,sets,28
+P2233,Socks (Pack of 3),Apparel,1901.87,3200.06,S004,Quick Supply India,11,22,2025-11-23,sets,133
+P1401,Casual Shirt (L),Apparel,1688.87,3866.46,S008,TechGadgets India,7,14,2027-05-05,sets,84
+P1278,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,203.74,462.06,S002,Bharat Distributors,1,7,2024-07-12,ml,11
+P2270,Socks (Pack of 3),Apparel,1704.7,2384.45,S005,Apex Foods Pvt. Ltd.,9,21,2026-09-05,sets,108
+P1713,Lemons (250g),Fruits & Vegetables,98.66,181.2,S008,TechGadgets India,31,1,2025-07-24,kg,141
+P1938,Onions (1kg),Fruits & Vegetables,73.78,149.19,S006,Health Essentials Ltd.,42,1,2025-09-17,pcs,160
+P2489,Socks (Pack of 3),Apparel,913.82,2131.19,S006,Health Essentials Ltd.,10,23,2027-03-22,sets,138
+P1934,Casual Shirt (L),Apparel,1865.66,3165.35,S007,HomeCare Solutions,5,22,2027-03-12,sets,80
+P1523,Curd (500g),Dairy & Bakery,147.57,312.52,S002,Bharat Distributors,26,1,2025-08-31,dozens,129
+P1546,Sneakers (Size 9),Footwear,475.91,1006.45,S001,Indian Wholesale Co.,3,16,2025-09-14,pcs,49
+P1113,Lemons (250g),Fruits & Vegetables,37.26,45.6,S003,Priya Grocers,5,1,2025-06-21,g,23
+P2223,Immunity Booster (Syrup 200ml),Health & Wellness,361.94,528.07,S004,Quick Supply India,12,10,2026-09-25,bottles,109
+P2133,Basic Headphones,Electronics,4898.36,6293.6,S005,Apex Foods Pvt. Ltd.,1,18,2026-05-27,units,19
+P1860,Cheese Slice (10 Pcs Pack),Dairy & Bakery,113.12,161.18,S001,Indian Wholesale Co.,31,1,2025-07-26,dozens,177
+P1179,Water Bottle (Steel),Utensils & Cookware,358.83,747.44,S006,Health Essentials Ltd.,2,6,2025-06-27,sets,43
+P1178,Fish Fillet (250g),Meat & Seafood,516.11,754.77,S008,TechGadgets India,4,1,2025-06-22,kg,15
+P2106,Eggs (6 Pcs),Dairy & Bakery,109.91,221.43,S003,Priya Grocers,35,2,2025-08-02,g,215
+P1055,Immunity Booster (Syrup 200ml),Health & Wellness,546.63,1311.2,S003,Priya Grocers,1,6,2024-08-13,pcs,5
+P2345,Basmati Rice (5kg),Grocery & Staples,172.21,425.84,S002,Bharat Distributors,41,5,2025-10-02,packets,809
+P1543,Paneer (200g),Dairy & Bakery,151.83,221.78,S003,Priya Grocers,28,2,2025-09-21,g,141
+P1664,Casual Shirt (L),Apparel,936.35,1675.56,S002,Bharat Distributors,7,13,2026-03-29,pcs,91
+P2276,Cotton T-shirt (M),Apparel,591.22,1373.95,S004,Quick Supply India,4,15,2025-10-13,pcs,64
+P1555,Jeans (Size 32),Apparel,1554.12,2913.54,S003,Priya Grocers,1,15,2026-11-29,sets,17
+P1828,Tomatoes (500g),Fruits & Vegetables,95.08,161.33,S005,Apex Foods Pvt. Ltd.,52,1,2025-08-31,g,180
+P1780,Cotton T-shirt (M),Apparel,1530.94,3088.71,S001,Indian Wholesale Co.,1,10,2026-06-03,pcs,10
+P1927,Apples (1kg),Fruits & Vegetables,46.91,81.48,S007,HomeCare Solutions,41,1,2025-07-28,g,193
+P2289,Biscuits (Atta 100g),Snacks & Beverages,40.69,90.37,S003,Priya Grocers,49,4,2026-10-04,ml,692
+P2318,Sneakers (Size 9),Footwear,810.52,1734.65,S003,Priya Grocers,6,24,2026-12-01,pairs,84
+P1517,Socks (Pack of 3),Apparel,998.7,2099.62,S004,Quick Supply India,9,24,2026-04-07,pcs,138
+P1183,Shampoo (Anti-dandruff 200ml),Personal Care,398.39,704.67,S007,HomeCare Solutions,3,9,2024-12-07,bottles,40
+P2245,Potatoes (1kg),Fruits & Vegetables,22.5,31.13,S001,Indian Wholesale Co.,25,1,2025-07-21,pcs,94
+P1735,Cheese Slice (10 Pcs Pack),Dairy & Bakery,191.79,360.18,S001,Indian Wholesale Co.,18,2,2025-09-17,pcs,82
+P1025,Matchbox (Pack of 10),Home & Kitchen,278.78,495.94,S006,Health Essentials Ltd.,1,6,2025-01-21,bottles,2
+P2074,Floor Cleaner (1L),Home & Kitchen,266.67,336.67,S005,Apex Foods Pvt. Ltd.,14,9,2026-03-28,kg,82
+P1307,Sunscreen (SPF30 100ml),Personal Care,89.19,206.31,S003,Priya Grocers,4,8,2025-06-20,bottles,41
+P2485,Protein Powder (Whey 500g),Health & Wellness,203.95,370.97,S001,Indian Wholesale Co.,13,8,2025-09-18,pcs,138
+P2136,Mutton Curry Cut (500g),Meat & Seafood,857.93,2136.68,S008,TechGadgets India,17,1,2025-09-23,kg,63
+P1424,Mutton Curry Cut (500g),Meat & Seafood,834.02,1034.54,S003,Priya Grocers,22,1,2025-09-05,g,75
+P2030,Milk (toned 1L),Dairy & Bakery,107.11,266.1,S004,Quick Supply India,39,2,2025-07-23,g,168
+P1810,Sandals (Size 8),Footwear,814.41,1057.75,S001,Indian Wholesale Co.,4,20,2026-06-05,pcs,62
+P2073,LED Bulb (9W),Electronics,7086.23,9170.91,S002,Bharat Distributors,1,19,2026-12-14,units,47
+P1567,Sneakers (Size 9),Footwear,1082.15,2435.34,S001,Indian Wholesale Co.,2,18,2026-11-21,pairs,39
+P2075,Sunscreen (SPF30 100ml),Personal Care,138.87,309.8,S005,Apex Foods Pvt. Ltd.,29,5,2026-05-04,bottles,283
+P1283,Spinach (Bunch),Fruits & Vegetables,27.82,39.01,S004,Quick Supply India,2,1,2025-05-13,g,10
+P2189,Sneakers (Size 9),Footwear,947.22,1328.73,S004,Quick Supply India,7,18,2026-11-26,pcs,88
+P1553,Onions (1kg),Fruits & Vegetables,52.36,89.59,S004,Quick Supply India,14,1,2025-08-30,bunches,57
+P1872,Curd (500g),Dairy & Bakery,141.08,318.26,S002,Bharat Distributors,23,2,2025-09-23,liters,141
+P1429,Formal Shoes (Size 10),Footwear,1169.33,2213.86,S004,Quick Supply India,4,15,2025-09-20,pcs,70
+P2252,Chicken Breast (500g),Meat & Seafood,319.82,582.01,S003,Priya Grocers,14,1,2025-07-21,pcs,50
+P1584,Cotton T-shirt (M),Apparel,458.63,862.01,S006,Health Essentials Ltd.,6,24,2025-11-02,sets,72
+P2482,Toothpaste (Herbal 150g),Personal Care,380.81,923.42,S003,Priya Grocers,51,6,2027-04-01,packs,467
+P1499,Butter (100g),Dairy & Bakery,173.05,399.74,S003,Priya Grocers,47,1,2025-09-17,pcs,238
+P1597,Sandals (Size 8),Footwear,1002.28,2308.53,S008,TechGadgets India,1,22,2026-12-23,pcs,21
+P1921,Tomatoes (500g),Fruits & Vegetables,77.48,128.59,S007,HomeCare Solutions,33,1,2025-07-20,dozens,123
+P1306,Fish Fillet (250g),Meat & Seafood,578.76,936.7,S004,Quick Supply India,7,1,2025-06-24,g,26
+P1383,Extension Cord (5m),Electronics,46616.44,73132.41,S003,Priya Grocers,1,16,2027-05-17,pcs,39
+P1827,Agarbatti (Pack of 100),Home & Kitchen,784.91,1166.22,S003,Priya Grocers,10,9,2026-05-14,kg,59
+P1314,Sneakers (Size 9),Footwear,269.83,464.64,S006,Health Essentials Ltd.,1,23,2024-12-08,pcs,6
+P1347,Frying Pan (Non-stick),Utensils & Cookware,448.02,663.21,S001,Indian Wholesale Co.,1,11,2025-03-02,sets,4
+P1521,Dinner Set (4 Pcs),Utensils & Cookware,174.56,303.89,S002,Bharat Distributors,2,11,2026-07-11,sets,41
+P2320,Potato Chips (Masala 75g),Snacks & Beverages,93.0,186.27,S001,Indian Wholesale Co.,43,1,2026-08-21,packets,629
+P1334,Basic Headphones,Electronics,1518.5,3620.9,S005,Apex Foods Pvt. Ltd.,1,14,2024-09-12,units,39
+P1137,Immunity Booster (Syrup 200ml),Health & Wellness,563.28,698.86,S004,Quick Supply India,5,4,2024-09-14,pcs,36
+P1289,Sunscreen (SPF30 100ml),Personal Care,372.72,614.06,S008,TechGadgets India,3,7,2024-10-28,ml,34
+P1557,Toilet Cleaner (500ml),Home & Kitchen,166.0,204.95,S004,Quick Supply India,32,13,2027-01-24,rolls,257
+P2442,Water Bottle (Steel),Utensils & Cookware,555.62,705.51,S004,Quick Supply India,1,8,2027-05-10,sets,25
+P1386,Formal Shoes (Size 10),Footwear,271.88,359.86,S001,Indian Wholesale Co.,6,16,2026-03-15,pairs,92
+P2141,Garbage Bags (Medium Pack),Home & Kitchen,774.8,1741.38,S007,HomeCare Solutions,15,13,2026-03-27,kg,120
+P1079,Sandals (Size 8),Footwear,384.3,722.01,S006,Health Essentials Ltd.,1,13,2024-11-23,pairs,28
+P1562,Cotton T-shirt (M),Apparel,564.4,731.19,S007,HomeCare Solutions,2,22,2025-11-08,pcs,24
+P2019,Socks (Pack of 3),Apparel,602.16,1265.58,S006,Health Essentials Ltd.,4,14,2025-09-13,pcs,52
+P2382,Basic Headphones,Electronics,31363.49,77608.45,S002,Bharat Distributors,1,11,2025-10-19,pcs,44
+P1431,USB Cable (2m),Electronics,44301.85,78062.35,S005,Apex Foods Pvt. Ltd.,1,17,2025-11-20,pcs,46
+P1205,Extension Cord (5m),Electronics,22506.71,55505.22,S003,Priya Grocers,1,15,2025-04-15,pcs,16
+P1257,Onions (1kg),Fruits & Vegetables,39.26,87.4,S008,TechGadgets India,1,1,2025-06-25,g,2
+P1003,Onions (1kg),Fruits & Vegetables,28.61,51.53,S004,Quick Supply India,8,1,2025-06-22,bunches,34
+P1573,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,74.3,94.24,S002,Bharat Distributors,56,3,2026-10-23,packets,784
+P1914,Chicken Breast (500g),Meat & Seafood,653.06,1424.71,S007,HomeCare Solutions,20,1,2025-07-29,g,68
+P1969,Hair Oil (Coconut 300ml),Personal Care,324.17,557.08,S005,Apex Foods Pvt. Ltd.,24,8,2027-05-09,bottles,250
+P1326,Immunity Booster (Syrup 200ml),Health & Wellness,420.94,844.64,S001,Indian Wholesale Co.,3,4,2025-01-20,ml,37
+P1858,Biscuits (Atta 100g),Snacks & Beverages,93.15,198.95,S005,Apex Foods Pvt. Ltd.,46,3,2026-07-15,packets,537
+P1210,Immunity Booster (Syrup 200ml),Health & Wellness,439.19,818.31,S003,Priya Grocers,1,11,2024-11-03,packs,11
+P1436,Soap (Sandalwood 125g),Personal Care,122.14,238.6,S004,Quick Supply India,9,5,2026-02-16,packs,99
+P1221,Sneakers (Size 9),Footwear,1414.87,1962.21,S002,Bharat Distributors,2,23,2025-04-23,pcs,37
+P1702,Sandals (Size 8),Footwear,1031.3,1250.44,S002,Bharat Distributors,2,16,2025-10-03,pairs,40
+P2093,Chicken Breast (500g),Meat & Seafood,564.81,1149.09,S005,Apex Foods Pvt. Ltd.,30,1,2025-08-14,pcs,88
+P1626,Shampoo (Anti-dandruff 200ml),Personal Care,127.12,226.23,S003,Priya Grocers,6,5,2026-11-19,ml,59
+P1390,Potatoes (1kg),Fruits & Vegetables,85.96,211.29,S005,Apex Foods Pvt. Ltd.,40,1,2025-07-12,dozens,177
+P1139,Kitchen Towels (Roll),Home & Kitchen,100.39,129.44,S006,Health Essentials Ltd.,4,5,2025-05-18,kg,28
+P2278,Sandals (Size 8),Footwear,1115.41,2212.61,S004,Quick Supply India,5,15,2026-06-15,pairs,83
+P2491,Soap (Sandalwood 125g),Personal Care,245.5,496.17,S005,Apex Foods Pvt. Ltd.,14,6,2026-06-16,pcs,175
+P1917,Biscuits (Atta 100g),Snacks & Beverages,109.01,263.34,S004,Quick Supply India,44,3,2025-11-03,packets,558
+P2326,Fish Fillet (250g),Meat & Seafood,890.73,2175.17,S007,HomeCare Solutions,15,1,2025-07-05,pcs,62
+P2080,Ghee (500ml),Grocery & Staples,225.01,312.88,S006,Health Essentials Ltd.,34,2,2026-03-30,kg,655
+P1779,Chai Mix (150g),Snacks & Beverages,42.98,77.82,S008,TechGadgets India,24,4,2025-10-06,liters,336
+P1434,Chai Mix (150g),Snacks & Beverages,140.51,188.7,S005,Apex Foods Pvt. Ltd.,93,3,2027-04-21,bottles,1184
+P1541,Sneakers (Size 9),Footwear,518.19,787.82,S007,HomeCare Solutions,3,11,2027-04-06,pairs,45
+P1382,Wheat Flour (10kg),Grocery & Staples,259.66,506.51,S007,HomeCare Solutions,25,4,2026-07-18,kg,454
+P1240,Dinner Set (4 Pcs),Utensils & Cookware,208.71,321.81,S007,HomeCare Solutions,1,7,2024-09-26,pcs,14
+P1395,Curd (500g),Dairy & Bakery,38.04,50.48,S003,Priya Grocers,48,2,2025-09-01,g,244
+P1052,Immunity Booster (Syrup 200ml),Health & Wellness,531.19,758.01,S004,Quick Supply India,2,4,2025-03-20,g,16
+P2259,Basic Headphones,Electronics,31763.72,64102.01,S001,Indian Wholesale Co.,1,19,2026-12-15,units,2
+P1454,Dinner Set (4 Pcs),Utensils & Cookware,920.3,1193.4,S001,Indian Wholesale Co.,2,9,2026-05-28,sets,38
+P1850,Frying Pan (Non-stick),Utensils & Cookware,912.66,1794.2,S001,Indian Wholesale Co.,2,7,2026-11-02,sets,35
+P1995,Dinner Set (4 Pcs),Utensils & Cookware,927.8,1286.15,S008,TechGadgets India,1,14,2025-12-06,pcs,26
+P1256,Apples (1kg),Fruits & Vegetables,90.09,221.0,S003,Priya Grocers,8,1,2025-05-05,g,32
+P1887,Jeans (Size 32),Apparel,1397.77,3475.35,S005,Apex Foods Pvt. Ltd.,6,24,2026-10-15,sets,64
+P1133,Cotton T-shirt (M),Apparel,1603.88,1943.75,S005,Apex Foods Pvt. Ltd.,1,14,2025-01-14,sets,1
+P2396,USB Cable (2m),Electronics,8082.66,10921.51,S008,TechGadgets India,1,7,2025-11-13,pcs,38
+P1984,Sneakers (Size 9),Footwear,1222.4,2439.35,S003,Priya Grocers,1,17,2027-03-16,pairs,20
+P1200,Mutton Curry Cut (500g),Meat & Seafood,228.74,305.39,S005,Apex Foods Pvt. Ltd.,7,1,2025-06-28,pcs,24
+P2281,Sandals (Size 8),Footwear,259.02,465.71,S007,HomeCare Solutions,1,13,2026-03-31,pairs,26
+P2468,Immunity Booster (Syrup 200ml),Health & Wellness,604.47,1095.64,S005,Apex Foods Pvt. Ltd.,15,7,2026-02-12,packs,147
+P1215,Socks (Pack of 3),Apparel,614.87,1375.5,S008,TechGadgets India,1,21,2024-09-26,sets,8
+P1877,Sneakers (Size 9),Footwear,916.04,1875.43,S003,Priya Grocers,1,21,2026-05-06,pcs,26
+P1676,Basic Headphones,Electronics,9444.27,19731.99,S003,Priya Grocers,1,15,2026-11-18,pcs,13
+P1861,Jeans (Size 32),Apparel,1717.8,2879.48,S004,Quick Supply India,3,20,2026-12-04,sets,45
+P1794,Garbage Bags (Medium Pack),Home & Kitchen,383.3,781.61,S005,Apex Foods Pvt. Ltd.,38,8,2026-09-06,rolls,291
+P1479,Sneakers (Size 9),Footwear,1094.46,2055.62,S003,Priya Grocers,4,13,2027-02-12,pairs,58
+P1634,Toothpaste (Herbal 150g),Personal Care,231.06,568.85,S007,HomeCare Solutions,20,4,2026-04-17,ml,222
+P1570,Lemons (250g),Fruits & Vegetables,89.46,183.45,S001,Indian Wholesale Co.,36,1,2025-09-10,dozens,146
+P1824,Agarbatti (Pack of 100),Home & Kitchen,344.0,767.58,S006,Health Essentials Ltd.,35,11,2026-04-21,packs,252
+P2002,Water Bottle (Steel),Utensils & Cookware,959.39,1156.93,S001,Indian Wholesale Co.,3,13,2027-02-14,sets,49
+P1057,Mutton Curry Cut (500g),Meat & Seafood,629.81,1050.96,S003,Priya Grocers,6,1,2025-05-24,kg,18
+P2122,USB Cable (2m),Electronics,1335.88,2322.2,S001,Indian Wholesale Co.,1,12,2026-09-10,units,3
+P1471,Potato Chips (Masala 75g),Snacks & Beverages,147.83,183.77,S002,Bharat Distributors,36,2,2027-05-07,bottles,543
+P2023,Cotton T-shirt (M),Apparel,1703.72,3869.42,S003,Priya Grocers,6,20,2026-12-25,pcs,74
+P1950,Frying Pan (Non-stick),Utensils & Cookware,244.4,403.9,S003,Priya Grocers,4,10,2026-08-26,sets,64
+P1884,Sandals (Size 8),Footwear,969.19,2285.03,S006,Health Essentials Ltd.,4,23,2026-04-09,pairs,74
+P1679,Dinner Set (4 Pcs),Utensils & Cookware,634.15,1086.39,S004,Quick Supply India,3,13,2026-01-22,sets,60
+P2147,Protein Powder (Whey 500g),Health & Wellness,673.89,907.61,S005,Apex Foods Pvt. Ltd.,14,11,2025-08-01,packs,112
+P2302,Sneakers (Size 9),Footwear,448.07,1042.43,S001,Indian Wholesale Co.,6,12,2026-11-29,pairs,78
+P1699,Chai Mix (150g),Snacks & Beverages,56.0,68.44,S007,HomeCare Solutions,79,4,2026-04-20,liters,1030
+P1847,Kitchen Towels (Roll),Home & Kitchen,639.12,856.86,S001,Indian Wholesale Co.,6,8,2027-01-21,kg,44
+P1309,Face Cream (Aloe Vera 50g),Personal Care,389.15,549.97,S008,TechGadgets India,3,6,2025-02-22,packs,39
+P1563,Laundry Detergent (1kg),Home & Kitchen,704.22,1256.04,S007,HomeCare Solutions,27,13,2027-01-10,bottles,159
+P1678,Bread (Whole Wheat 400g),Dairy & Bakery,32.37,55.57,S001,Indian Wholesale Co.,39,1,2025-07-18,pcs,210
+P1643,Spices Combo (100g),Grocery & Staples,221.46,512.54,S005,Apex Foods Pvt. Ltd.,22,4,2026-01-20,packets,458
+P1362,Pressure Cooker (3L),Utensils & Cookware,243.26,436.59,S006,Health Essentials Ltd.,1,5,2026-10-01,pcs,9
+P1059,Chicken Breast (500g),Meat & Seafood,391.19,534.37,S007,HomeCare Solutions,3,1,2025-06-22,kg,12
+P1280,Toothpaste (Herbal 150g),Personal Care,127.06,283.5,S003,Priya Grocers,1,4,2025-01-09,g,23
+P1750,Sneakers (Size 9),Footwear,531.72,725.3,S007,HomeCare Solutions,1,22,2027-05-02,pcs,13
+P1881,Butter (100g),Dairy & Bakery,137.26,206.25,S004,Quick Supply India,42,2,2025-07-13,g,204
+P1695,Butter (100g),Dairy & Bakery,59.34,125.66,S002,Bharat Distributors,15,1,2025-07-05,g,74
+P2192,Face Cream (Aloe Vera 50g),Personal Care,215.17,489.02,S003,Priya Grocers,12,7,2026-07-07,g,108
+P1237,Bananas (1 Dozen),Fruits & Vegetables,76.85,189.73,S001,Indian Wholesale Co.,8,1,2025-06-22,dozens,32
+P1524,Kitchen Towels (Roll),Home & Kitchen,766.5,930.02,S001,Indian Wholesale Co.,47,11,2025-09-14,pcs,275
+P1131,Extension Cord (5m),Electronics,22755.55,36361.58,S006,Health Essentials Ltd.,1,15,2024-10-24,units,47
+P2140,Onions (1kg),Fruits & Vegetables,52.09,91.34,S001,Indian Wholesale Co.,22,1,2025-07-05,bunches,89
+P2490,Basic Headphones,Electronics,15595.89,23086.35,S001,Indian Wholesale Co.,1,7,2027-06-18,units,11
+P2239,Agarbatti (Pack of 100),Home & Kitchen,148.77,291.24,S006,Health Essentials Ltd.,24,14,2026-03-01,kg,196
+P1849,Basic Headphones,Electronics,42116.99,56817.13,S001,Indian Wholesale Co.,1,14,2025-08-16,units,19
+P2439,Formal Shoes (Size 10),Footwear,377.13,799.19,S006,Health Essentials Ltd.,1,10,2027-06-25,pcs,24
+P1929,Energy Bar (Nut 50g),Snacks & Beverages,123.06,220.96,S001,Indian Wholesale Co.,51,1,2026-04-17,liters,776
+P2061,Mango Juice (1L),Snacks & Beverages,83.22,104.24,S004,Quick Supply India,22,1,2027-06-10,bottles,247
+P1811,Apples (1kg),Fruits & Vegetables,78.23,193.36,S006,Health Essentials Ltd.,6,1,2025-09-17,pcs,31
+P2213,Agarbatti (Pack of 100),Home & Kitchen,602.56,1360.25,S001,Indian Wholesale Co.,43,5,2026-05-31,rolls,260
+P2357,Water Bottle (Steel),Utensils & Cookware,765.53,1264.66,S005,Apex Foods Pvt. Ltd.,2,10,2025-09-22,pcs,38
+P2388,Water Bottle (Steel),Utensils & Cookware,363.84,643.21,S004,Quick Supply India,4,13,2025-08-07,sets,67
+P2221,Chai Mix (150g),Snacks & Beverages,34.12,70.03,S002,Bharat Distributors,38,1,2026-04-09,bottles,538
+P2126,Potato Chips (Masala 75g),Snacks & Beverages,81.38,142.96,S005,Apex Foods Pvt. Ltd.,60,4,2025-12-16,packets,895
+P1438,Casual Shirt (L),Apparel,1225.27,2028.22,S004,Quick Supply India,2,15,2026-03-24,pcs,23
+P2004,Fish Fillet (250g),Meat & Seafood,814.16,1015.67,S007,HomeCare Solutions,15,1,2025-09-18,g,53
+P2145,Basic Headphones,Electronics,2622.37,5304.22,S007,HomeCare Solutions,1,14,2026-01-13,units,49
+P2040,Tea Powder (250g),Grocery & Staples,176.35,290.44,S007,HomeCare Solutions,43,3,2026-08-29,packets,837
+P1023,Ghee (500ml),Grocery & Staples,179.67,324.61,S005,Apex Foods Pvt. Ltd.,1,3,2025-05-23,pcs,5
+P1960,Face Cream (Aloe Vera 50g),Personal Care,128.94,219.04,S005,Apex Foods Pvt. Ltd.,53,5,2025-10-29,ml,490
+P1501,Biscuits (Atta 100g),Snacks & Beverages,47.2,87.94,S006,Health Essentials Ltd.,27,4,2026-12-19,pcs,405
+P1786,Sneakers (Size 9),Footwear,957.98,1861.45,S004,Quick Supply India,1,23,2026-04-09,pairs,16
+P1980,Mineral Water (1L),Snacks & Beverages,57.87,85.54,S001,Indian Wholesale Co.,13,1,2027-04-25,pcs,175
+P2452,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,113.01,226.1,S004,Quick Supply India,101,4,2026-10-02,pcs,1178
+P1989,Jeans (Size 32),Apparel,1589.49,3402.1,S003,Priya Grocers,6,12,2026-06-20,pcs,93
+P2313,Lemons (250g),Fruits & Vegetables,60.4,79.99,S003,Priya Grocers,25,1,2025-09-24,dozens,111
+P2294,Socks (Pack of 3),Apparel,721.47,1667.64,S004,Quick Supply India,1,22,2026-12-23,sets,20
+P1375,Jeans (Size 32),Apparel,1878.57,3430.19,S001,Indian Wholesale Co.,2,21,2026-10-14,pcs,29
+P1484,Immunity Booster (Syrup 200ml),Health & Wellness,639.78,1352.02,S007,HomeCare Solutions,21,10,2025-08-05,bottles,158
+P1192,Formal Shoes (Size 10),Footwear,753.79,930.93,S008,TechGadgets India,1,24,2024-07-25,pairs,5
+P1472,Immunity Booster (Syrup 200ml),Health & Wellness,342.86,434.68,S003,Priya Grocers,7,10,2026-02-26,packs,73
+P2162,LED Bulb (9W),Electronics,23365.59,44782.44,S001,Indian Wholesale Co.,1,10,2027-03-17,units,35
+P1587,Jeans (Size 32),Apparel,1709.16,2470.6,S007,HomeCare Solutions,10,14,2026-03-21,pcs,132
+P1581,Mustard Oil (1L),Grocery & Staples,100.62,122.63,S004,Quick Supply India,19,2,2026-01-29,packets,342
+P1229,Floor Cleaner (1L),Home & Kitchen,479.87,863.16,S004,Quick Supply India,1,9,2024-07-13,pcs,12
+P2342,Frying Pan (Non-stick),Utensils & Cookware,626.73,955.03,S007,HomeCare Solutions,1,9,2026-11-18,pcs,12
+P1789,Salt (1kg),Grocery & Staples,213.63,394.42,S003,Priya Grocers,24,2,2027-02-25,pcs,594
+P1865,Protein Powder (Whey 500g),Health & Wellness,605.34,1459.33,S007,HomeCare Solutions,7,6,2026-03-11,bottles,71
+P2127,Mutton Curry Cut (500g),Meat & Seafood,535.26,686.57,S003,Priya Grocers,29,1,2025-08-17,g,89
+P1776,Mango Juice (1L),Snacks & Beverages,58.45,103.42,S004,Quick Supply India,18,4,2026-02-21,bottles,269
+P2069,Sugar (1kg),Grocery & Staples,194.84,401.7,S005,Apex Foods Pvt. Ltd.,13,2,2026-10-25,pcs,311
+P1327,Soap (Sandalwood 125g),Personal Care,192.42,410.67,S006,Health Essentials Ltd.,2,4,2025-04-28,ml,22
+P1354,Laundry Detergent (1kg),Home & Kitchen,372.81,636.7,S003,Priya Grocers,33,12,2027-06-26,bottles,203
+P1711,Chicken Breast (500g),Meat & Seafood,740.79,1213.8,S004,Quick Supply India,21,1,2025-08-16,g,82
+P2217,Cotton T-shirt (M),Apparel,1224.22,2569.18,S006,Health Essentials Ltd.,10,12,2026-08-11,sets,141
+P1136,Spinach (Bunch),Fruits & Vegetables,39.57,97.82,S006,Health Essentials Ltd.,4,1,2025-05-20,dozens,18
+P1627,Pressure Cooker (3L),Utensils & Cookware,363.41,882.01,S005,Apex Foods Pvt. Ltd.,1,7,2026-04-23,pcs,12
+P1455,Pressure Cooker (3L),Utensils & Cookware,827.07,1975.33,S004,Quick Supply India,2,11,2026-11-24,pcs,39
+P1825,Jeans (Size 32),Apparel,494.68,1210.03,S003,Priya Grocers,1,16,2027-02-14,pcs,18
+P1804,USB Cable (2m),Electronics,36172.69,57231.35,S004,Quick Supply India,1,10,2027-02-03,units,10
+P1261,Garbage Bags (Medium Pack),Home & Kitchen,644.6,1534.99,S007,HomeCare Solutions,1,14,2024-10-06,bottles,5
+P1883,Hair Oil (Coconut 300ml),Personal Care,332.19,815.67,S002,Bharat Distributors,24,6,2025-10-27,pcs,237
+P2263,Protein Powder (Whey 500g),Health & Wellness,695.47,1074.48,S007,HomeCare Solutions,5,11,2025-12-07,ml,46
+P1164,Frying Pan (Non-stick),Utensils & Cookware,684.45,1028.41,S008,TechGadgets India,1,11,2024-12-14,pcs,24
+P1982,Biscuits (Atta 100g),Snacks & Beverages,130.29,226.61,S005,Apex Foods Pvt. Ltd.,43,1,2025-08-31,packets,450
+P1640,Jeans (Size 32),Apparel,1400.14,2298.01,S002,Bharat Distributors,6,11,2027-03-13,sets,86
+P1338,Cheese Slice (10 Pcs Pack),Dairy & Bakery,51.13,121.85,S008,TechGadgets India,10,1,2025-05-21,dozens,49
+P1864,Immunity Booster (Syrup 200ml),Health & Wellness,295.38,455.19,S002,Bharat Distributors,11,11,2026-11-25,bottles,88
+P1971,USB Cable (2m),Electronics,30996.47,57162.14,S006,Health Essentials Ltd.,1,19,2027-06-15,units,31
+P1911,Dinner Set (4 Pcs),Utensils & Cookware,959.3,1748.25,S006,Health Essentials Ltd.,3,11,2025-10-05,sets,75
+P1691,Soap (Sandalwood 125g),Personal Care,305.95,583.55,S008,TechGadgets India,14,4,2026-12-15,packs,171
+P1196,Mutton Curry Cut (500g),Meat & Seafood,689.34,895.77,S007,HomeCare Solutions,12,1,2025-05-06,kg,42
+P2457,Tea Powder (250g),Grocery & Staples,205.68,284.65,S007,HomeCare Solutions,25,3,2027-04-17,kg,515
+P1246,Spinach (Bunch),Fruits & Vegetables,50.57,63.22,S002,Bharat Distributors,7,1,2025-05-17,pcs,36
+P1609,Mango Juice (1L),Snacks & Beverages,38.0,83.17,S001,Indian Wholesale Co.,60,1,2025-08-29,bottles,818
+P1393,Laundry Detergent (1kg),Home & Kitchen,759.75,1347.96,S004,Quick Supply India,7,13,2026-03-30,packs,43
+P1726,Formal Shoes (Size 10),Footwear,398.24,758.41,S008,TechGadgets India,6,18,2026-12-27,pairs,91
+P1022,Garbage Bags (Medium Pack),Home & Kitchen,508.45,1001.41,S002,Bharat Distributors,5,11,2024-07-21,pcs,41
+P1764,Bananas (1 Dozen),Fruits & Vegetables,82.35,156.7,S005,Apex Foods Pvt. Ltd.,13,1,2025-09-22,dozens,59
+P1108,Cotton T-shirt (M),Apparel,1253.48,1637.48,S002,Bharat Distributors,1,10,2024-08-25,pcs,16
+P2121,Hand Wash (Neem 250ml),Personal Care,190.91,421.0,S003,Priya Grocers,13,6,2026-12-09,bottles,123
+P2391,Sandals (Size 8),Footwear,704.87,1528.29,S006,Health Essentials Ltd.,4,23,2026-02-24,pairs,74
+P2168,USB Cable (2m),Electronics,8700.11,13933.17,S004,Quick Supply India,1,7,2027-05-02,units,1
+P2200,Yogurt (Fruit 150g),Dairy & Bakery,108.14,266.91,S002,Bharat Distributors,9,2,2025-08-03,g,60
+P1894,Casual Shirt (L),Apparel,1114.16,2220.96,S004,Quick Supply India,10,10,2025-09-18,sets,140
+P2134,Potatoes (1kg),Fruits & Vegetables,42.98,97.07,S007,HomeCare Solutions,35,1,2025-07-19,dozens,160
+P1803,Matchbox (Pack of 10),Home & Kitchen,210.49,275.43,S007,HomeCare Solutions,10,11,2026-07-26,packs,75
+P1157,Casual Shirt (L),Apparel,1458.65,2354.85,S007,HomeCare Solutions,3,14,2025-01-16,sets,48
+P1654,Coriander (Bunch),Fruits & Vegetables,68.87,118.64,S001,Indian Wholesale Co.,12,1,2025-07-14,g,54
+P1508,Frying Pan (Non-stick),Utensils & Cookware,269.77,570.31,S008,TechGadgets India,1,10,2025-09-02,pcs,31
+P1194,Basmati Rice (5kg),Grocery & Staples,234.62,291.71,S005,Apex Foods Pvt. Ltd.,1,2,2025-06-19,pcs,34
+P1037,Dishwashing Liquid (500ml),Home & Kitchen,324.41,725.59,S002,Bharat Distributors,1,13,2025-02-26,packs,9
+P1485,Hand Wash (Neem 250ml),Personal Care,302.68,511.96,S004,Quick Supply India,6,9,2026-08-14,ml,72
+P1940,Chicken Breast (500g),Meat & Seafood,709.27,1285.9,S001,Indian Wholesale Co.,22,1,2025-07-09,kg,76
+P1942,Coffee (100g),Grocery & Staples,50.83,77.79,S002,Bharat Distributors,54,6,2026-02-04,kg,997
+P1493,Eggs (6 Pcs),Dairy & Bakery,77.98,137.47,S004,Quick Supply India,12,1,2025-09-12,packs,58
+P2235,Tea Powder (250g),Grocery & Staples,273.3,485.11,S002,Bharat Distributors,18,5,2026-04-02,packets,336
+P2167,Shampoo (Anti-dandruff 200ml),Personal Care,257.49,319.89,S006,Health Essentials Ltd.,36,4,2025-12-09,bottles,367
+P1274,Extension Cord (5m),Electronics,47845.7,70245.63,S008,TechGadgets India,1,18,2024-10-26,units,36
+P2101,Floor Cleaner (1L),Home & Kitchen,356.66,879.69,S001,Indian Wholesale Co.,18,14,2026-09-06,pcs,137
+P2123,Eggs (6 Pcs),Dairy & Bakery,40.93,100.94,S006,Health Essentials Ltd.,70,2,2025-09-05,pcs,299
+P2394,Pressure Cooker (3L),Utensils & Cookware,892.0,1112.3,S004,Quick Supply India,1,12,2026-09-11,pcs,5
+P2211,Immunity Booster (Syrup 200ml),Health & Wellness,269.9,660.7,S002,Bharat Distributors,12,4,2027-02-03,bottles,109
+P1186,Tea Powder (250g),Grocery & Staples,147.39,333.15,S007,HomeCare Solutions,1,4,2024-09-01,pcs,32
+P1545,Basic Headphones,Electronics,33736.6,50116.87,S008,TechGadgets India,1,16,2025-09-05,units,49
+P1324,Yogurt (Fruit 150g),Dairy & Bakery,187.27,379.12,S003,Priya Grocers,1,1,2025-06-25,pcs,5
+P2111,Casual Shirt (L),Apparel,389.05,586.91,S007,HomeCare Solutions,5,12,2026-05-25,sets,93
+P1063,Immunity Booster (Syrup 200ml),Health & Wellness,651.95,1122.87,S002,Bharat Distributors,4,5,2025-06-04,g,41
+P1741,Formal Shoes (Size 10),Footwear,230.06,521.33,S008,TechGadgets India,4,23,2026-01-30,pcs,50
+P1693,Floor Cleaner (1L),Home & Kitchen,368.99,703.16,S007,HomeCare Solutions,22,8,2026-02-12,pcs,182
+P2251,Cola (2L),Snacks & Beverages,146.62,237.47,S008,TechGadgets India,81,4,2027-04-28,packets,1087
+P1224,Tea Powder (250g),Grocery & Staples,90.39,119.8,S002,Bharat Distributors,1,2,2025-05-02,packets,35
+P1365,Soap (Sandalwood 125g),Personal Care,160.73,235.36,S006,Health Essentials Ltd.,20,9,2025-09-08,pcs,216
+P1360,USB Cable (2m),Electronics,48881.12,89619.1,S005,Apex Foods Pvt. Ltd.,1,14,2025-11-19,units,13
+P1469,Lemons (250g),Fruits & Vegetables,24.78,58.07,S004,Quick Supply India,11,1,2025-07-17,kg,53
+P1874,Energy Bar (Nut 50g),Snacks & Beverages,121.42,174.57,S003,Priya Grocers,48,1,2027-04-06,packets,632
+P1829,Laundry Detergent (1kg),Home & Kitchen,572.13,936.1,S008,TechGadgets India,5,11,2025-09-24,rolls,36
+P1459,Sugar (1kg),Grocery & Staples,205.71,268.56,S001,Indian Wholesale Co.,36,2,2025-12-22,kg,716
+P1714,Paneer (200g),Dairy & Bakery,85.35,211.96,S008,TechGadgets India,33,2,2025-07-31,packs,173
+P1305,Mutton Curry Cut (500g),Meat & Seafood,392.16,857.59,S002,Bharat Distributors,8,1,2025-05-30,pcs,29
+P1769,Agarbatti (Pack of 100),Home & Kitchen,115.52,138.67,S003,Priya Grocers,8,6,2027-02-25,pcs,54
+P2427,Casual Shirt (L),Apparel,424.26,759.62,S002,Bharat Distributors,4,21,2025-08-09,pcs,55
+P1109,Sandals (Size 8),Footwear,652.65,876.8,S002,Bharat Distributors,1,21,2025-01-09,pairs,13
+P1446,LED Bulb (9W),Electronics,45244.53,112205.68,S003,Priya Grocers,1,7,2027-01-30,pcs,2
+P1419,Agarbatti (Pack of 100),Home & Kitchen,412.83,1031.39,S006,Health Essentials Ltd.,40,13,2026-04-22,bottles,233
+P1385,Wheat Flour (10kg),Grocery & Staples,121.03,189.79,S003,Priya Grocers,25,2,2026-01-19,kg,551
+P1931,Mango Juice (1L),Snacks & Beverages,36.55,58.54,S001,Indian Wholesale Co.,78,1,2026-08-01,bottles,971
+P1414,Garbage Bags (Medium Pack),Home & Kitchen,268.07,474.3,S001,Indian Wholesale Co.,45,8,2026-05-26,kg,293
+P2032,Spices Combo (100g),Grocery & Staples,96.09,116.13,S003,Priya Grocers,29,4,2027-04-02,pcs,718
+P1509,Potato Chips (Masala 75g),Snacks & Beverages,87.0,183.67,S006,Health Essentials Ltd.,12,2,2025-12-09,liters,166
+P1904,Kitchen Towels (Roll),Home & Kitchen,385.92,795.97,S005,Apex Foods Pvt. Ltd.,16,8,2026-05-16,kg,117
+P2063,Onions (1kg),Fruits & Vegetables,65.83,151.24,S006,Health Essentials Ltd.,13,1,2025-09-19,kg,62
+P1812,Dinner Set (4 Pcs),Utensils & Cookware,251.94,520.09,S005,Apex Foods Pvt. Ltd.,1,12,2027-01-14,pcs,18
+P1017,Toothpaste (Herbal 150g),Personal Care,312.79,460.44,S008,TechGadgets India,1,9,2025-05-30,bottles,6
+P1953,Sandals (Size 8),Footwear,1201.11,2241.67,S002,Bharat Distributors,5,15,2026-05-22,pcs,83
+P1245,Cotton T-shirt (M),Apparel,1458.75,2511.82,S007,HomeCare Solutions,2,21,2024-07-08,sets,32
+P2258,Wheat Flour (10kg),Grocery & Staples,54.79,88.85,S008,TechGadgets India,44,5,2026-12-19,pcs,806
+P1050,Eggs (6 Pcs),Dairy & Bakery,168.63,420.75,S008,TechGadgets India,3,2,2025-06-05,packs,17
+P1146,Sneakers (Size 9),Footwear,227.93,310.67,S001,Indian Wholesale Co.,2,22,2024-12-02,pairs,28
+P1470,Cotton T-shirt (M),Apparel,1679.68,3404.15,S001,Indian Wholesale Co.,2,21,2027-03-25,pcs,25
+P1487,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,587.28,1202.68,S002,Bharat Distributors,26,6,2026-11-16,packs,224
+P2071,Jeans (Size 32),Apparel,949.09,1353.93,S001,Indian Wholesale Co.,9,16,2026-08-08,sets,136
+P1198,Floor Cleaner (1L),Home & Kitchen,365.72,739.34,S002,Bharat Distributors,1,11,2025-05-29,bottles,0
+P1396,Chicken Breast (500g),Meat & Seafood,786.75,1470.48,S004,Quick Supply India,18,1,2025-08-25,kg,62
+P2166,Sneakers (Size 9),Footwear,903.71,1277.74,S005,Apex Foods Pvt. Ltd.,1,16,2025-08-26,pairs,17
+P2297,Wheat Flour (10kg),Grocery & Staples,237.8,517.69,S008,TechGadgets India,13,6,2026-02-10,packets,315
+P1606,Dishwashing Liquid (500ml),Home & Kitchen,283.18,396.88,S007,HomeCare Solutions,27,10,2026-02-14,kg,179
+P2323,Potatoes (1kg),Fruits & Vegetables,88.03,198.69,S001,Indian Wholesale Co.,30,1,2025-07-09,g,133
+P2119,Mineral Water (1L),Snacks & Beverages,29.02,43.16,S003,Priya Grocers,28,3,2025-09-30,pcs,381
+P1945,Spinach (Bunch),Fruits & Vegetables,74.09,182.35,S003,Priya Grocers,49,1,2025-09-16,dozens,197
+P2486,Potato Chips (Masala 75g),Snacks & Beverages,62.44,147.81,S003,Priya Grocers,43,2,2025-12-01,pcs,607
+P1232,Yogurt (Fruit 150g),Dairy & Bakery,52.08,74.98,S006,Health Essentials Ltd.,5,2,2025-06-22,g,22
+P1293,Eggs (6 Pcs),Dairy & Bakery,109.75,165.66,S003,Priya Grocers,1,1,2025-05-16,packs,0
+P2176,Frying Pan (Non-stick),Utensils & Cookware,199.74,411.6,S003,Priya Grocers,1,9,2026-07-01,pcs,6
+P2334,Sneakers (Size 9),Footwear,1254.28,2810.91,S008,TechGadgets India,1,17,2026-09-10,pairs,16
+P1083,Formal Shoes (Size 10),Footwear,1025.63,2124.97,S007,HomeCare Solutions,1,23,2025-06-20,pairs,15
+P1176,Formal Shoes (Size 10),Footwear,523.95,1221.67,S006,Health Essentials Ltd.,3,19,2025-02-02,pairs,36
+P1813,Onions (1kg),Fruits & Vegetables,57.18,102.77,S004,Quick Supply India,28,1,2025-07-17,g,100
+P1611,Protein Powder (Whey 500g),Health & Wellness,219.74,491.55,S004,Quick Supply India,15,7,2026-02-07,g,140
+P2288,Sandals (Size 8),Footwear,1412.53,2107.39,S002,Bharat Distributors,3,21,2027-01-19,pairs,40
+P1361,Tea Powder (250g),Grocery & Staples,179.09,246.13,S007,HomeCare Solutions,6,3,2026-07-17,kg,126
+P1542,Mutton Curry Cut (500g),Meat & Seafood,590.98,1141.75,S003,Priya Grocers,11,1,2025-07-19,g,34
+P1979,Curd (500g),Dairy & Bakery,45.72,84.99,S006,Health Essentials Ltd.,22,1,2025-07-07,g,122
+P2129,Agarbatti (Pack of 100),Home & Kitchen,483.82,1077.59,S004,Quick Supply India,7,8,2025-11-13,bottles,43
+P2095,Dinner Set (4 Pcs),Utensils & Cookware,905.38,2174.12,S003,Priya Grocers,4,5,2027-01-15,sets,67
+P1019,Water Bottle (Steel),Utensils & Cookware,253.29,568.18,S001,Indian Wholesale Co.,1,13,2024-10-20,pcs,28
+P2390,Mineral Water (1L),Snacks & Beverages,52.75,119.3,S003,Priya Grocers,24,4,2026-10-22,pcs,266
+P1442,Face Cream (Aloe Vera 50g),Personal Care,319.14,683.39,S005,Apex Foods Pvt. Ltd.,29,3,2026-02-13,g,337
+P1368,Apples (1kg),Fruits & Vegetables,46.49,91.28,S004,Quick Supply India,14,1,2025-09-10,pcs,55
+P1320,Pressure Cooker (3L),Utensils & Cookware,713.64,1201.05,S006,Health Essentials Ltd.,1,9,2024-08-19,sets,24
+P1118,Spinach (Bunch),Fruits & Vegetables,64.4,122.45,S007,HomeCare Solutions,1,1,2025-05-13,kg,0
+P1048,Ghee (500ml),Grocery & Staples,144.21,317.32,S006,Health Essentials Ltd.,1,2,2024-11-26,pcs,13
+P2097,Sandals (Size 8),Footwear,344.85,585.47,S005,Apex Foods Pvt. Ltd.,3,10,2025-11-26,pairs,50
+P1145,Mutton Curry Cut (500g),Meat & Seafood,652.42,1586.72,S005,Apex Foods Pvt. Ltd.,4,1,2025-06-16,g,13
+P1125,Potato Chips (Masala 75g),Snacks & Beverages,56.8,122.5,S001,Indian Wholesale Co.,3,4,2025-01-30,liters,39
+P1211,Cotton T-shirt (M),Apparel,1183.05,1866.77,S003,Priya Grocers,3,20,2025-03-10,sets,37
+P2403,Salt (1kg),Grocery & Staples,142.44,253.3,S003,Priya Grocers,44,3,2027-05-26,kg,794
+P2305,Coriander (Bunch),Fruits & Vegetables,58.71,136.88,S004,Quick Supply India,39,1,2025-09-25,pcs,192
+P1826,Toilet Cleaner (500ml),Home & Kitchen,252.74,508.01,S003,Priya Grocers,38,6,2027-01-08,pcs,279
+P2398,LED Bulb (9W),Electronics,24233.2,38472.77,S002,Bharat Distributors,1,17,2026-12-02,units,26
+P1915,Cotton T-shirt (M),Apparel,1673.69,2804.17,S002,Bharat Distributors,5,17,2025-12-20,sets,66
+P1333,Potatoes (1kg),Fruits & Vegetables,87.34,189.1,S007,HomeCare Solutions,1,1,2025-05-23,g,5
+P1345,LED Bulb (9W),Electronics,12814.77,26206.23,S005,Apex Foods Pvt. Ltd.,1,16,2024-10-24,pcs,7
+P1162,Immunity Booster (Syrup 200ml),Health & Wellness,440.4,742.87,S007,HomeCare Solutions,1,6,2025-02-18,bottles,8
+P1856,USB Cable (2m),Electronics,8632.55,20968.24,S002,Bharat Distributors,1,17,2027-04-10,pcs,15
+P1279,Spinach (Bunch),Fruits & Vegetables,66.61,141.83,S003,Priya Grocers,6,1,2025-05-03,dozens,31
+P1292,Dinner Set (4 Pcs),Utensils & Cookware,452.12,845.69,S002,Bharat Distributors,1,7,2024-10-24,sets,10
+P1016,Agarbatti (Pack of 100),Home & Kitchen,612.85,1426.9,S002,Bharat Distributors,6,11,2024-12-15,bottles,40
+P1578,Soap (Sandalwood 125g),Personal Care,236.65,389.28,S002,Bharat Distributors,25,3,2027-06-09,pcs,253
+P1127,Wheat Flour (10kg),Grocery & Staples,134.66,291.22,S003,Priya Grocers,1,2,2024-11-12,packets,21
+P1272,USB Cable (2m),Electronics,42137.69,84995.04,S005,Apex Foods Pvt. Ltd.,1,12,2025-03-26,pcs,25
+P1332,Garbage Bags (Medium Pack),Home & Kitchen,603.22,1463.03,S004,Quick Supply India,2,7,2025-02-14,rolls,13
+P1792,Pressure Cooker (3L),Utensils & Cookware,540.77,650.04,S002,Bharat Distributors,1,13,2025-12-25,sets,25
+P1143,Hair Oil (Coconut 300ml),Personal Care,385.09,837.29,S005,Apex Foods Pvt. Ltd.,3,5,2025-04-08,bottles,42
+P1087,Protein Powder (Whey 500g),Health & Wellness,571.6,1095.66,S005,Apex Foods Pvt. Ltd.,3,9,2024-12-07,g,29
+P1351,Eggs (6 Pcs),Dairy & Bakery,100.19,244.75,S004,Quick Supply India,8,1,2025-07-18,dozens,53
+P2291,Bread (Whole Wheat 400g),Dairy & Bakery,132.08,221.71,S004,Quick Supply India,12,1,2025-07-06,liters,69
+P1890,Curd (500g),Dairy & Bakery,91.34,118.95,S005,Apex Foods Pvt. Ltd.,11,1,2025-09-26,g,63
+P1646,Garbage Bags (Medium Pack),Home & Kitchen,338.68,438.32,S006,Health Essentials Ltd.,37,13,2025-08-07,rolls,247
+P1899,USB Cable (2m),Electronics,4246.12,9053.58,S005,Apex Foods Pvt. Ltd.,1,11,2026-10-20,units,47
+P1797,Protein Powder (Whey 500g),Health & Wellness,217.99,466.19,S005,Apex Foods Pvt. Ltd.,12,5,2026-03-29,pcs,87
+P1128,Lemons (250g),Fruits & Vegetables,79.83,106.86,S006,Health Essentials Ltd.,7,1,2025-06-17,dozens,30
+P2300,Toothpaste (Herbal 150g),Personal Care,295.81,444.44,S003,Priya Grocers,6,8,2026-02-01,packs,76
+P2407,Mutton Curry Cut (500g),Meat & Seafood,374.31,470.03,S001,Indian Wholesale Co.,10,1,2025-09-11,kg,45
+P1412,Garbage Bags (Medium Pack),Home & Kitchen,410.29,825.01,S002,Bharat Distributors,22,11,2026-04-24,bottles,133
+P1602,Matchbox (Pack of 10),Home & Kitchen,405.25,989.89,S007,HomeCare Solutions,29,11,2027-06-01,kg,197
+P2268,Matchbox (Pack of 10),Home & Kitchen,722.63,1633.16,S005,Apex Foods Pvt. Ltd.,4,11,2026-08-19,rolls,34
+P1707,Milk (toned 1L),Dairy & Bakery,107.91,203.33,S007,HomeCare Solutions,51,1,2025-08-16,g,291
+P2109,Casual Shirt (L),Apparel,326.09,423.63,S002,Bharat Distributors,13,18,2026-04-05,sets,144
+P1034,Chicken Breast (500g),Meat & Seafood,793.12,1652.51,S006,Health Essentials Ltd.,6,1,2025-06-04,g,23
+P2207,Chai Mix (150g),Snacks & Beverages,32.49,44.35,S004,Quick Supply India,52,2,2025-10-19,packets,574
+P1496,Spices Combo (100g),Grocery & Staples,194.41,355.27,S005,Apex Foods Pvt. Ltd.,12,5,2025-08-22,pcs,282
+P1235,Matchbox (Pack of 10),Home & Kitchen,568.2,1392.53,S002,Bharat Distributors,5,9,2024-10-14,bottles,37
+P1336,Basic Headphones,Electronics,42801.88,62929.2,S002,Bharat Distributors,1,10,2024-09-06,units,17
+P1902,Butter (100g),Dairy & Bakery,107.55,137.1,S006,Health Essentials Ltd.,28,2,2025-08-28,pcs,122
+P1805,USB Cable (2m),Electronics,45600.34,62005.26,S005,Apex Foods Pvt. Ltd.,1,18,2025-08-09,units,48
+P1907,Spices Combo (100g),Grocery & Staples,257.33,324.52,S007,HomeCare Solutions,34,4,2027-02-17,packets,641
+P2316,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,211.5,512.01,S006,Health Essentials Ltd.,15,10,2026-01-10,g,113
+P2194,Toilet Cleaner (500ml),Home & Kitchen,164.63,345.84,S004,Quick Supply India,7,8,2026-09-12,packs,49
+P2142,Laundry Detergent (1kg),Home & Kitchen,132.84,280.42,S006,Health Essentials Ltd.,21,11,2027-03-27,rolls,180
+P1661,Hand Wash (Neem 250ml),Personal Care,92.83,187.05,S006,Health Essentials Ltd.,18,4,2027-03-19,pcs,193
+P2148,Laundry Detergent (1kg),Home & Kitchen,109.66,227.01,S002,Bharat Distributors,31,8,2026-10-11,rolls,198
+P1495,Wheat Flour (10kg),Grocery & Staples,265.3,417.93,S001,Indian Wholesale Co.,49,2,2025-11-04,packets,902
+P1190,Bread (Whole Wheat 400g),Dairy & Bakery,141.77,198.52,S006,Health Essentials Ltd.,6,1,2025-05-04,dozens,29
+P1722,Milk (toned 1L),Dairy & Bakery,95.16,148.89,S002,Bharat Distributors,22,1,2025-09-12,dozens,106
+P2244,Cola (2L),Snacks & Beverages,46.12,76.46,S001,Indian Wholesale Co.,100,2,2025-12-29,ml,1097
+P1593,Salt (1kg),Grocery & Staples,218.99,274.46,S005,Apex Foods Pvt. Ltd.,37,6,2027-06-16,pcs,827
+P1002,Agarbatti (Pack of 100),Home & Kitchen,195.15,428.55,S006,Health Essentials Ltd.,3,13,2024-08-23,pcs,33
+P1547,Dinner Set (4 Pcs),Utensils & Cookware,479.04,607.77,S004,Quick Supply India,1,7,2026-03-31,pcs,29
+P2079,Socks (Pack of 3),Apparel,1440.56,1841.34,S007,HomeCare Solutions,9,22,2025-08-22,pcs,104
+P1330,Energy Bar (Nut 50g),Snacks & Beverages,46.33,84.63,S008,TechGadgets India,1,4,2025-03-25,ml,11
+P1594,Immunity Booster (Syrup 200ml),Health & Wellness,453.36,621.1,S006,Health Essentials Ltd.,27,5,2025-08-28,pcs,249
+P1962,Hand Wash (Neem 250ml),Personal Care,165.5,367.53,S007,HomeCare Solutions,24,4,2026-03-26,g,238
+P1458,Laundry Detergent (1kg),Home & Kitchen,419.64,622.77,S003,Priya Grocers,24,9,2025-10-20,bottles,198
+P1680,Casual Shirt (L),Apparel,1384.08,3124.44,S001,Indian Wholesale Co.,1,10,2026-05-12,sets,21
+P1106,Matchbox (Pack of 10),Home & Kitchen,285.94,604.79,S005,Apex Foods Pvt. Ltd.,1,9,2025-03-05,pcs,12
+P2034,Bread (Whole Wheat 400g),Dairy & Bakery,48.07,95.08,S007,HomeCare Solutions,37,1,2025-07-16,g,172
+P2290,Namkeen (Aloo Bhujia 150g),Snacks & Beverages,52.19,105.68,S004,Quick Supply India,41,3,2025-09-18,liters,574
+P1876,Multivitamin Tablets (Bottle 60pcs),Health & Wellness,227.51,440.28,S008,TechGadgets India,8,4,2026-12-25,bottles,60
+P1159,Bananas (1 Dozen),Fruits & Vegetables,46.61,83.91,S003,Priya Grocers,1,1,2025-06-20,kg,0
+P1394,Cheese Slice (10 Pcs Pack),Dairy & Bakery,77.49,171.12,S003,Priya Grocers,60,1,2025-09-18,g,251
+P1532,Toothpaste (Herbal 150g),Personal Care,381.76,741.53,S005,Apex Foods Pvt. Ltd.,37,7,2026-09-29,bottles,318
+P2010,Cotton T-shirt (M),Apparel,659.24,1086.91,S002,Bharat Distributors,3,18,2027-05-03,pcs,38
+P1978,Basic Headphones,Electronics,11718.9,17189.25,S001,Indian Wholesale Co.,1,8,2026-07-13,pcs,25
+P1632,Potatoes (1kg),Fruits & Vegetables,64.0,157.23,S005,Apex Foods Pvt. Ltd.,23,1,2025-07-18,bunches,91
+P1228,Floor Cleaner (1L),Home & Kitchen,471.48,758.78,S002,Bharat Distributors,4,10,2024-11-07,bottles,28
+P2066,Fish Fillet (250g),Meat & Seafood,220.31,513.27,S004,Quick Supply India,11,1,2025-08-23,g,34
+P1926,Spices Combo (100g),Grocery & Staples,207.02,293.03,S002,Bharat Distributors,37,6,2025-10-13,kg,814
+P2459,Frying Pan (Non-stick),Utensils & Cookware,874.18,1496.15,S004,Quick Supply India,4,5,2027-04-29,sets,69
+P1806,Wheat Flour (10kg),Grocery & Staples,288.96,627.16,S008,TechGadgets India,28,5,2026-01-04,packets,722
+P1533,Socks (Pack of 3),Apparel,1727.59,2368.58,S001,Indian Wholesale Co.,1,13,2025-12-15,pcs,24
+P1514,Spinach (Bunch),Fruits & Vegetables,98.14,153.08,S008,TechGadgets India,40,1,2025-08-14,pcs,135
+P2476,Formal Shoes (Size 10),Footwear,763.02,1385.24,S006,Health Essentials Ltd.,5,15,2026-02-23,pcs,92
+P2438,Agarbatti (Pack of 100),Home & Kitchen,570.05,1327.73,S006,Health Essentials Ltd.,48,12,2027-05-03,kg,290
+P1416,Butter (100g),Dairy & Bakery,112.8,150.41,S007,HomeCare Solutions,39,2,2025-09-22,g,218
+P2311,Dinner Set (4 Pcs),Utensils & Cookware,418.84,552.3,S008,TechGadgets India,4,7,2027-03-15,pcs,60
+P1565,Sandals (Size 8),Footwear,567.55,1299.6,S006,Health Essentials Ltd.,4,11,2026-09-11,pcs,71
+P2022,Yogurt (Fruit 150g),Dairy & Bakery,61.59,133.0,S007,HomeCare Solutions,11,2,2025-09-08,packs,61
+P1619,Biscuits (Atta 100g),Snacks & Beverages,30.51,52.17,S005,Apex Foods Pvt. Ltd.,92,2,2027-06-01,packets,1122
+P1625,Extension Cord (5m),Electronics,37514.9,83928.68,S001,Indian Wholesale Co.,1,10,2026-11-06,units,16
+P2204,Pressure Cooker (3L),Utensils & Cookware,893.32,1428.57,S006,Health Essentials Ltd.,2,5,2027-01-12,pcs,48
+P1816,Sandals (Size 8),Footwear,1479.57,3606.54,S003,Priya Grocers,4,21,2026-07-23,pcs,64
+P1042,Sandals (Size 8),Footwear,1451.64,3467.58,S008,TechGadgets India,3,24,2025-01-19,pairs,45
+P1687,Cola (2L),Snacks & Beverages,76.29,122.14,S003,Priya Grocers,66,2,2026-07-07,ml,720
+P2027,Soap (Sandalwood 125g),Personal Care,271.83,548.43,S002,Bharat Distributors,19,9,2026-12-03,bottles,209
+P2248,Mineral Water (1L),Snacks & Beverages,42.42,75.72,S006,Health Essentials Ltd.,64,2,2027-01-23,pcs,726
+P1592,Sandals (Size 8),Footwear,950.66,1352.77,S008,TechGadgets India,1,23,2026-05-10,pcs,18
+P1466,Toor Dal (1kg),Grocery & Staples,113.63,233.6,S001,Indian Wholesale Co.,34,4,2027-03-18,pcs,820
+P1888,Cotton T-shirt (M),Apparel,1628.15,2273.22,S007,HomeCare Solutions,3,11,2025-09-10,pcs,46
+P1510,Formal Shoes (Size 10),Footwear,518.28,1292.83,S006,Health Essentials Ltd.,1,11,2025-09-19,pairs,30
+P1287,Milk (toned 1L),Dairy & Bakery,130.06,228.54,S007,HomeCare Solutions,7,1,2025-06-20,g,35
+P2110,Curd (500g),Dairy & Bakery,68.42,148.01,S002,Bharat Distributors,12,1,2025-09-18,pcs,56
+P1204,Fish Fillet (250g),Meat & Seafood,631.29,1268.42,S001,Indian Wholesale Co.,13,1,2025-05-03,pcs,41
+P2499,Cotton T-shirt (M),Apparel,972.71,1979.09,S006,Health Essentials Ltd.,9,18,2025-09-21,pcs,106
+P1549,Coriander (Bunch),Fruits & Vegetables,56.35,97.51,S002,Bharat Distributors,16,1,2025-09-01,dozens,59
+P2124,Mutton Curry Cut (500g),Meat & Seafood,349.7,512.28,S003,Priya Grocers,12,1,2025-07-11,pcs,44
+P1749,Water Bottle (Steel),Utensils & Cookware,722.63,958.36,S006,Health Essentials Ltd.,2,6,2026-07-27,pcs,38
+P1885,Frying Pan (Non-stick),Utensils & Cookware,637.69,1532.42,S004,Quick Supply India,2,11,2026-01-05,sets,41
+P1613,Hair Oil (Coconut 300ml),Personal Care,301.96,406.45,S008,TechGadgets India,45,3,2026-10-22,g,441
+P1269,Eggs (6 Pcs),Dairy & Bakery,166.45,259.24,S001,Indian Wholesale Co.,3,2,2025-05-25,packs,21
+P1350,Chai Mix (150g),Snacks & Beverages,21.99,31.63,S001,Indian Wholesale Co.,87,4,2026-09-29,liters,1064
+P1832,Mutton Curry Cut (500g),Meat & Seafood,481.69,583.2,S003,Priya Grocers,15,1,2025-08-10,kg,59

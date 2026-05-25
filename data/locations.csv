@@ -1,0 +1,6 @@
+LocationID,LocationName,City,State,Capacity_sqm
+LOC01,Main Warehouse - Mumbai,Mumbai,Maharashtra,5000
+LOC02,Retail Store - Delhi,Delhi,Delhi,1500
+LOC03,Distribution Center - Bengaluru,Bengaluru,Karnataka,3000
+LOC04,Storehouse - Chennai,Chennai,Tamil Nadu,1000
+LOC05,Local Hub - Kolkata,Kolkata,West Bengal,800
